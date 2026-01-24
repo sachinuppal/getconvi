@@ -1,0 +1,227 @@
+[
+    {
+        "title": "Games",
+        "slug": "games",
+        "one_liner": "Gamified systems that reveal behavior, sharpen incentives, and drive repeat action.",
+        "description": "Gamified systems that reveal behavior, sharpen incentives, and drive repeat action.",
+        "enables": [
+            "Fast onboarding and learning curves",
+            "Motivation through progress and feedback",
+            "Repeat engagement without coercion"
+        ],
+        "why_it_matters": "Games expose truth faster than dashboards.",
+        "applied_in": [
+            "pokershark",
+            "tripsygames",
+            "housegames"
+        ],
+        "badge_style": "pink",
+        "hero_image": "/cms-uploads/capability-visual---games-zt7lav.jpg",
+        "seo": {
+            "meta_title": "Games Capability | Getconvi",
+            "meta_description": "Getconvi builds gamified platforms for skill-building and social play, enabling fast onboarding and deep engagement."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Games Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Games capability focuses on building gamified systems that drive learning, engagement, and repeat behavior through play mechanics."
+        }
+    },
+    {
+        "title": "Entertainment",
+        "slug": "entertainment",
+        "one_liner": "Interactive content and experience design that earns attention and sustains interest.",
+        "description": "Interactive content and experience design that earns attention and sustains interest.",
+        "enables": [
+            "Emotional connection",
+            "Habitual consumption",
+            "Long-form attention"
+        ],
+        "why_it_matters": "Retention is designed, not demanded.",
+        "applied_in": [
+            "nexocircle",
+            "astrolife",
+            "nrikosh"
+        ],
+        "badge_style": "blue",
+        "hero_image": "/cms-uploads/capability-visual---entertainm-8shwen.jpg",
+        "seo": {
+            "meta_title": "Entertainment Capability | Getconvi",
+            "meta_description": "Getconvi builds entertainment platforms designed for engagement, retention, and emotional connection."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Entertainment Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Entertainment capability focuses on creating interactive content and experiences that drive habitual consumption and retention."
+        }
+    },
+    {
+        "title": "Technology",
+        "slug": "technology",
+        "one_liner": "Core software, AI workflows, and scalable systems built to execute ideas reliably.",
+        "description": "Core software, AI workflows, and scalable systems built to execute ideas reliably.",
+        "enables": [
+            "Scalable architectures",
+            "AI-native workflows",
+            "Product systems that survive growth"
+        ],
+        "why_it_matters": "Ideas die without execution discipline.",
+        "applied_in": [
+            "revenueable",
+            "vriksha",
+            "lexcapstone",
+            "marketresearchlabs"
+        ],
+        "badge_style": "default",
+        "hero_image": "/cms-uploads/capability-visual---technology-ra5cg.jpg",
+        "seo": {
+            "meta_title": "Technology Capability | Getconvi",
+            "meta_description": "Getconvi's core technology capability involves building scalable software systems, AI workflows, and product architectures."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Technology Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Technology capability encompasses core software development, AI system design, and scalable infrastructure engineering."
+        }
+    },
+    {
+        "title": "Communications",
+        "slug": "communications",
+        "one_liner": "Real-time, context-aware messaging and conversational feedback loops.",
+        "description": "Real-time, context-aware messaging and conversational feedback loops.",
+        "enables": [
+            "Two-way interaction",
+            "Context-aware engagement",
+            "Faster feedback loops"
+        ],
+        "why_it_matters": "Speed and clarity are communication problems.",
+        "applied_in": [
+            "nexocircle",
+            "telecallers",
+            "astrolife",
+            "marketresearchlabs"
+        ],
+        "badge_style": "blue",
+        "hero_image": "/cms-uploads/capability-visual---communicat-n4sy8.jpg",
+        "seo": {
+            "meta_title": "Communications Capability | Getconvi",
+            "meta_description": "Getconvi specializes in building real-time messaging and conversational interfaces for engagement and feedback."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Communications Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Communications capability builds real-time messaging systems and conversational interfaces that facilitate engagement and feedback loops."
+        }
+    },
+    {
+        "title": "Operations",
+        "slug": "operations",
+        "one_liner": "Workflow automation, logistics, and real-world execution systems that survive reality.",
+        "description": "Workflow automation, logistics, and real-world execution systems that survive reality.",
+        "enables": [
+            "Reliability under real-world constraints",
+            "Multi-party coordination",
+            "Predictable outcomes"
+        ],
+        "why_it_matters": "Reality is operational.",
+        "applied_in": [
+            "builderpick",
+            "pestworld",
+            "slayswag",
+            "estatekart"
+        ],
+        "seo": {
+            "meta_title": "Operations Capability | Getconvi",
+            "meta_description": "Getconvi builds operational platforms for workflow automation, logistics, and real-world execution."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Operations Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Operations capability focuses on building workflow automation, logistics, and execution systems for real-world reliability."
+        }
+    },
+    {
+        "title": "Networks",
+        "slug": "networks",
+        "one_liner": "Human, data, and agent networks that compound value through connection and trust.",
+        "description": "Human, data, and agent networks that compound value through connection and trust.",
+        "enables": [
+            "Compound value creation",
+            "Trust-based connections",
+            "Decentralized growth"
+        ],
+        "why_it_matters": "Products scale. Networks compound.",
+        "applied_in": [
+            "nexocircle",
+            "pujabook",
+            "imx",
+            "callerconnection"
+        ],
+        "badge_style": "default",
+        "hero_image": "",
+        "seo": {
+            "meta_title": "Networks Capability | Getconvi",
+            "meta_description": "Getconvi builds human, data, and agent networks that compound value through connection and trust."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Networks Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Networks capability focuses on creating value-compounding networks of humans, data, and agents."
+        }
+    },
+    {
+        "title": "Voice",
+        "slug": "voice",
+        "one_liner": "AI-driven voice infrastructure and call orchestration for high-intent interaction.",
+        "description": "AI-driven voice infrastructure and call orchestration for high-intent interaction.",
+        "enables": [
+            "Natural human interaction",
+            "24×7 conversational scale",
+            "Low-latency response systems"
+        ],
+        "why_it_matters": "Voice forces clarity — there’s nowhere to hide.",
+        "applied_in": [
+            "aurl",
+            "telecallers",
+            "astrolife",
+            "marketresearchlabs"
+        ],
+        "badge_style": "pink",
+        "seo": {
+            "meta_title": "Voice Capability | Getconvi",
+            "meta_description": "Getconvi specializes in AI-driven voice infrastructure, call orchestration, and autonomous voice agents."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Voice Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Voice capability involves building AI-driven voice infrastructure, call management systems, and autonomous voice agents."
+        }
+    },
+    {
+        "title": "Integration",
+        "slug": "integration",
+        "one_liner": "APIs, attribution, and system connectivity that prevent false confidence.",
+        "description": "APIs, attribution, and system connectivity that prevent false confidence.",
+        "enables": [
+            "Data flow across tools",
+            "Attribution and visibility",
+            "Automation without fragility"
+        ],
+        "why_it_matters": "Disconnected systems lie.",
+        "applied_in": [
+            "spendsignal",
+            "revenueable",
+            "listonchatgpt",
+            "buydatabase"
+        ],
+        "seo": {
+            "meta_title": "Integration Capability | Getconvi",
+            "meta_description": "Getconvi builds integration layers, APIs, and connectivity systems for data flow and attribution."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Integration Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Integration capability focuses on building APIs, data pipelines, and system connectivity to ensure reliable data flow and attribution."
+        }
+    }
+]

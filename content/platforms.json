@@ -1,0 +1,710 @@
+[
+    {
+        "slug": "nexocircle",
+        "name": "NexoCircle",
+        "domain": "nexocircle.com",
+        "website_url": "https://nexocircle.com",
+        "status": "live",
+        "tagline": "Communities that play, grow, and belong.",
+        "short_description": "NexoCircle is an offline-first community platform designed for real human connection—through games, travel, shared experiences, and collaborative growth.",
+        "capabilities": [
+            "entertainment",
+            "communications"
+        ],
+        "primary_capability": "entertainment",
+        "audience": {
+            "for": [
+                "People seeking real connection",
+                "Builders, creators, and curious minds",
+                "Those tired of shallow networking"
+            ],
+            "not_for": [
+                "Mass networking events",
+                "Passive online-only communities"
+            ]
+        },
+        "hero": {
+            "headline": "Communities that play, grow, and belong.",
+            "subline": "NexoCircle is an offline-first community platform designed for real human connection—through games, travel, shared experiences, and collaborative growth.",
+            "primary_cta": {
+                "label": "Explore the community",
+                "url": "#"
+            },
+            "secondary_cta": {
+                "label": "Become a member",
+                "url": "#"
+            },
+            "microcopy": "Built for people who want more than online groups."
+        },
+        "problem": {
+            "headline": "Most communities don’t feel like communities.",
+            "points": [
+                "Online groups lack real connection",
+                "Events feel transactional, not meaningful",
+                "People struggle to find their tribe",
+                "Engagement fades after initial excitement"
+            ],
+            "summary": "NexoCircle was built to solve this by bringing people together in the real world, repeatedly."
+        },
+        "value": {
+            "headline": "An operating system for belonging.",
+            "description": "NexoCircle is a curated, offline-first community where people meet through play, experiences, and shared growth—not networking pressure or shallow interactions.",
+            "enables": [
+                "Consistent in-person experiences",
+                "Safe, welcoming social environments",
+                "Repeat interactions that build trust",
+                "A sense of belonging over time"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Curated Entry",
+                    "description": "Members join through intent, not volume."
+                },
+                {
+                    "number": "02",
+                    "title": "Play & Experiences",
+                    "description": "Games, sports, travel, and shared activities break social barriers."
+                },
+                {
+                    "number": "03",
+                    "title": "Repeat Interactions",
+                    "description": "The same people meet again—trust compounds."
+                },
+                {
+                    "number": "04",
+                    "title": "Community Growth",
+                    "description": "Members move from participants to hosts, collaborators, and builders."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What happens inside NexoCircle",
+            "pillars": [
+                "Home game nights (Poker, Mafia, board games)",
+                "Sports and outdoor activities",
+                "Travel-based immersive experiences",
+                "Small-group dinners and socials",
+                "Collaborative projects and ideas"
+            ],
+            "summary": "Every experience is designed to feel safe, inclusive, and energizing."
+        },
+        "proof": {
+            "signals": [
+                "200+ active members",
+                "60+ offline experiences hosted",
+                "Paid memberships in operation",
+                "Travel and multi-day immersive events executed"
+            ],
+            "status": "NexoCircle is live, evolving, and actively operated."
+        },
+        "bridge": {
+            "headline": "How this connects to Getconvi",
+            "description": "NexoCircle is one of Getconvi’s core operating platforms.",
+            "learnings": [
+                "Engagement and retention loops",
+                "Trust and safety at scale",
+                "Experience design",
+                "Long-term participation incentives"
+            ]
+        },
+        "footer": {
+            "tagline": "Built for belonging.",
+            "description": "NexoCircle is a Getconvi platform focused on real-world connection, play, and shared growth."
+        },
+        "seo": {
+            "meta_title": "NexoCircle | Offline-First Community Platform",
+            "meta_description": "NexoCircle connects people through curated offline experiences, games, and shared growth. Built for real human connection.",
+            "keywords": [
+                "Community",
+                "Offline Events",
+                "Social Club",
+                "Networking"
+            ],
+            "robots": {
+                "index": true,
+                "follow": true
+            },
+            "open_graph": {
+                "title": "NexoCircle | Communities that play, grow, and belong.",
+                "description": "Real human connection through games, travel, and shared experiences.",
+                "type": "website"
+            }
+        },
+        "aeo": {
+            "entity_name": "NexoCircle",
+            "entity_type": "Organization",
+            "one_sentence_definition": "NexoCircle is an offline-first community platform that facilitates real-world connection through curated games, travel, and shared experiences.",
+            "key_facts": [
+                {
+                    "label": "Focus",
+                    "value": "Offline Community & Experiences"
+                },
+                {
+                    "label": "Parent",
+                    "value": "Getconvi"
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What is NexoCircle?",
+                    "answer": "NexoCircle is a community platform focused on building offline connections through shared activities like games and travel."
+                }
+            ]
+        }
+    },
+    {
+        "slug": "revenueable",
+        "name": "Revenueable.ai",
+        "domain": "revenueable.ai",
+        "website_url": "https://revenueable.ai",
+        "status": "live",
+        "tagline": "AI agents that turn traffic into revenue.",
+        "short_description": "Revenueable.ai is an AI-native revenue system that identifies visitors, adapts experiences in real time, and drives measurable conversion lift across the funnel.",
+        "capabilities": [
+            "technology",
+            "integration"
+        ],
+        "primary_capability": "technology",
+        "audience": {
+            "for": [
+                "B2B teams with meaningful traffic",
+                "Companies tired of static websites",
+                "Revenue leaders seeking clarity"
+            ],
+            "not_for": [
+                "Early-stage sites with no traffic",
+                "Teams seeking vanity metrics"
+            ]
+        },
+        "hero": {
+            "headline": "AI agents that turn traffic into revenue.",
+            "subline": "Revenueable.ai is an AI-native revenue system that identifies visitors, adapts experiences in real time, and drives measurable conversion lift across the funnel.",
+            "primary_cta": {
+                "label": "See how it works",
+                "url": "#"
+            },
+            "secondary_cta": {
+                "label": "Request a demo",
+                "url": "#"
+            },
+            "microcopy": "Built for teams that care about outcomes, not dashboards."
+        },
+        "problem": {
+            "headline": "Most marketing teams still guess.",
+            "points": [
+                "Anonymous traffic hides real demand",
+                "Attribution breaks beyond last click",
+                "CRO relies on slow experiments",
+                "Sales and marketing operate in silos"
+            ],
+            "summary": "Revenueable was built to replace guesswork with real-time signal and action."
+        },
+        "value": {
+            "headline": "A real-time revenue operating system.",
+            "description": "Revenueable.ai deploys specialized AI agents across your website and funnel—detecting intent, personalizing experiences, triggering follow-ups, and attributing revenue that traditional tools miss.",
+            "enables": []
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Detect",
+                    "description": "Understand who’s visiting and why, in real time."
+                },
+                {
+                    "number": "02",
+                    "title": "Adapt",
+                    "description": "Change messaging, content, and CTAs instantly."
+                },
+                {
+                    "number": "03",
+                    "title": "Engage",
+                    "description": "Trigger timely follow-ups without manual workflows."
+                },
+                {
+                    "number": "04",
+                    "title": "Attribute",
+                    "description": "See what actually influenced revenue, not just clicks."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "The Agent System (Core Differentiator)",
+            "pillars": [
+                "Sense — Identifies visitors",
+                "React — Adapts content",
+                "Reach — Contextual follow-ups",
+                "Signal — AI voice agent",
+                "Nova — Attribution"
+            ],
+            "summary": "Each agent operates independently—and compounds together."
+        },
+        "proof": {
+            "signals": [
+                "Deployed across live B2B websites",
+                "Real-time visitor identification in production",
+                "Automated demo and voice agents live",
+                "Revenue attribution beyond ad clicks enabled"
+            ],
+            "status": "Revenueable is live, evolving, and actively operated."
+        },
+        "bridge": {
+            "headline": "How this connects to Getconvi",
+            "description": "Revenueable.ai is built and operated inside Getconvi.",
+            "learnings": [
+                "AI system design",
+                "Funnel economics",
+                "Attribution truth",
+                "Automation at scale"
+            ]
+        },
+        "footer": {
+            "tagline": "Revenue systems that respond in real time.",
+            "description": "Revenueable.ai is a Getconvi platform built to convert intent into revenue through coordinated AI agents."
+        },
+        "seo": {
+            "meta_title": "Revenueable.ai | AI Revenue System",
+            "meta_description": "Revenueable.ai uses autonomous AI agents to identify visitors, personalize websites, and drive revenue conversion in real-time.",
+            "keywords": [
+                "AI Marketing",
+                "Revenue Operations",
+                "Visitor Identification"
+            ],
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "Revenueable.ai",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "Revenueable.ai is an AI-native revenue operations platform that automates visitor identification, personalization, and conversion using autonomous agents."
+        }
+    },
+    {
+        "slug": "pujadaily",
+        "name": "PujaDaily.com",
+        "domain": "pujadaily.com",
+        "website_url": "https://pujadaily.com",
+        "status": "live",
+        "tagline": "Your daily rituals. Simplified and gamified.",
+        "short_description": "PujaDaily helps you practice daily devotion with clarity, consistency, and ease—through simple guided rituals, reminders, and progress tracking.",
+        "capabilities": [
+            "entertainment"
+        ],
+        "primary_capability": "entertainment",
+        "audience": {
+            "for": [
+                "People seeking daily spiritual discipline",
+                "Busy professionals"
+            ],
+            "not_for": [
+                "One-time ritual seekers"
+            ]
+        },
+        "hero": {
+            "headline": "Your daily rituals. Simplified and gamified.",
+            "subline": "PujaDaily helps you practice daily devotion with clarity, consistency, and ease—through simple guided rituals, reminders, and progress tracking.",
+            "primary_cta": {
+                "label": "Start today’s puja",
+                "url": "#"
+            },
+            "secondary_cta": {
+                "label": "Explore how it works",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Devotion often breaks under modern life.",
+            "points": [
+                "Daily puja feels time-consuming",
+                "Ritual steps are easy to forget",
+                "Consistency is hard to maintain"
+            ],
+            "summary": "PujaDaily was created to make daily spiritual practice simple, structured, and sustainable."
+        },
+        "value": {
+            "headline": "A daily operating system for devotion.",
+            "description": "PujaDaily is a guided spiritual platform that helps you perform daily rituals correctly and consistently—without complexity or pressure.",
+            "enables": []
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Today’s Puja",
+                    "description": "See exactly what to do today, based on the calendar."
+                },
+                {
+                    "number": "02",
+                    "title": "Simple Guidance",
+                    "description": "Clear steps, mantras, and reminders—no overload."
+                },
+                {
+                    "number": "03",
+                    "title": "Daily Completion",
+                    "description": "Mark your puja done and build consistency."
+                },
+                {
+                    "number": "04",
+                    "title": "Progress & Rhythm",
+                    "description": "Track streaks, milestones, and spiritual habits over time."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What you can do on PujaDaily",
+            "pillars": [
+                "Daily puja guidance",
+                "Mantras with step-by-step flow",
+                "Ritual reminders",
+                "Streaks and progress tracking"
+            ],
+            "summary": "Everything is designed to feel calm, respectful, and focused."
+        },
+        "proof": {
+            "signals": [
+                "Daily ritual flows in active use",
+                "Guided mantras and steps live",
+                "Calendar-based puja logic implemented"
+            ],
+            "status": "PujaDaily is live and evolving."
+        },
+        "bridge": {
+            "headline": "How this connects to Getconvi",
+            "description": "PujaDaily is built and operated within Getconvi.",
+            "learnings": [
+                "Habit formation",
+                "Calm user experiences",
+                "Long-term engagement"
+            ]
+        },
+        "footer": {
+            "tagline": "Devotion, made consistent.",
+            "description": "PujaDaily is a Getconvi platform designed to support daily spiritual practice with simplicity and care."
+        },
+        "seo": {
+            "meta_title": "PujaDaily | Daily Rituals Simplified",
+            "meta_description": "PujaDaily helps you maintain a consistent spiritual practice with guided simple rituals and progress tracking.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "PujaDaily",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "PujaDaily is a digital platform that guides users through daily spiritual rituals with structure and gamification."
+        }
+    },
+    {
+        "slug": "pokershark",
+        "name": "PokerShark.ai",
+        "domain": "pokershark.ai",
+        "website_url": "https://pokershark.ai",
+        "status": "live",
+        "tagline": "The AI coach serious poker players use.",
+        "short_description": "PokerShark.ai helps poker players improve decision-making through hand analysis, performance tracking, and actionable insights.",
+        "capabilities": [
+            "games"
+        ],
+        "primary_capability": "games",
+        "audience": {
+            "for": [
+                "Serious poker players",
+                "Online grinders"
+            ],
+            "not_for": [
+                "Casual play"
+            ]
+        },
+        "hero": {
+            "headline": "The AI coach serious poker players use.",
+            "subline": "PokerShark.ai helps poker players improve decision-making through hand analysis, performance tracking, and actionable insights.",
+            "primary_cta": {
+                "label": "Analyze your game",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Poker skill is hard to measure honestly.",
+            "points": [
+                "Feedback is inconsistent",
+                "Results are noisy"
+            ],
+            "summary": "PokerShark was built to bring clarity and discipline to player growth."
+        },
+        "value": {
+            "headline": "A performance system for poker players.",
+            "description": "PokerShark.ai analyzes hand histories and gameplay patterns to surface mistakes, strengths, and improvement paths."
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Import",
+                    "description": "Upload hand histories."
+                },
+                {
+                    "number": "02",
+                    "title": "Analyze",
+                    "description": "AI evaluates decisions."
+                },
+                {
+                    "number": "03",
+                    "title": "Learn",
+                    "description": "Personalized insights."
+                },
+                {
+                    "number": "04",
+                    "title": "Improve",
+                    "description": "Track progress."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "Features",
+            "pillars": [
+                "Leak detection",
+                "ROI tracking",
+                "Skill progression"
+            ],
+            "summary": "PokerShark fits into how players actually study."
+        },
+        "proof": {
+            "signals": [
+                "Hand analysis live",
+                "Performance dashboards operational"
+            ],
+            "status": "PokerShark.ai is live."
+        },
+        "bridge": {
+            "headline": "Connection to Getconvi",
+            "description": "Built inside Getconvi.",
+            "learnings": [
+                "Skill improvement",
+                "Data-driven coaching"
+            ]
+        },
+        "footer": {
+            "tagline": "Poker, understood.",
+            "description": "PokerShark.ai is a Getconvi platform focused on structured improvement for serious poker players."
+        },
+        "seo": {
+            "meta_title": "PokerShark.ai | AI Poker Coach",
+            "meta_description": "Improve your poker game with AI-driven hand analysis and performance tracking from PokerShark.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "PokerShark.ai",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "PokerShark.ai is an AI-powered coaching platform for poker players that analyzes hand histories to improve decision-making."
+        }
+    },
+    {
+        "slug": "aurl",
+        "name": "Aurl.ai",
+        "domain": "aurl.ai",
+        "website_url": "https://aurl.ai",
+        "status": "live",
+        "tagline": "Voice infrastructure for real-time conversations.",
+        "short_description": "Aurl.ai is a voice platform that lets teams create, manage, and deploy intelligent voice agents for real-time conversations.",
+        "capabilities": [
+            "voice"
+        ],
+        "primary_capability": "voice",
+        "audience": {
+            "for": [
+                "Developers",
+                "Product Teams"
+            ],
+            "not_for": []
+        },
+        "hero": {
+            "headline": "Voice infrastructure for real-time conversations.",
+            "subline": "Aurl.ai provides the infrastructure to design, deploy, and operate intelligent voice agents.",
+            "primary_cta": {
+                "label": "Request access",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Building voice agents is deceptively hard.",
+            "points": [
+                "Latency kills immersion",
+                "Telephony is complex"
+            ],
+            "summary": "Aurl.ai abstracts the complexity of real-time voice AI."
+        },
+        "value": {
+            "headline": "A programmable voice platform.",
+            "description": "Aurl.ai provides the infrastructure to design, deploy, and operate intelligent voice agents that listen, speak, and act in real time."
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Design",
+                    "description": "Define agent behavior."
+                },
+                {
+                    "number": "02",
+                    "title": "Connect",
+                    "description": "Integrate telephony."
+                },
+                {
+                    "number": "03",
+                    "title": "Deploy",
+                    "description": "Launch agents."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "Use Cases",
+            "pillars": [
+                "Sales",
+                "Support",
+                "Operations"
+            ],
+            "summary": "Powering real-time voice."
+        },
+        "proof": {
+            "signals": [
+                "Real-time voice pipelines live"
+            ],
+            "status": "Aurl.ai is live."
+        },
+        "bridge": {
+            "headline": "Getconvi Connection",
+            "description": "Aurl is a core infra platform.",
+            "learnings": [
+                "Low-latency UX",
+                "Voice AI"
+            ]
+        },
+        "footer": {
+            "tagline": "Voice, as infrastructure.",
+            "description": "Aurl.ai is a Getconvi platform built to support real-time conversational systems."
+        },
+        "seo": {
+            "meta_title": "Aurl.ai | Voice Infrastructure",
+            "meta_description": "Aurl.ai provides programmable voice infrastructure for building and deploying real-time AI voice agents.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "Aurl.ai",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "Aurl.ai is a developer platform for building, deploying, and managing real-time AI voice agents and telephony infrastructure."
+        }
+    },
+    {
+        "slug": "builderpick",
+        "name": "BuilderPick.com",
+        "domain": "builderpick.com",
+        "website_url": "https://builderpick.com",
+        "status": "live",
+        "tagline": "Construction material delivery, finally organized.",
+        "short_description": "BuilderPick is a logistics platform that helps construction sites order, track, and receive cement, steel, and materials.",
+        "capabilities": [
+            "operations"
+        ],
+        "primary_capability": "operations",
+        "audience": {
+            "for": [
+                "Builders",
+                "Contractors"
+            ],
+            "not_for": [
+                "DIY"
+            ]
+        },
+        "hero": {
+            "headline": "Construction material delivery, finally organized.",
+            "subline": "BuilderPick is a logistics platform that helps construction sites order, track, and receive materials.",
+            "primary_cta": {
+                "label": "Order for a site",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Construction logistics are broken.",
+            "points": [
+                "Unreliable timelines",
+                "Price opacity"
+            ],
+            "summary": "BuilderPick brings structure to site-level supply chains."
+        },
+        "value": {
+            "headline": "An operating system for site deliveries.",
+            "description": "BuilderPick connects buyers, suppliers, and delivery partners into a single workflow."
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Request",
+                    "description": "Place orders."
+                },
+                {
+                    "number": "02",
+                    "title": "Match",
+                    "description": "Suppliers assigned."
+                },
+                {
+                    "number": "03",
+                    "title": "Deliver",
+                    "description": "Track materials."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "Use Cases",
+            "pillars": [
+                "Cement",
+                "Steel",
+                "Site Management"
+            ],
+            "summary": "Logistics infrastructure."
+        },
+        "proof": {
+            "signals": [
+                "Multi-party workflows live"
+            ],
+            "status": "BuilderPick is live."
+        },
+        "bridge": {
+            "headline": "Getconvi Connection",
+            "description": "Built inside Getconvi.",
+            "learnings": [
+                "Supply chain reliability",
+                "Ops"
+            ]
+        },
+        "footer": {
+            "tagline": "Construction logistics, simplified.",
+            "description": "BuilderPick is a Getconvi platform for construction logistics."
+        },
+        "seo": {
+            "meta_title": "BuilderPick | Construction Material Logistics",
+            "meta_description": "BuilderPick organizes construction material delivery, helping sites order and track cement, steel, and supplies.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "BuilderPick",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "BuilderPick is a construction logistics platform that streamlines the ordering and delivery of materials like cement and steel."
+        }
+    }
+]

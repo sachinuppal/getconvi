@@ -1,0 +1,37 @@
+{
+    "hero": {
+        "headline_lines": [
+            "We build",
+            "operating",
+            "companies."
+        ],
+        "subline": "Not slide decks. Not experiments.\nReal systems, live in the world.",
+        "hero_image": "/cms-uploads/home-hero-1yrfwm.jpg"
+    },
+    "manifesto": [
+        "Products teach faster than presentations.",
+        "Scale exposes weak assumptions.",
+        "Real users create real constraints.",
+        "Systems compound when they’re operated.",
+        "Ownership sharpens judgment."
+    ],
+    "proof_strip": [
+        {
+            "label": "Revenue Generated",
+            "value": "$50M+"
+        },
+        {
+            "label": "Active Users",
+            "value": "2.5M+"
+        },
+        {
+            "label": "Systems Deployed",
+            "value": "100+"
+        }
+    ],
+    "cta": {
+        "headline": "Ready to build systems that scale?",
+        "button_text": "Connect with us",
+        "cta_background": "/cms-uploads/cta-section-background-ww3zs.jpg"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "principles": [
+        {
+            "title": "Owners, not Renters",
+            "description": "We don’t just consult; we take equity. We are aligned with the long-term success of the system, not the billable hour."
+        },
+        {
+            "title": "Systems > Goals",
+            "description": "Goals are finite games. Systems are infinite games. We build the machine that builds the result."
+        },
+        {
+            "title": "Code is Leverage",
+            "description": "We solve problems with software first, operations second, and people last."
+        }
+    ],
+    "legal": {
+        "privacy_policy": "# Privacy Policy\n\nEffective Date: Jan 1, 2026\n\nAt Getconvi, we value your privacy...",
+        "terms_of_service": "# Terms of Service\n\nEffective Date: Jan 1, 2026\n\nBy using Getconvi's services..."
+    }
+}

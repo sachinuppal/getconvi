@@ -1,0 +1,394 @@
+[
+  {
+    "filename": "work-card-image-2s4io.jpg",
+    "path": "/cms-uploads/work-card-image-2s4io.jpg",
+    "savedAt": 1769218511457,
+    "prompt": "Offline-first community and network platform visualized as interconnected human nodes forming small real-world clusters, warm architectural spaces blended with abstract network lines, premium experiential aesthetic, subtle social energy, intimate yet scalable, no faces, no text, no logos",
+    "slotName": "Work Card Image",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "work-card-image-kfbvfb.jpg",
+    "path": "/cms-uploads/work-card-image-kfbvfb.jpg",
+    "savedAt": 1769218410792,
+    "prompt": "Real-time revenue intelligence system visualized as layered data planes, intent signals, attribution paths, and conversion flows converging into a central decision core, dark enterprise SaaS aesthetic, teal and deep blue accents, high-density information without UI screens, cinematic lighting, no text, no logos",
+    "slotName": "Work Card Image",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "work-card-image-ql8jk.jpg",
+    "path": "/cms-uploads/work-card-image-ql8jk.jpg",
+    "savedAt": 1769218002128,
+    "prompt": "Sustainability and impact modeling visual: organic growth rings and tree-like structures merged with data layers, timelines, and forecasting contours, earth-toned palette with subtle digital overlays, calm long-horizon planning aesthetic, premium cinematic lighting, no text, no logos",
+    "slotName": "Work Card Image",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "work-card-image-zsim5.jpg",
+    "path": "/cms-uploads/work-card-image-zsim5.jpg",
+    "savedAt": 1769217913909,
+    "prompt": "Operational control and containment visual: clean facility corridors with containment grids, invisible threat neutralization layers shown as subtle protective fields, sterile and professional tone, abstract protection infrastructure, no insects, no literal pests, no text, no logos",
+    "slotName": "Work Card Image",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "work-card-image-hin6.jpg",
+    "path": "/cms-uploads/work-card-image-hin6.jpg",
+    "savedAt": 1769217822137,
+    "prompt": "Construction procurement and logistics system represented through modular concrete slabs, steel beams, and material blocks moving along optimized routing paths, architectural precision, industrial realism without vehicles or people, neutral stone/steel palette, cinematic shadows, no text, no logos",
+    "slotName": "Work Card Image",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "work-card-image-ja47p7.jpg",
+    "path": "/cms-uploads/work-card-image-ja47p7.jpg",
+    "savedAt": 1769217731634,
+    "prompt": "Attribution and signal-detection visual: noisy scattered data points resolving into clean trajectories and crisp signal lines, faint funnel/attribution graph geometry in the background, dark background, sharp contrast, high-clarity analytics aesthetic, minimal accent glow, no text, no logos",
+    "slotName": "Work Card Image",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "work-card-image-t9fb5j.jpg",
+    "path": "/cms-uploads/work-card-image-t9fb5j.jpg",
+    "savedAt": 1769217641731,
+    "prompt": "Research lab aesthetic: human insights abstracted into layered data planes with sentiment waves, clustering maps, anonymized conversation fragments as subtle texture, charts and signals floating in a dark analytical environment, cerebral and premium, muted tones with focused highlights, no text, no logos",
+    "slotName": "Work Card Image",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "work-card-image-q27jlk.jpg",
+    "path": "/cms-uploads/work-card-image-q27jlk.jpg",
+    "savedAt": 1769217552043,
+    "prompt": "Enterprise-scale structured data warehouse visualized as stacked modular containers and flowing ETL pipelines, schemas and field grids subtly embossed into surfaces, neutral industrial palette, dark background, high-scale commerce intelligence feel, cinematic depth, no text, no logos",
+    "slotName": "Work Card Image",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "work-card-image-95jdy.jpg",
+    "path": "/cms-uploads/work-card-image-95jdy.jpg",
+    "savedAt": 1769217462055,
+    "prompt": "Abstract cosmic intelligence system visualized as layered star charts, orbital lines, ephemeris-style geometry, and waveform signals converging into a central node, deep blues and indigo tones, subtle glow, technical not mystical, precision astrology aesthetic, cinematic lighting, no faces, no religious icons, no text, no logos",
+    "slotName": "Work Card Image",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "builderpick.jpg",
+    "path": "/cms-uploads/builderpick.jpg",
+    "savedAt": 1769192524676,
+    "prompt": "Construction materials represented as modular system blocks moving through optimized paths, industrial realism without trucks or people.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "vriksha-ai.jpg",
+    "path": "/cms-uploads/vriksha-ai.jpg",
+    "savedAt": 1769192515956,
+    "prompt": "Tree growth rings merging with data layers and timelines, organic-meets-system visual language.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "pestworld.jpg",
+    "path": "/cms-uploads/pestworld.jpg",
+    "savedAt": 1769192487735,
+    "prompt": "Clean, controlled environments with invisible threat layers neutralized, abstract containment visuals, not literal pests.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "builderpick.jpg",
+    "path": "/cms-uploads/builderpick.jpg",
+    "savedAt": 1769192471766,
+    "prompt": "Construction materials represented as modular system blocks moving through optimized paths, industrial realism without trucks or people.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "spendsignal.jpg",
+    "path": "/cms-uploads/spendsignal.jpg",
+    "savedAt": 1769192440546,
+    "prompt": "Financial signals emerging from noise, waveforms turning into clear lines, dark background, sharp clarity contrast.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "marketresearchlabs.jpg",
+    "path": "/cms-uploads/marketresearchlabs.jpg",
+    "savedAt": 1769192344755,
+    "prompt": "Abstract human silhouettes formed from survey data, conversation fragments, and charts, dark research-lab aesthetic, intelligence-focused.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "buydatabase-ai.jpg",
+    "path": "/cms-uploads/buydatabase-ai.jpg",
+    "savedAt": 1769192339709,
+    "prompt": "Massive data warehouse visualized as stacked containers of structured fields, flowing pipelines, neutral industrial palette.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "astrolife365.jpg",
+    "path": "/cms-uploads/astrolife365.jpg",
+    "savedAt": 1769192191851,
+    "prompt": "Star maps and cosmic charts morphing into waveform patterns, deep blues and purples, mystical but technical, precision over fantasy.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "debug-test-image.jpg",
+    "path": "/cms-uploads/debug-test-image.jpg",
+    "savedAt": 1769191754280,
+    "prompt": "Debug Prompt",
+    "slotName": "Debug Slot",
+    "pageUrl": "/debug"
+  },
+  {
+    "filename": "imx.jpg",
+    "path": "/cms-uploads/imx.jpg",
+    "savedAt": 1769182323133,
+    "prompt": "Stock exchange abstracted with human influence nodes, fluctuating value lines, modern financial energy, no faces.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "lexcapstone.jpg",
+    "path": "/cms-uploads/lexcapstone.jpg",
+    "savedAt": 1769181361730,
+    "prompt": "Legal documents rendered as architectural slabs, order, symmetry, muted tones, trust-first aesthetic.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "slayswag.jpg",
+    "path": "/cms-uploads/slayswag.jpg",
+    "savedAt": 1769181290484,
+    "prompt": "Premium gift boxes abstracted into supply-chain flows, elegant material textures, enterprise-grade polish.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "listonchatgpt.jpg",
+    "path": "/cms-uploads/listonchatgpt.jpg",
+    "savedAt": 1769181233181,
+    "prompt": "Robots.txt files visualized as architectural blueprints, scanners and validation grids, monochrome with subtle neon accents, precision engineering vibe.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "pujadaily.jpg",
+    "path": "/cms-uploads/pujadaily.jpg",
+    "savedAt": 1769181148109,
+    "prompt": "Calm, dark-toned sacred geometry with soft golden light, abstract ritual symbols, modern minimal spirituality, no gods or faces, serene and timeless.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "house-games.jpg",
+    "path": "/cms-uploads/house-games.jpg",
+    "savedAt": 1769181069121,
+    "prompt": "Secure private room rendered as a digital vault, soft lighting, layered permissions and access rings visualized abstractly, premium and exclusive feel.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "tripsygames.jpg",
+    "path": "/cms-uploads/tripsygames.jpg",
+    "savedAt": 1769180981333,
+    "prompt": "Abstract modular game blocks floating in a dark space, glowing interaction points, minimal UI fragments, playful but sophisticated, no characters, system-driven design language.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "pokershark-ai.jpg",
+    "path": "/cms-uploads/pokershark-ai.jpg",
+    "savedAt": 1769180877581,
+    "prompt": "Dark cinematic render of a poker table dissolving into data streams, probability graphs, and neural network lines. Moody lighting, black and deep green tones, abstract not literal cards, high-tech strategy aesthetic.",
+    "slotName": "Work Hero",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "test-manual-save.jpg",
+    "path": "/cms-uploads/test-manual-save.jpg",
+    "savedAt": 1769179668876,
+    "prompt": "Manual Test",
+    "slotName": "Test Slot",
+    "pageUrl": "/test"
+  },
+  {
+    "filename": "capabilities-page-hero-7q2dww.jpg",
+    "path": "/cms-uploads/capabilities-page-hero-7q2dww.jpg",
+    "savedAt": 1769174487995.3784,
+    "prompt": "(Backfilled)",
+    "slotName": "Capabilities Hero",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "featured-work-0rai5.jpg",
+    "path": "/cms-uploads/featured-work-0rai5.jpg",
+    "savedAt": 1769174205984.5361,
+    "prompt": "(Backfilled)",
+    "slotName": "Featured Work",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "featured-work-5gtr8m.jpg",
+    "path": "/cms-uploads/featured-work-5gtr8m.jpg",
+    "savedAt": 1769173994255.9346,
+    "prompt": "(Backfilled)",
+    "slotName": "Featured Work",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "featured-work-4rmn7n.jpg",
+    "path": "/cms-uploads/featured-work-4rmn7n.jpg",
+    "savedAt": 1769173845680.9658,
+    "prompt": "(Backfilled)",
+    "slotName": "Featured Work",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "capability-visual---integratio-tuwe9m.jpg",
+    "path": "/cms-uploads/capability-visual---integratio-tuwe9m.jpg",
+    "savedAt": 1769173741403.5037,
+    "prompt": "(Backfilled)",
+    "slotName": "Capability Visual",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "capability-visual---voice-4t37b.jpg",
+    "path": "/cms-uploads/capability-visual---voice-4t37b.jpg",
+    "savedAt": 1769173650874.5461,
+    "prompt": "(Backfilled)",
+    "slotName": "Capability Visual",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "capability-visual---operations-ny52h2.jpg",
+    "path": "/cms-uploads/capability-visual---operations-ny52h2.jpg",
+    "savedAt": 1769173019779.1396,
+    "prompt": "(Backfilled)",
+    "slotName": "Capability Visual",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "capability-visual---technology-8b2ni.jpg",
+    "path": "/cms-uploads/capability-visual---technology-8b2ni.jpg",
+    "savedAt": 1769172668734.8967,
+    "prompt": "(Backfilled)",
+    "slotName": "Capability Visual",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "capability-visual---entertainm-8shwen.jpg",
+    "path": "/cms-uploads/capability-visual---entertainm-8shwen.jpg",
+    "savedAt": 1769172489026.0818,
+    "prompt": "(Backfilled)",
+    "slotName": "Capability Visual",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "capability-visual---games-zt7lav.jpg",
+    "path": "/cms-uploads/capability-visual---games-zt7lav.jpg",
+    "savedAt": 1769172397501.7158,
+    "prompt": "(Backfilled)",
+    "slotName": "Capability Visual",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "platforms-index-hero-osasoh.jpg",
+    "path": "/cms-uploads/platforms-index-hero-osasoh.jpg",
+    "savedAt": 1769172308098.6729,
+    "prompt": "(Backfilled)",
+    "slotName": "Platforms Index",
+    "pageUrl": "/platforms"
+  },
+  {
+    "filename": "cta-section-background-ez37j8.jpg",
+    "path": "/cms-uploads/cta-section-background-ez37j8.jpg",
+    "savedAt": 1769171502612.8213,
+    "prompt": "(Backfilled)",
+    "slotName": "CTA Section",
+    "pageUrl": "/"
+  },
+  {
+    "filename": "portfolio-montage-lhxw7a.jpg",
+    "path": "/cms-uploads/portfolio-montage-lhxw7a.jpg",
+    "savedAt": 1769171404904.8347,
+    "prompt": "(Backfilled)",
+    "slotName": "Portfolio Montage",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "capabilities-overview-backgrou-cqdm64.jpg",
+    "path": "/cms-uploads/capabilities-overview-backgrou-cqdm64.jpg",
+    "savedAt": 1769171296164.1047,
+    "prompt": "(Backfilled)",
+    "slotName": "Capabilities Overview",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "home-hero-1yrfwm.jpg",
+    "path": "/cms-uploads/home-hero-1yrfwm.jpg",
+    "savedAt": 1769170785659.7273,
+    "prompt": "(Backfilled)",
+    "slotName": "Home Hero",
+    "pageUrl": "/"
+  },
+  {
+    "filename": "capability-visual---communicat-n4sy8.jpg",
+    "path": "/cms-uploads/capability-visual---communicat-n4sy8.jpg",
+    "savedAt": 1769162226389.5195,
+    "prompt": "(Backfilled)",
+    "slotName": "Capability Visual",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "capability-visual---entertainm-giipul.jpg",
+    "path": "/cms-uploads/capability-visual---entertainm-giipul.jpg",
+    "savedAt": 1769162135798.8435,
+    "prompt": "(Backfilled)",
+    "slotName": "Capability Visual",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "capability-visual---technology-ra5cg.jpg",
+    "path": "/cms-uploads/capability-visual---technology-ra5cg.jpg",
+    "savedAt": 1769162133682.5964,
+    "prompt": "(Backfilled)",
+    "slotName": "Capability Visual",
+    "pageUrl": "/capabilities"
+  },
+  {
+    "filename": "platforms-index-hero-phkvds.jpg",
+    "path": "/cms-uploads/platforms-index-hero-phkvds.jpg",
+    "savedAt": 1769161963998.3274,
+    "prompt": "(Backfilled)",
+    "slotName": "Platforms Index",
+    "pageUrl": "/platforms"
+  },
+  {
+    "filename": "cta-section-background-ww3zs.jpg",
+    "path": "/cms-uploads/cta-section-background-ww3zs.jpg",
+    "savedAt": 1769161867516.5122,
+    "prompt": "(Backfilled)",
+    "slotName": "CTA Section",
+    "pageUrl": "/"
+  },
+  {
+    "filename": "portfolio-montage-mcjxh.jpg",
+    "path": "/cms-uploads/portfolio-montage-mcjxh.jpg",
+    "savedAt": 1769161863910.448,
+    "prompt": "(Backfilled)",
+    "slotName": "Portfolio Montage",
+    "pageUrl": "/work"
+  },
+  {
+    "filename": "capabilities-overview-backgrou-3o2uyq.jpg",
+    "path": "/cms-uploads/capabilities-overview-backgrou-3o2uyq.jpg",
+    "savedAt": 1769161861419.4302,
+    "prompt": "(Backfilled)",
+    "slotName": "Capabilities Overview",
+    "pageUrl": "/capabilities"
+  }
+]

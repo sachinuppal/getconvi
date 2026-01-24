@@ -1,0 +1,29 @@
+[
+    {
+        "slug": "death-of-saas",
+        "title": "The Death of SaaS: Why We Build Service-as-Software",
+        "category": "Essay",
+        "date": "Oct 12, 2025",
+        "readTime": "6 min read",
+        "excerpt": "Subscription fatigue is real. The future of software isn't another $29/mo seat; it's outcome-based pricing where AI agents do the work, not you.",
+        "content": "# The Subscription Trap\n\nFor the last decade, \"Software as a Service\" meant renting a tool that you had to operate yourself. You paid for the login, but the labor was yours.\n\nBut AI changes the unit of value.\n\nWhen software can *do* the work—not just facilitate it—the model shifts from \"Seat-based\" to \"Work-based\". This is **Service-as-Software**.\n\n## The Labor Arbitrage\nTraditional agencies hire humans to do work. Traditional SaaS builds tools for humans to do work.\nService-as-Software (what we build at Getconvi) combines them: AI agents executing agency-level work at software-level margins.\n\n### Why this matters now\n1. **Context Windows**: LLMs can now hold enough context to understand \"Project State\", not just \"Task State\".\n2. **Agentic Loops**: Systems like our Telecallers.ai don't just speak; they navigate logic trees, update CRMs, and retry on failure.\n3. **Cost vs Value**: Paying $10k/mo for a human BDR is expensive. Paying $10k/mo for an agent that makes 50x the calls is a bargain.\n\n## The Future is Outcomes\nWe believe the next generation of unicorns won't sell \"tools\". They will sell \"results\".\n- Instead of \"Email Marketing Software\", you buy \"Qualified Leads\".\n- Instead of \"CRM Software\", you buy \"Customer Retention\".\n\nThis is why Getconvi operates as a venture studio. We don't just ship code; we ship operating systems that deliver these outcomes."
+    },
+    {
+        "slug": "systems-vs-goals",
+        "title": "You Don't Rise to Your Goals, You Fall to Your Systems",
+        "category": "System",
+        "date": "Sep 24, 2025",
+        "readTime": "4 min read",
+        "excerpt": "Goal setting is survivorship bias. Losers have goals too. The difference is the system. Here is how we architect operating loops.",
+        "content": "# The Goal Fallacy\n\nEvery startup has the same goal: \"Win\". \"IPO\". \"Market Leader\".\nIf goals determined success, everyone would succeed.\n\nSuccess is determined by systems. A system is a recurring loop of action that produces a reliable output regardless of motivation.\n\n## Anatomy of a Revenue System\nAt Revenueable, we don't set \"traffic goals\". We build traffic systems.\n1. **Input**: Programmatic pages generated daily based on search volume intent.\n2. **Process**: Auto-indexing API submissions.\n3. **Feedback**: Rank tracking determines which clusters get more juice.\n4. **Output**: Revenue.\n\n## Automating Discipline\nDiscipline is unreliable. Motivation is fleeting.\nCode is permanent.\n\nBy moving your \"discipline\" into code (cron jobs, automated reports, agentic triggers), you remove the human failure point from the loop.\nThis is the heart of the *Operating Company* model: We automate the discipline required to scale."
+    },
+    {
+        "slug": "power-of-offline",
+        "title": "The Offline Premium: Why Real World Community Wins",
+        "category": "Playbook",
+        "date": "Aug 02, 2025",
+        "readTime": "5 min read",
+        "excerpt": "In a world of infinite digital content, the scarcity of physical presence creates massive value. How NexoCircle retains 85% of members.",
+        "content": "# Digital Abundance, Physical Scarcity\n\nThe internet made content free. It made distribution instant.\nBut it made *connection* cheap.\n\n\"Community\" became a buzzword for \"Traffic I can spam\".\nDiscord servers with 10k members but 0 active conversations aren't communities; they are graveyards.\n\n## The Trust Pyramid\nTrust is built on vulnerability.\n- **Text**: Low vulnerability. easy to fake.\n- **Video**: Medium vulnerability.\n- **In-Person**: High vulnerability. Hard to fake.\n\nNexoCircle, our community studio, bets entirely on the bottom of the pyramid. We force offline interaction because that's where the retention hook is set.\n\n## Operationalizing Offline\nRunning offline events is hard. It's logistically messy.\nThat's why it's a moat.\n\nIf you can build the *software* to manage the *messiness* of the real world (ticketing, vetting, localized coordination), you build a defensible asset that pure-digital competitors can't touch."
+    }
+]
