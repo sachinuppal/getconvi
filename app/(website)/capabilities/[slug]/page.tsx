@@ -3,10 +3,10 @@ import { type Metadata } from "next";
 import { capabilities } from "@/lib/data/capabilities";
 import CapabilityTemplate from "@/components/capabilities/CapabilityTemplate";
 
-// Generate paths for all keys in capabilities object
+// Generate paths for all items in capabilities array
 export async function generateStaticParams() {
-    return Object.keys(capabilities).map((slug) => ({
-        slug,
+    return capabilities.map((cap) => ({
+        slug: cap.slug,
     }));
 }
 

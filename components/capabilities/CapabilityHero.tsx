@@ -20,11 +20,11 @@ export default function CapabilityHero({ data }: { data: Capability }) {
                 </span>
 
                 <h1 className="text-5xl md:text-7xl font-heading font-medium tracking-tight mb-8 leading-[1.05]">
-                    {data.hero.headline}
+                    {data.hero?.headline || data.one_liner}
                 </h1>
 
                 <p className="text-xl md:text-2xl text-gray-300 font-light leading-relaxed border-l-2 border-electric-pink pl-6">
-                    {data.hero.subhead}
+                    {data.hero?.subhead || data.description}
                 </p>
             </div>
         </section>

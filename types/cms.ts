@@ -175,16 +175,28 @@ export interface SiteSettings {
     default_aeo: AEO;
 }
 
-export interface NavigationItem {
+export interface NavItem {
     label: string;
-    type: "internal_page" | "platform" | "external_url" | "anchor";
-    url: string;
-    is_primary?: boolean;
+    href: string;
+    description?: string;
+    icon?: string;
+}
+
+export interface NavColumn {
+    title?: string;
+    items: NavItem[];
+}
+
+export interface NavSection {
+    label: string;
+    href: string;
+    type: "link" | "dropdown";
+    columns?: NavColumn[];
 }
 
 export interface Navigation {
-    name: "Header" | "Footer" | "Legal";
-    items: NavigationItem[];
+    name: string;
+    items: NavSection[];
 }
 export interface HomeContent {
     hero: {

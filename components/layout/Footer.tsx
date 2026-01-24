@@ -1,31 +1,5 @@
 import Link from "next/link";
-
-const footerLinks = {
-    capabilities: [
-        { label: "AI & Automation", href: "/capabilities" }, // In real impl, deep link
-        { label: "Growth Engines", href: "/capabilities" },
-        { label: "Product Engineering", href: "/capabilities" },
-        { label: "Content Systems", href: "/capabilities" },
-    ],
-    studios: [
-        { label: "Revenueable", href: "/studios" },
-        { label: "NexoCircle", href: "/studios" },
-        { label: "PujaDaily", href: "/studios" },
-        { label: "All Studios", href: "/studios" },
-    ],
-    company: [
-        { label: "Who We Are", href: "/about" },
-        { label: "Principles", href: "/about" },
-        { label: "Insights", href: "/insights" },
-        { label: "Connect", href: "/connect" },
-    ],
-    legal: [
-        { label: "Privacy", href: "/privacy" },
-        { label: "Terms", href: "/terms" },
-        { label: "Security", href: "/security" },
-        { label: "Sitemap", href: "/sitemap.xml" },
-    ]
-};
+import { footerNav, legalNav } from "@/lib/data/navigation";
 
 export default function Footer() {
     return (
@@ -44,7 +18,7 @@ export default function Footer() {
                             We build and run AI, community, voice, and commerce platforms—designed to survive reality, not impress in rooms.
                         </p>
                         <div className="flex gap-4">
-                            {/* Social placeholders */}
+                            {/* Social placeholders - could make these data-driven later */}
                             <div className="w-8 h-8 rounded-full bg-surface-200"></div>
                             <div className="w-8 h-8 rounded-full bg-surface-200"></div>
                             <div className="w-8 h-8 rounded-full bg-surface-200"></div>
@@ -52,57 +26,37 @@ export default function Footer() {
                     </div>
 
                     {/* Links Columns */}
-                    <div>
-                        <h3 className="font-mono text-xs uppercase tracking-wider text-gray-400 mb-6">Capabilities</h3>
-                        <ul className="space-y-3">
-                            {footerLinks.capabilities.map((link) => (
-                                <li key={link.label}>
-                                    <Link href={link.href} className="text-sm text-gray-600 hover:text-black transition-colors">
-                                        {link.label}
-                                    </Link>
-                                </li>
-                            ))}
-                        </ul>
-                    </div>
+                    {footerNav.items.map((section) => (
+                        <div key={section.label}>
+                            <h3 className="font-mono text-xs uppercase tracking-wider text-gray-400 mb-6">{section.label}</h3>
+                            <ul className="space-y-3">
+                                {/* Flatten columns for footer if multiple exist, but usually simple list */}
+                                {section.columns?.flatMap(col => col.items).map((link) => (
+                                    <li key={link.label}>
+                                        <Link href={link.href} className="text-sm text-gray-600 hover:text-black transition-colors">
+                                            {link.label}
+                                        </Link>
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+                    ))}
 
-                    <div>
-                        <h3 className="font-mono text-xs uppercase tracking-wider text-gray-400 mb-6">Studios</h3>
-                        <ul className="space-y-3">
-                            {footerLinks.studios.map((link) => (
-                                <li key={link.label}>
-                                    <Link href={link.href} className="text-sm text-gray-600 hover:text-black transition-colors">
-                                        {link.label}
-                                    </Link>
-                                </li>
-                            ))}
-                        </ul>
-                    </div>
-
-                    <div>
-                        <h3 className="font-mono text-xs uppercase tracking-wider text-gray-400 mb-6">Company</h3>
-                        <ul className="space-y-3">
-                            {footerLinks.company.map((link) => (
-                                <li key={link.label}>
-                                    <Link href={link.href} className="text-sm text-gray-600 hover:text-black transition-colors">
-                                        {link.label}
-                                    </Link>
-                                </li>
-                            ))}
-                        </ul>
-                    </div>
-
-                    <div>
-                        <h3 className="font-mono text-xs uppercase tracking-wider text-gray-400 mb-6">Legal</h3>
-                        <ul className="space-y-3">
-                            {footerLinks.legal.map((link) => (
-                                <li key={link.label}>
-                                    <Link href={link.href} className="text-sm text-gray-600 hover:text-black transition-colors">
-                                        {link.label}
-                                    </Link>
-                                </li>
-                            ))}
-                        </ul>
-                    </div>
+                    {/* Legal Column - manually added or from legalNav */}
+                    {legalNav.items.map((section) => (
+                        <div key={section.label}>
+                            <h3 className="font-mono text-xs uppercase tracking-wider text-gray-400 mb-6">{section.label}</h3>
+                            <ul className="space-y-3">
+                                {section.columns?.flatMap(col => col.items).map((link) => (
+                                    <li key={link.label}>
+                                        <Link href={link.href} className="text-sm text-gray-600 hover:text-black transition-colors">
+                                            {link.label}
+                                        </Link>
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+                    ))}
 
                 </div>
 

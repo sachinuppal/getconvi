@@ -4,17 +4,15 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import clsx from "clsx";
-
-const navItems = [
-    { label: "Capabilities", href: "/capabilities" },
-    { label: "Work", href: "/work" },
-    { label: "Studios", href: "/studios" },
-    { label: "Insights", href: "/insights" },
-    { label: "About", href: "/about" },
-];
+import { headerNav } from "@/lib/data/navigation";
+import MegaMenu from "./MegaMenu";
+import MobileMenu from "./MobileMenu";
+import { Menu } from "lucide-react";
 
 export default function Header() {
     const [scrolled, setScrolled] = useState(false);
+    const [activeMenu, setActiveMenu] = useState<string | null>(null);
+    const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
     const pathname = usePathname();
 
     useEffect(() => {
@@ -25,14 +23,21 @@ export default function Header() {
         return () => window.removeEventListener("scroll", handleScroll);
     }, []);
 
+    // Clear active menu on route change
+    useEffect(() => {
+        setActiveMenu(null);
+        setMobileMenuOpen(false);
+    }, [pathname]);
+
     return (
         <header
             className={clsx(
                 "fixed top-0 left-0 right-0 z-50 transition-all duration-300 border-b",
-                scrolled
-                    ? "bg-white/80 backdrop-blur-md border-surface-200 py-3"
+                scrolled || activeMenu || mobileMenuOpen
+                    ? "bg-white/90 backdrop-blur-md border-surface-200 py-3"
                     : "bg-transparent border-transparent py-5"
             )}
+            onMouseLeave={() => setActiveMenu(null)}
         >
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
                 {/* Logo */}
@@ -41,23 +46,43 @@ export default function Header() {
                 </Link>
 
                 {/* Desktop Nav */}
-                <nav className="hidden md:flex items-center gap-8">
-                    {navItems.map((item) => (
-                        <Link
-                            key={item.href}
-                            href={item.href}
-                            className={clsx(
-                                "text-sm font-medium transition-colors hover:text-black relative group",
-                                pathname.startsWith(item.href) ? "text-electric-blue" : "text-gray-600"
-                            )}
-                        >
-                            {item.label}
-                            <span className={clsx(
-                                "absolute -bottom-1 left-0 w-full h-[1px] bg-electric-blue scale-x-0 transition-transform origin-left group-hover:scale-x-100",
-                                pathname.startsWith(item.href) && "scale-x-100"
-                            )} />
-                        </Link>
-                    ))}
+                <nav className="hidden md:flex items-center gap-8 h-full">
+                    {headerNav.items.map((item) => {
+                        if (item.label === "Connect") return null; // Handle CTA separately
+
+                        return (
+                            <div
+                                key={item.label}
+                                onMouseEnter={() => item.type === "dropdown" && setActiveMenu(item.label)}
+                                className="h-full flex items-center"
+                            >
+                                <Link
+                                    href={item.href}
+                                    className={clsx(
+                                        "text-sm font-medium transition-colors hover:text-black relative group py-2",
+                                        pathname.startsWith(item.href) ? "text-electric-blue" : "text-gray-600",
+                                        activeMenu === item.label && "text-black"
+                                    )}
+                                    onClick={() => setActiveMenu(null)} // Close on click if it's a link
+                                >
+                                    {item.label}
+                                    <span className={clsx(
+                                        "absolute -bottom-1 left-0 w-full h-[1px] bg-electric-blue scale-x-0 transition-transform origin-left group-hover:scale-x-100",
+                                        (pathname.startsWith(item.href) || activeMenu === item.label) && "scale-x-100"
+                                    )} />
+                                </Link>
+
+                                {/* Mega Menu Dropdown */}
+                                {item.type === "dropdown" && (
+                                    <MegaMenu
+                                        data={item}
+                                        isOpen={activeMenu === item.label}
+                                        onClose={() => setActiveMenu(null)}
+                                    />
+                                )}
+                            </div>
+                        );
+                    })}
                 </nav>
 
                 {/* CTA (Connect) */}
@@ -68,14 +93,22 @@ export default function Header() {
                     Connect
                 </Link>
 
-                {/* Mobile Menu Button (Placeholder for now) */}
-                <button className="md:hidden p-2 text-gray-800">
+                {/* Mobile Menu Button */}
+                <button
+                    className="md:hidden p-2 text-gray-800 hover:bg-gray-100 rounded-full transition-colors"
+                    onClick={() => setMobileMenuOpen(true)}
+                >
                     <span className="sr-only">Open menu</span>
-                    <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
-                    </svg>
+                    <Menu className="w-6 h-6" />
                 </button>
             </div>
+
+            {/* Mobile Menu Sheet */}
+            <MobileMenu
+                data={headerNav.items}
+                isOpen={mobileMenuOpen}
+                onClose={() => setMobileMenuOpen(false)}
+            />
         </header>
     );
 }
