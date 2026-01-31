@@ -41,8 +41,15 @@ export default function Header() {
         >
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
                 {/* Logo */}
-                <Link href="/" className="font-heading font-bold text-xl tracking-tight z-50 relative group">
-                    Getconvi<span className="text-gray-400 group-hover:text-electric-pink transition-colors">.com</span>
+                <Link href="/" className="flex items-center gap-2 z-50 relative group">
+                    <img
+                        src="/logo.png"
+                        alt="Getconvi"
+                        className="h-8 w-auto object-contain"
+                    />
+                    <span className="font-heading font-bold text-xl tracking-tight">
+                        Getconvi<span className="text-gray-400 group-hover:text-electric-pink transition-colors">.com</span>
+                    </span>
                 </Link>
 
                 {/* Desktop Nav */}

@@ -1,158 +1,115 @@
 [
     {
-        "slug": "nexocircle",
-        "name": "NexoCircle",
-        "domain": "nexocircle.com",
-        "website_url": "https://nexocircle.com",
+        "slug": "sachinuppal",
+        "name": "SachinUppal.com",
+        "domain": "sachinuppal.com",
+        "website_url": "https://sachinuppal.com",
         "status": "live",
-        "tagline": "Communities that play, grow, and belong.",
-        "short_description": "NexoCircle is an offline-first community platform designed for real human connection—through games, travel, shared experiences, and collaborative growth.",
+        "tagline": "Proof Over Promises.",
+        "short_description": "A living lab and portfolio master document that explains why products exist, how they were built, and what they stand for.",
         "capabilities": [
-            "entertainment",
-            "communications"
+            "growth",
+            "technology"
         ],
-        "primary_capability": "entertainment",
+        "primary_capability": "growth",
         "audience": {
             "for": [
-                "People seeking real connection",
-                "Builders, creators, and curious minds",
-                "Those tired of shallow networking"
+                "Founders",
+                "Investors",
+                "Operators"
             ],
             "not_for": [
-                "Mass networking events",
-                "Passive online-only communities"
+                "Passive Observers"
             ]
         },
         "hero": {
-            "headline": "Communities that play, grow, and belong.",
-            "subline": "NexoCircle is an offline-first community platform designed for real human connection—through games, travel, shared experiences, and collaborative growth.",
+            "headline": "I Don’t Sell Services. I Show Outcomes.",
+            "subline": "Everything you see here has been built, shipped, tested, broken, and rebuilt by me.",
             "primary_cta": {
-                "label": "Explore the community",
-                "url": "#"
+                "label": "View the Work",
+                "url": "https://sachinuppal.com"
             },
-            "secondary_cta": {
-                "label": "Become a member",
-                "url": "#"
-            },
-            "microcopy": "Built for people who want more than online groups."
+            "microcopy": "No decks. No jargon. Just work."
         },
         "problem": {
-            "headline": "Most communities don’t feel like communities.",
+            "headline": "Experience without visible proof sounds like noise.",
             "points": [
-                "Online groups lack real connection",
-                "Events feel transactional, not meaningful",
-                "People struggle to find their tribe",
-                "Engagement fades after initial excitement"
+                "Clients didn't want résumés.",
+                "They wanted evidence.",
+                "Growth claims are easy to make.",
+                "Execution is hard to prove."
             ],
-            "summary": "NexoCircle was built to solve this by bringing people together in the real world, repeatedly."
+            "summary": "This site was born as a personal reset — a place where my thinking, execution style, and outcomes could live in public."
         },
         "value": {
-            "headline": "An operating system for belonging.",
-            "description": "NexoCircle is a curated, offline-first community where people meet through play, experiences, and shared growth—not networking pressure or shallow interactions.",
+            "headline": "A Mirror of Execution Style.",
+            "description": "This site is not a brochure. It’s a living lab. It represents my bias toward speed, systems, and the belief that results market themselves.",
             "enables": [
-                "Consistent in-person experiences",
-                "Safe, welcoming social environments",
-                "Repeat interactions that build trust",
-                "A sense of belonging over time"
+                "Programmatic SEO",
+                "AI-generated content pipelines",
+                "CRO experiments",
+                "Automation-led publishing"
             ]
         },
         "how_it_works": {
             "steps": [
                 {
                     "number": "01",
-                    "title": "Curated Entry",
-                    "description": "Members join through intent, not volume."
+                    "title": "Start Simple",
+                    "description": "Launched as a single static page with no fluff."
                 },
                 {
                     "number": "02",
-                    "title": "Play & Experiences",
-                    "description": "Games, sports, travel, and shared activities break social barriers."
+                    "title": "Experiment",
+                    "description": "Used as a sandbox for pSEO and automation."
                 },
                 {
                     "number": "03",
-                    "title": "Repeat Interactions",
-                    "description": "The same people meet again—trust compounds."
-                },
-                {
-                    "number": "04",
-                    "title": "Community Growth",
-                    "description": "Members move from participants to hosts, collaborators, and builders."
+                    "title": "Scale",
+                    "description": "Expanded to ~900 pages only when experiments worked."
                 }
             ]
         },
         "showcase": {
-            "headline": "What happens inside NexoCircle",
+            "headline": "What It Represents",
             "pillars": [
-                "Home game nights (Poker, Mafia, board games)",
-                "Sports and outdoor activities",
-                "Travel-based immersive experiences",
-                "Small-group dinners and socials",
-                "Collaborative projects and ideas"
+                "Execution Philosophy",
+                "Bias Toward Speed",
+                "Systems Thinking"
             ],
-            "summary": "Every experience is designed to feel safe, inclusive, and energizing."
+            "summary": "If something works here, it’s safe to assume it can work for a client."
         },
         "proof": {
             "signals": [
-                "200+ active members",
-                "60+ offline experiences hosted",
-                "Paid memberships in operation",
-                "Travel and multi-day immersive events executed"
+                "~900 indexed pages",
+                "Living lab for experiments"
             ],
-            "status": "NexoCircle is live, evolving, and actively operated."
+            "status": "Active · Continuously evolving · Always shipping"
         },
         "bridge": {
-            "headline": "How this connects to Getconvi",
-            "description": "NexoCircle is one of Getconvi’s core operating platforms.",
+            "headline": "Strategic Role",
+            "description": "Acts as the portfolio master document for GetConvey Technologies.",
             "learnings": [
-                "Engagement and retention loops",
-                "Trust and safety at scale",
-                "Experience design",
-                "Long-term participation incentives"
+                "Proof Over Promises",
+                "Results Market Themselves"
             ]
         },
         "footer": {
-            "tagline": "Built for belonging.",
-            "description": "NexoCircle is a Getconvi platform focused on real-world connection, play, and shared growth."
+            "tagline": "Outcomes, shown.",
+            "description": "SachinUppal.com is the central node for proof of work."
         },
         "seo": {
-            "meta_title": "NexoCircle | Offline-First Community Platform",
-            "meta_description": "NexoCircle connects people through curated offline experiences, games, and shared growth. Built for real human connection.",
-            "keywords": [
-                "Community",
-                "Offline Events",
-                "Social Club",
-                "Networking"
-            ],
+            "meta_title": "Sachin Uppal | Proof Over Promises",
+            "meta_description": "SachinUppal.com is a living portfolio showing outcomes, not just credentials. Built to demonstrate execution velocity.",
             "robots": {
                 "index": true,
                 "follow": true
-            },
-            "open_graph": {
-                "title": "NexoCircle | Communities that play, grow, and belong.",
-                "description": "Real human connection through games, travel, and shared experiences.",
-                "type": "website"
             }
         },
         "aeo": {
-            "entity_name": "NexoCircle",
-            "entity_type": "Organization",
-            "one_sentence_definition": "NexoCircle is an offline-first community platform that facilitates real-world connection through curated games, travel, and shared experiences.",
-            "key_facts": [
-                {
-                    "label": "Focus",
-                    "value": "Offline Community & Experiences"
-                },
-                {
-                    "label": "Parent",
-                    "value": "Getconvi"
-                }
-            ],
-            "faqs": [
-                {
-                    "question": "What is NexoCircle?",
-                    "answer": "NexoCircle is a community platform focused on building offline connections through shared activities like games and travel."
-                }
-            ]
+            "entity_name": "SachinUppal.com",
+            "entity_type": "Person",
+            "one_sentence_definition": "SachinUppal.com is the personal portfolio and proof-of-work platform for Sachin Uppal, showcasing built ventures and outcomes."
         }
     },
     {
@@ -161,118 +118,107 @@
         "domain": "revenueable.ai",
         "website_url": "https://revenueable.ai",
         "status": "live",
-        "tagline": "AI agents that turn traffic into revenue.",
-        "short_description": "Revenueable.ai is an AI-native revenue system that identifies visitors, adapts experiences in real time, and drives measurable conversion lift across the funnel.",
+        "tagline": "Building the Revenue Team I Always Wanted.",
+        "short_description": "A revenue system that works even when humans fail. Unifying visitor identification, personalization, and follow-ups.",
         "capabilities": [
             "technology",
+            "growth",
             "integration"
         ],
         "primary_capability": "technology",
         "audience": {
             "for": [
-                "B2B teams with meaningful traffic",
-                "Companies tired of static websites",
-                "Revenue leaders seeking clarity"
+                "B2B Founders",
+                "Sales-led Teams",
+                "Marketers"
             ],
             "not_for": [
-                "Early-stage sites with no traffic",
-                "Teams seeking vanity metrics"
+                "Vanity Metric Seekers"
             ]
         },
         "hero": {
-            "headline": "AI agents that turn traffic into revenue.",
-            "subline": "Revenueable.ai is an AI-native revenue system that identifies visitors, adapts experiences in real time, and drives measurable conversion lift across the funnel.",
+            "headline": "Revenue Shouldn’t Depend on Human Memory.",
+            "subline": "Sales forget. Marketing is blind. Founders guess. Revenueable exists because I got tired of pretending this was normal.",
             "primary_cta": {
-                "label": "See how it works",
+                "label": "See the System",
                 "url": "#"
-            },
-            "secondary_cta": {
-                "label": "Request a demo",
-                "url": "#"
-            },
-            "microcopy": "Built for teams that care about outcomes, not dashboards."
+            }
         },
         "problem": {
-            "headline": "Most marketing teams still guess.",
+            "headline": "Everyone talks about growth, but no one owns revenue end-to-end.",
             "points": [
-                "Anonymous traffic hides real demand",
-                "Attribution breaks beyond last click",
-                "CRO relies on slow experiments",
-                "Sales and marketing operate in silos"
+                "Traffic is anonymous and wasted.",
+                "Sales teams don't follow up.",
+                "Marketing takes credit without proof.",
+                "Attribution is political, not factual."
             ],
-            "summary": "Revenueable was built to replace guesswork with real-time signal and action."
+            "summary": "I didn’t want another dashboard. I wanted a revenue system that worked even when humans failed."
         },
         "value": {
-            "headline": "A real-time revenue operating system.",
-            "description": "Revenueable.ai deploys specialized AI agents across your website and funnel—detecting intent, personalizing experiences, triggering follow-ups, and attributing revenue that traditional tools miss.",
-            "enables": []
+            "headline": "A Revenue Team in Code.",
+            "description": "It wasn't designed as a SaaS tool. It was designed as a team. Each agent solves a specific failure point I've personally experienced.",
+            "enables": [
+                "Visitor Identification (Sense)",
+                "Real-time Personalization (React)",
+                "Automated Follow-ups (Reach)",
+                "Voice Sales (Signal)"
+            ]
         },
         "how_it_works": {
             "steps": [
                 {
                     "number": "01",
-                    "title": "Detect",
-                    "description": "Understand who’s visiting and why, in real time."
+                    "title": "Sense",
+                    "description": "De-anonymize traffic because wasted potential is expensive."
                 },
                 {
                     "number": "02",
-                    "title": "Adapt",
-                    "description": "Change messaging, content, and CTAs instantly."
+                    "title": "React",
+                    "description": "Adapt content instantly because static sites lose intent."
                 },
                 {
                     "number": "03",
-                    "title": "Engage",
-                    "description": "Trigger timely follow-ups without manual workflows."
+                    "title": "Reach & Signal",
+                    "description": "Follow up via text and voice, no human memory required."
                 },
                 {
                     "number": "04",
-                    "title": "Attribute",
-                    "description": "See what actually influenced revenue, not just clicks."
+                    "title": "Nova & Ray",
+                    "description": "Attribute truth and schedule demos."
                 }
             ]
         },
         "showcase": {
-            "headline": "The Agent System (Core Differentiator)",
+            "headline": "Philosophy",
             "pillars": [
-                "Sense — Identifies visitors",
-                "React — Adapts content",
-                "Reach — Contextual follow-ups",
-                "Signal — AI voice agent",
-                "Nova — Attribution"
+                "Automation over Dashboards",
+                "Incrementality over Vanity",
+                "Systems over Heroics"
             ],
-            "summary": "Each agent operates independently—and compounds together."
+            "summary": "The revenue team I wish I had when scaling earlier companies."
         },
         "proof": {
             "signals": [
-                "Deployed across live B2B websites",
-                "Real-time visitor identification in production",
-                "Automated demo and voice agents live",
-                "Revenue attribution beyond ad clicks enabled"
+                "Pre-seed traction",
+                "Deployed live"
             ],
-            "status": "Revenueable is live, evolving, and actively operated."
+            "status": "Active · Early traction · Pre-seed stage"
         },
         "bridge": {
-            "headline": "How this connects to Getconvi",
-            "description": "Revenueable.ai is built and operated inside Getconvi.",
+            "headline": "Strategic Role",
+            "description": "Consolidates all learnings on revenue operations into one platform.",
             "learnings": [
-                "AI system design",
-                "Funnel economics",
-                "Attribution truth",
-                "Automation at scale"
+                "End-to-End Revenue",
+                "Agentic Workflows"
             ]
         },
         "footer": {
-            "tagline": "Revenue systems that respond in real time.",
-            "description": "Revenueable.ai is a Getconvi platform built to convert intent into revenue through coordinated AI agents."
+            "tagline": "Revenue, automated.",
+            "description": "Revenueable.ai ensures no lead is left behind."
         },
         "seo": {
             "meta_title": "Revenueable.ai | AI Revenue System",
-            "meta_description": "Revenueable.ai uses autonomous AI agents to identify visitors, personalize websites, and drive revenue conversion in real-time.",
-            "keywords": [
-                "AI Marketing",
-                "Revenue Operations",
-                "Visitor Identification"
-            ],
+            "meta_description": "Revenueable.ai is an automated revenue team that identifies visitors, personalizes content, and manages follow-ups.",
             "robots": {
                 "index": true,
                 "follow": true
@@ -281,123 +227,7 @@
         "aeo": {
             "entity_name": "Revenueable.ai",
             "entity_type": "SoftwareApplication",
-            "one_sentence_definition": "Revenueable.ai is an AI-native revenue operations platform that automates visitor identification, personalization, and conversion using autonomous agents."
-        }
-    },
-    {
-        "slug": "pujadaily",
-        "name": "PujaDaily.com",
-        "domain": "pujadaily.com",
-        "website_url": "https://pujadaily.com",
-        "status": "live",
-        "tagline": "Your daily rituals. Simplified and gamified.",
-        "short_description": "PujaDaily helps you practice daily devotion with clarity, consistency, and ease—through simple guided rituals, reminders, and progress tracking.",
-        "capabilities": [
-            "entertainment"
-        ],
-        "primary_capability": "entertainment",
-        "audience": {
-            "for": [
-                "People seeking daily spiritual discipline",
-                "Busy professionals"
-            ],
-            "not_for": [
-                "One-time ritual seekers"
-            ]
-        },
-        "hero": {
-            "headline": "Your daily rituals. Simplified and gamified.",
-            "subline": "PujaDaily helps you practice daily devotion with clarity, consistency, and ease—through simple guided rituals, reminders, and progress tracking.",
-            "primary_cta": {
-                "label": "Start today’s puja",
-                "url": "#"
-            },
-            "secondary_cta": {
-                "label": "Explore how it works",
-                "url": "#"
-            }
-        },
-        "problem": {
-            "headline": "Devotion often breaks under modern life.",
-            "points": [
-                "Daily puja feels time-consuming",
-                "Ritual steps are easy to forget",
-                "Consistency is hard to maintain"
-            ],
-            "summary": "PujaDaily was created to make daily spiritual practice simple, structured, and sustainable."
-        },
-        "value": {
-            "headline": "A daily operating system for devotion.",
-            "description": "PujaDaily is a guided spiritual platform that helps you perform daily rituals correctly and consistently—without complexity or pressure.",
-            "enables": []
-        },
-        "how_it_works": {
-            "steps": [
-                {
-                    "number": "01",
-                    "title": "Today’s Puja",
-                    "description": "See exactly what to do today, based on the calendar."
-                },
-                {
-                    "number": "02",
-                    "title": "Simple Guidance",
-                    "description": "Clear steps, mantras, and reminders—no overload."
-                },
-                {
-                    "number": "03",
-                    "title": "Daily Completion",
-                    "description": "Mark your puja done and build consistency."
-                },
-                {
-                    "number": "04",
-                    "title": "Progress & Rhythm",
-                    "description": "Track streaks, milestones, and spiritual habits over time."
-                }
-            ]
-        },
-        "showcase": {
-            "headline": "What you can do on PujaDaily",
-            "pillars": [
-                "Daily puja guidance",
-                "Mantras with step-by-step flow",
-                "Ritual reminders",
-                "Streaks and progress tracking"
-            ],
-            "summary": "Everything is designed to feel calm, respectful, and focused."
-        },
-        "proof": {
-            "signals": [
-                "Daily ritual flows in active use",
-                "Guided mantras and steps live",
-                "Calendar-based puja logic implemented"
-            ],
-            "status": "PujaDaily is live and evolving."
-        },
-        "bridge": {
-            "headline": "How this connects to Getconvi",
-            "description": "PujaDaily is built and operated within Getconvi.",
-            "learnings": [
-                "Habit formation",
-                "Calm user experiences",
-                "Long-term engagement"
-            ]
-        },
-        "footer": {
-            "tagline": "Devotion, made consistent.",
-            "description": "PujaDaily is a Getconvi platform designed to support daily spiritual practice with simplicity and care."
-        },
-        "seo": {
-            "meta_title": "PujaDaily | Daily Rituals Simplified",
-            "meta_description": "PujaDaily helps you maintain a consistent spiritual practice with guided simple rituals and progress tracking.",
-            "robots": {
-                "index": true,
-                "follow": true
-            }
-        },
-        "aeo": {
-            "entity_name": "PujaDaily",
-            "entity_type": "SoftwareApplication",
-            "one_sentence_definition": "PujaDaily is a digital platform that guides users through daily spiritual rituals with structure and gamification."
+            "one_sentence_definition": "Revenueable.ai is an intelligent revenue automation platform that uses AI agents to manage the entire sales funnel."
         }
     },
     {
@@ -406,96 +236,97 @@
         "domain": "pokershark.ai",
         "website_url": "https://pokershark.ai",
         "status": "live",
-        "tagline": "The AI coach serious poker players use.",
-        "short_description": "PokerShark.ai helps poker players improve decision-making through hand analysis, performance tracking, and actionable insights.",
+        "tagline": "Teaching the Game, Not Exploiting the Player.",
+        "short_description": "A silent coach that teaches players how to think, watching every hand and whispering better decisions.",
         "capabilities": [
             "games"
         ],
         "primary_capability": "games",
         "audience": {
             "for": [
-                "Serious poker players",
-                "Online grinders"
+                "Learners",
+                "Strategic Players"
             ],
             "not_for": [
-                "Casual play"
+                "Gamblers"
             ]
         },
         "hero": {
-            "headline": "The AI coach serious poker players use.",
-            "subline": "PokerShark.ai helps poker players improve decision-making through hand analysis, performance tracking, and actionable insights.",
+            "headline": "Poker Isn’t Gambling. It’s a Skill — If You’re Taught Right.",
+            "subline": "Most platforms profit when players lose. PokerShark was built to do the opposite.",
             "primary_cta": {
-                "label": "Analyze your game",
+                "label": "Start Training",
                 "url": "#"
             }
         },
         "problem": {
-            "headline": "Poker skill is hard to measure honestly.",
+            "headline": "No one taught them how to think.",
             "points": [
-                "Feedback is inconsistent",
-                "Results are noisy"
+                "New players lose fast.",
+                "They get discouraged and churn.",
+                "Poker feels unfair without strategy.",
+                "Acquisition is useless without retention."
             ],
-            "summary": "PokerShark was built to bring clarity and discipline to player growth."
+            "summary": "I didn’t want to acquire players. I wanted to train them."
         },
         "value": {
-            "headline": "A performance system for poker players.",
-            "description": "PokerShark.ai analyzes hand histories and gameplay patterns to surface mistakes, strengths, and improvement paths."
+            "headline": "The Silent Coach.",
+            "description": "If poker players could learn while playing, retention would follow. PokerShark watches every hand and analyzes every decision.",
+            "enables": [
+                "Hand history analysis",
+                "Move-by-move feedback",
+                "Long-term EV training"
+            ]
         },
         "how_it_works": {
             "steps": [
                 {
                     "number": "01",
-                    "title": "Import",
-                    "description": "Upload hand histories."
+                    "title": "Watch",
+                    "description": "AI observes every hand played."
                 },
                 {
                     "number": "02",
                     "title": "Analyze",
-                    "description": "AI evaluates decisions."
+                    "description": "Evaluates decisions against optimal strategy."
                 },
                 {
                     "number": "03",
-                    "title": "Learn",
-                    "description": "Personalized insights."
-                },
-                {
-                    "number": "04",
-                    "title": "Improve",
-                    "description": "Track progress."
+                    "title": "Whisper",
+                    "description": "Teaches patterns and discipline, not just tricks."
                 }
             ]
         },
         "showcase": {
-            "headline": "Features",
+            "headline": "What It Stands For",
             "pillars": [
-                "Leak detection",
-                "ROI tracking",
-                "Skill progression"
+                "Ethical Gaming",
+                "Skill-First Retention",
+                "Respect for the Player"
             ],
-            "summary": "PokerShark fits into how players actually study."
+            "summary": "Teaching the game, not exploiting the player."
         },
         "proof": {
             "signals": [
-                "Hand analysis live",
-                "Performance dashboards operational"
+                "Silent Coach Technology"
             ],
-            "status": "PokerShark.ai is live."
+            "status": "Inactive due to regulatory changes"
         },
         "bridge": {
-            "headline": "Connection to Getconvi",
-            "description": "Built inside Getconvi.",
+            "headline": "Core Insight",
+            "description": "Skill-based retention is the only sustainable model for gaming.",
             "learnings": [
-                "Skill improvement",
-                "Data-driven coaching"
+                "Ethical Gameplay",
+                "Retention Systems"
             ]
         },
         "footer": {
-            "tagline": "Poker, understood.",
-            "description": "PokerShark.ai is a Getconvi platform focused on structured improvement for serious poker players."
+            "tagline": "Play smarter.",
+            "description": "PokerShark.ai turns gambling into a sport."
         },
         "seo": {
-            "meta_title": "PokerShark.ai | AI Poker Coach",
-            "meta_description": "Improve your poker game with AI-driven hand analysis and performance tracking from PokerShark.",
+            "meta_title": "PokerShark.ai | Ethical Poker Coaching",
+            "meta_description": "PokerShark.ai is an AI-driven poker coach that helps players learn strategy and improve skill in real-time.",
             "robots": {
                 "index": true,
                 "follow": true
@@ -504,106 +335,337 @@
         "aeo": {
             "entity_name": "PokerShark.ai",
             "entity_type": "SoftwareApplication",
-            "one_sentence_definition": "PokerShark.ai is an AI-powered coaching platform for poker players that analyzes hand histories to improve decision-making."
+            "one_sentence_definition": "PokerShark.ai is an ethical AI poker coaching platform focusing on skill development and player retention."
         }
     },
     {
-        "slug": "aurl",
-        "name": "Aurl.ai",
-        "domain": "aurl.ai",
-        "website_url": "https://aurl.ai",
+        "slug": "nexocircle",
+        "name": "NexoCircle",
+        "domain": "nexocircle.com",
+        "website_url": "https://nexocircle.com",
         "status": "live",
-        "tagline": "Voice infrastructure for real-time conversations.",
-        "short_description": "Aurl.ai is a voice platform that lets teams create, manage, and deploy intelligent voice agents for real-time conversations.",
+        "tagline": "Building What the Internet Couldn’t.",
+        "short_description": "An offline-first community building real trust through shared experiences, games, and travel.",
         "capabilities": [
-            "voice"
+            "entertainment",
+            "communications",
+            "networks"
         ],
-        "primary_capability": "voice",
+        "primary_capability": "networks",
         "audience": {
             "for": [
-                "Developers",
-                "Product Teams"
+                "Founders",
+                "Operators",
+                "Professionals"
             ],
-            "not_for": []
+            "not_for": [
+                "Online Networkers"
+            ]
         },
         "hero": {
-            "headline": "Voice infrastructure for real-time conversations.",
-            "subline": "Aurl.ai provides the infrastructure to design, deploy, and operate intelligent voice agents.",
+            "headline": "We’re More Connected Than Ever. And Lonelier Than Ever.",
+            "subline": "NexoCircle exists because likes, messages, and Zoom calls don’t replace presence.",
             "primary_cta": {
-                "label": "Request access",
+                "label": "Join the Circle",
                 "url": "#"
             }
         },
         "problem": {
-            "headline": "Building voice agents is deceptively hard.",
+            "headline": "People feel alone, even when surrounded by people.",
             "points": [
-                "Latency kills immersion",
-                "Telephony is complex"
+                "Founders can't speak freely.",
+                "Employees have no tribe.",
+                "Online connection is shallow.",
+                "Everyone is 'busy' but disconnected."
             ],
-            "summary": "Aurl.ai abstracts the complexity of real-time voice AI."
+            "summary": "I didn’t want another online community. I wanted people in the same room."
         },
         "value": {
-            "headline": "A programmable voice platform.",
-            "description": "Aurl.ai provides the infrastructure to design, deploy, and operate intelligent voice agents that listen, speak, and act in real time."
+            "headline": "Trust Comes From Shared Experiences.",
+            "description": "Trust doesn't come from conversations. It comes from doing things together. Games. Sports. Travel. Building.",
+            "enables": [
+                "Home games (Poker, Mafia)",
+                "Sports & Fitness",
+                "Curated Travel",
+                "Build Rooms"
+            ]
         },
         "how_it_works": {
             "steps": [
                 {
                     "number": "01",
-                    "title": "Design",
-                    "description": "Define agent behavior."
+                    "title": "Gather",
+                    "description": "Meet offline. No infinite feeds."
                 },
                 {
                     "number": "02",
-                    "title": "Connect",
-                    "description": "Integrate telephony."
+                    "title": "Play",
+                    "description": "Games and travel compress time and remove masks."
                 },
                 {
                     "number": "03",
-                    "title": "Deploy",
-                    "description": "Launch agents."
+                    "title": "Bond",
+                    "description": "Shared experiences create real belonging."
                 }
             ]
         },
         "showcase": {
-            "headline": "Use Cases",
+            "headline": "What It Stands For",
             "pillars": [
-                "Sales",
-                "Support",
-                "Operations"
+                "Belonging over Networking",
+                "Play before Pitch",
+                "Depth over Scale"
             ],
-            "summary": "Powering real-time voice."
+            "summary": "Optimized for one outcome: real connection."
         },
         "proof": {
             "signals": [
-                "Real-time voice pipelines live"
+                "200+ members",
+                "60+ offline events"
             ],
-            "status": "Aurl.ai is live."
+            "status": "Active · Growing · Community-led"
         },
         "bridge": {
-            "headline": "Getconvi Connection",
-            "description": "Aurl is a core infra platform.",
+            "headline": "Impact",
+            "description": "Multiple products have been born from the community itself.",
             "learnings": [
-                "Low-latency UX",
-                "Voice AI"
+                "Offline First",
+                "Trust Networks"
             ]
         },
         "footer": {
-            "tagline": "Voice, as infrastructure.",
-            "description": "Aurl.ai is a Getconvi platform built to support real-time conversational systems."
+            "tagline": "Real connection.",
+            "description": "NexoCircle brings people together in the real world."
         },
         "seo": {
-            "meta_title": "Aurl.ai | Voice Infrastructure",
-            "meta_description": "Aurl.ai provides programmable voice infrastructure for building and deploying real-time AI voice agents.",
+            "meta_title": "NexoCircle | Offline Social Community",
+            "meta_description": "NexoCircle is a community for founders and professionals focused on offline connection, games, and shared travel.",
             "robots": {
                 "index": true,
                 "follow": true
             }
         },
         "aeo": {
-            "entity_name": "Aurl.ai",
+            "entity_name": "NexoCircle",
+            "entity_type": "Organization",
+            "one_sentence_definition": "NexoCircle is an offline-first social community that builds trust through games, travel, and shared experiences."
+        }
+    },
+    {
+        "slug": "pujadaily",
+        "name": "PujaDaily.com",
+        "domain": "pujadaily.com",
+        "website_url": "https://pujadaily.com",
+        "status": "live",
+        "tagline": "Making Spirituality Stick.",
+        "short_description": "A spiritual social network that provides structure, guidance, and community for daily practice.",
+        "capabilities": [
+            "entertainment",
+            "networks"
+        ],
+        "primary_capability": "entertainment",
+        "audience": {
+            "for": [
+                "Seekers",
+                "Busy Professionals"
+            ],
+            "not_for": []
+        },
+        "hero": {
+            "headline": "Faith Is Easy to Feel. Hard to Practice Daily.",
+            "subline": "PujaDaily exists to bridge that gap. Spirituality needed systems — without losing soul.",
+            "primary_cta": {
+                "label": "Start Daily Puja",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Why is it so hard to stay consistent?",
+            "points": [
+                "People believe but lack discipline.",
+                "Modern life gets in the way.",
+                "Rituals feel complex and isolated.",
+                "Guilt replaces practice."
+            ],
+            "summary": "Consistency doesn’t come from belief. It comes from structure, guidance, and feedback."
+        },
+        "value": {
+            "headline": "Support Consistency Without Guilt.",
+            "description": "PujaDaily makes spirituality social. People need to see others' journeys to stay on their own.",
+            "enables": [
+                "Voice-guided Puja (Panditji)",
+                "Streaks & Tracking",
+                "Gratitude Feed",
+                "Social Rituals"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Guide",
+                    "description": "Daily voice-guided puja makes the process simple."
+                },
+                {
+                    "number": "02",
+                    "title": "Track",
+                    "description": "Gamification features like streaks encourage consistency."
+                },
+                {
+                    "number": "03",
+                    "title": "Share",
+                    "description": "Gratitude posts create a positive social loop."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Gentle Discipline",
+                "Daily Alignment",
+                "Community-driven Faith"
+            ],
+            "summary": "A spiritual social network."
+        },
+        "proof": {
+            "signals": [
+                "Pivoted to Social-First"
+            ],
+            "status": "Active · Social-first pivot"
+        },
+        "bridge": {
+            "headline": "Evolution",
+            "description": "From single-player utility to community-driven habit building.",
+            "learnings": [
+                "Faith Systems",
+                "Social Mechanics"
+            ]
+        },
+        "footer": {
+            "tagline": "Daily faith.",
+            "description": "PujaDaily.com builds habits for spiritual practice."
+        },
+        "seo": {
+            "meta_title": "PujaDaily.com | Spiritual Social Network",
+            "meta_description": "PujaDaily.com helps users maintain daily spiritual practice through gamification, voice guidance, and community support.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "PujaDaily.com",
             "entity_type": "SoftwareApplication",
-            "one_sentence_definition": "Aurl.ai is a developer platform for building, deploying, and managing real-time AI voice agents and telephony infrastructure."
+            "one_sentence_definition": "PujaDaily.com is a spiritual social network that gamifies daily rituals to help users maintain consistency."
+        }
+    },
+    {
+        "slug": "slayswag",
+        "name": "SlaySwag.com",
+        "domain": "slayswag.com",
+        "website_url": "https://slayswag.com",
+        "status": "live",
+        "tagline": "Fixing a Broken Gifting Market.",
+        "short_description": "A unified platform for corporate gifting delivering clarity, scale, and reliability.",
+        "capabilities": [
+            "operations"
+        ],
+        "primary_capability": "operations",
+        "audience": {
+            "for": [
+                "Corporates",
+                "HR Teams"
+            ],
+            "not_for": [
+                "Retail"
+            ]
+        },
+        "hero": {
+            "headline": "Corporate Gifting Shouldn’t Feel Like Guesswork.",
+            "subline": "But in India, it often does. Opaque pricing. Middlemen everywhere. No trust.",
+            "primary_cta": {
+                "label": "Explore Platform",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "The market is massive and deeply broken.",
+            "points": [
+                "No discovery.",
+                "Hidden pricing.",
+                "Lack of trust.",
+                "Manual execution."
+            ],
+            "summary": "Corporates don’t want favors. They want clarity, scale, and reliability."
+        },
+        "value": {
+            "headline": "Discovery + Transparency = Trust.",
+            "description": "Partnering with VK Innovations to build a unified platform where discovery is transparent and execution is seamless.",
+            "enables": [
+                "Unified Discovery",
+                "Transparent Pricing",
+                "Bulk Workflows"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Discover",
+                    "description": "Unified product catalog with top brands."
+                },
+                {
+                    "number": "02",
+                    "title": "Order",
+                    "description": "Transparent bulk ordering logic."
+                },
+                {
+                    "number": "03",
+                    "title": "Learn",
+                    "description": "Live testbed for Revenueable's AI agents."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Transparency over Theatrics",
+                "Systems over Jugaad",
+                "Execution over Promises"
+            ],
+            "summary": "Also a live proving ground for AI sales tools."
+        },
+        "proof": {
+            "signals": [
+                "Revenue Generating",
+                "Live Testbed"
+            ],
+            "status": "Active · Revenue-generating"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "Functions as a standalone business and a lab for B2B AI tools.",
+            "learnings": [
+                "B2B Commerce",
+                "AI Integration"
+            ]
+        },
+        "footer": {
+            "tagline": "Gifting, fixed.",
+            "description": "SlaySwag brings logic to corporate gifting."
+        },
+        "seo": {
+            "meta_title": "SlaySwag | Corporate Gifting Platform",
+            "meta_description": "SlaySwag.com offers transparent corporate gifting solutions with bulk ordering and unified discovery.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "SlaySwag",
+            "entity_type": "Organization",
+            "one_sentence_definition": "SlaySwag is a corporate gifting platform that simplifies discovery and ordering for businesses."
         }
     },
     {
@@ -612,8 +674,8 @@
         "domain": "builderpick.com",
         "website_url": "https://builderpick.com",
         "status": "live",
-        "tagline": "Construction material delivery, finally organized.",
-        "short_description": "BuilderPick is a logistics platform that helps construction sites order, track, and receive cement, steel, and materials.",
+        "tagline": "Bringing Order to Construction Chaos.",
+        "short_description": "Fixing the invisible mess of construction logistics with a single interface for verified vendors and tracking.",
         "capabilities": [
             "operations"
         ],
@@ -623,79 +685,84 @@
                 "Builders",
                 "Contractors"
             ],
-            "not_for": [
-                "DIY"
-            ]
+            "not_for": []
         },
         "hero": {
-            "headline": "Construction material delivery, finally organized.",
-            "subline": "BuilderPick is a logistics platform that helps construction sites order, track, and receive materials.",
+            "headline": "Construction Does Not Fail Because of Skill. It Fails Because of Coordination.",
+            "subline": "BuilderPick exists to fix the invisible mess no one talks about.",
             "primary_cta": {
-                "label": "Order for a site",
+                "label": "Start Ordering",
                 "url": "#"
             }
         },
         "problem": {
-            "headline": "Construction logistics are broken.",
+            "headline": "Everyone has accepted chaos as normal.",
             "points": [
-                "Unreliable timelines",
-                "Price opacity"
+                "Uncertain material arrival.",
+                "Quality mismatches.",
+                "Manual, fragmented tracking.",
+                "High stress coordination."
             ],
-            "summary": "BuilderPick brings structure to site-level supply chains."
+            "summary": "Construction problems aren’t procurement problems. They’re information problems."
         },
         "value": {
-            "headline": "An operating system for site deliveries.",
-            "description": "BuilderPick connects buyers, suppliers, and delivery partners into a single workflow."
+            "headline": "Uber for Construction Materials.",
+            "description": "If buyers could discover reliable vendors and track orders in real time, decision-making would improve instantly.",
+            "enables": [
+                "Verified Vendors",
+                "Real-time Tracking",
+                "Clear Pricing"
+            ]
         },
         "how_it_works": {
             "steps": [
                 {
                     "number": "01",
-                    "title": "Request",
-                    "description": "Place orders."
+                    "title": "Discover",
+                    "description": "Find verified vendors instantly."
                 },
                 {
                     "number": "02",
-                    "title": "Match",
-                    "description": "Suppliers assigned."
+                    "title": "Transact",
+                    "description": "Single interface for all materials."
                 },
                 {
                     "number": "03",
-                    "title": "Deliver",
-                    "description": "Track materials."
+                    "title": "Track",
+                    "description": "No phone chasing. Just visibility."
                 }
             ]
         },
         "showcase": {
-            "headline": "Use Cases",
+            "headline": "What It Stands For",
             "pillars": [
-                "Cement",
-                "Steel",
-                "Site Management"
+                "Predictability over Promises",
+                "Visibility over Assurances",
+                "Systems over Manual"
             ],
-            "summary": "Logistics infrastructure."
+            "summary": "No spreadsheets. No phone chasing. No ambiguity."
         },
         "proof": {
             "signals": [
-                "Multi-party workflows live"
+                "Concept to Execution"
             ],
-            "status": "BuilderPick is live."
+            "status": "Early-stage · Concept → Execution"
         },
         "bridge": {
-            "headline": "Getconvi Connection",
-            "description": "Built inside Getconvi.",
+            "headline": "Strategic Role",
+            "description": "Solving the hardest operational problems in the physical world.",
             "learnings": [
-                "Supply chain reliability",
-                "Ops"
+                "Logistics",
+                "Coordination"
             ]
         },
         "footer": {
-            "tagline": "Construction logistics, simplified.",
-            "description": "BuilderPick is a Getconvi platform for construction logistics."
+            "tagline": "Construction, coordinated.",
+            "description": "BuilderPick brings order to site logistics."
         },
         "seo": {
-            "meta_title": "BuilderPick | Construction Material Logistics",
-            "meta_description": "BuilderPick organizes construction material delivery, helping sites order and track cement, steel, and supplies.",
+            "meta_title": "BuilderPick | Construction Logistics",
+            "meta_description": "BuilderPick.com streamlines construction material ordering and tracking, bringing predictability to site logistics.",
             "robots": {
                 "index": true,
                 "follow": true
@@ -704,7 +771,1193 @@
         "aeo": {
             "entity_name": "BuilderPick",
             "entity_type": "SoftwareApplication",
-            "one_sentence_definition": "BuilderPick is a construction logistics platform that streamlines the ordering and delivery of materials like cement and steel."
+            "one_sentence_definition": "BuilderPick is a construction logistics platform that enables real-time ordering and tracking of materials."
+        }
+    },
+    {
+        "slug": "spendsignal",
+        "name": "SpendSignal.co",
+        "domain": "spendsignal.co",
+        "website_url": "https://spendsignal.co",
+        "status": "live",
+        "tagline": "Telling the Truth About What Actually Worked.",
+        "short_description": "An attribution platform built to measure lift and incrementality, not just claim credit.",
+        "capabilities": [
+            "integration"
+        ],
+        "primary_capability": "integration",
+        "audience": {
+            "for": [
+                "Marketing Leaders",
+                "CFOs"
+            ],
+            "not_for": [
+                "Vanity Metric Lovers"
+            ]
+        },
+        "hero": {
+            "headline": "If Everyone Claims the Sale, No One Learns Anything.",
+            "subline": "SpendSignal exists to end attribution fiction.",
+            "primary_cta": {
+                "label": "Measure Truth",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "The loudest voice won. The truth lost.",
+            "points": [
+                "Sales claims the relationship.",
+                "Marketing claims the campaign.",
+                "Affiliates claim the link.",
+                "TV and Offline are ignored."
+            ],
+            "summary": "Last-click attribution doesn’t measure impact. It measures convenience."
+        },
+        "value": {
+            "headline": "Measure Lift, Not Credit.",
+            "description": "Real growth decisions require incrementality. What happened BECAUSE we spent this money? Not just what happened while we spent it.",
+            "enables": [
+                "Incrementality Modeling",
+                "Blended Channel Analysis",
+                "Sales + Marketing Reconciliation",
+                "Offline-to-Online Mapping"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Integrate",
+                    "description": "Ingest cost and conversion data."
+                },
+                {
+                    "number": "02",
+                    "title": "Model",
+                    "description": "Calculate incrementality and lift."
+                },
+                {
+                    "number": "03",
+                    "title": "Resolve",
+                    "description": "End internal fights with data."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Truth over Ego",
+                "Learning over Reporting",
+                "Signal over Noise"
+            ],
+            "summary": "This wasn’t about prettier dashboards. It was about ending internal fights."
+        },
+        "proof": {
+            "signals": [
+                "Concept Validation"
+            ],
+            "status": "Early-stage · Concept validation"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "Making the invisible visible in marketing spend.",
+            "learnings": [
+                "Attribution",
+                "Data Truth"
+            ]
+        },
+        "footer": {
+            "tagline": "True attribution.",
+            "description": "SpendSignal reveals the real impact of marketing."
+        },
+        "seo": {
+            "meta_title": "SpendSignal | Incrementality Attribution",
+            "meta_description": "SpendSignal.co helps companies measure true marketing incrementality and resolve attribution conflicts.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "SpendSignal",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "SpendSignal is an attribution platform that focuses on measuring marketing incrementality and resolving channel conflict."
+        }
+    },
+    {
+        "slug": "listonchatgpt",
+        "name": "ListOnChatGPT.com",
+        "domain": "listonchatgpt.com",
+        "website_url": "https://listonchatgpt.com",
+        "status": "live",
+        "tagline": "Being Discoverable in the Age of AI.",
+        "short_description": "A tool to ensure brands are visible to AI crawlers and LLMs—the next search layer.",
+        "capabilities": [
+            "growth",
+            "technology",
+            "integration"
+        ],
+        "primary_capability": "growth",
+        "audience": {
+            "for": [
+                "Brands",
+                "SEO Teams"
+            ],
+            "not_for": []
+        },
+        "hero": {
+            "headline": "If AI Can’t See You, You Don’t Exist.",
+            "subline": "Search behavior is changing. People don't search, they ask. ListOnChatGPT was built for this era.",
+            "primary_cta": {
+                "label": "Audit Visibility",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Most websites were built for Google, not AI.",
+            "points": [
+                "People ask LLMs, they don't just search.",
+                "AI discovery requires permissions.",
+                "Bad robots.txt means you are invisible."
+            ],
+            "summary": "Traditional SEO optimizes for links. AI discovery depends on crawlability and structure."
+        },
+        "value": {
+            "headline": "The New Search Layer.",
+            "description": "If your robots.txt blocks AI, you're invisible. We ensure you are part of the answer.",
+            "enables": [
+                "AI Crawlability Check",
+                "Robots.txt Analysis",
+                "GEO (Generative Engine Optimization)"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Audit",
+                    "description": "Check if OAI-SearchBot can see you."
+                },
+                {
+                    "number": "02",
+                    "title": "Fix",
+                    "description": "Apply platform-specific permissions."
+                },
+                {
+                    "number": "03",
+                    "title": "Rank",
+                    "description": "Establish presence in LLM responses."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Adaptation over Nostalgia",
+                "Systems over Hacks",
+                "Future Visibility"
+            ],
+            "summary": "A Generative Engine Optimization entry point."
+        },
+        "proof": {
+            "signals": [
+                "Growing adoption"
+            ],
+            "status": "Active · Growing adoption"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "Future-proofing brands for the AI discovery era.",
+            "learnings": [
+                "AI SEO",
+                "Search Evolution"
+            ]
+        },
+        "footer": {
+            "tagline": "Be seen by AI.",
+            "description": "ListOnChatGPT ensures visibility in the LLM era."
+        },
+        "seo": {
+            "meta_title": "ListOnChatGPT | AI Visibility Tool",
+            "meta_description": "ListOnChatGPT.com helps brands optimize their visibility for AI crawlers and Large Language Models.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "ListOnChatGPT",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "ListOnChatGPT is a tool that audits and improves website visibility for AI search engines and LLMs."
+        }
+    },
+    {
+        "slug": "nrikosh",
+        "name": "NRIKosh.com",
+        "domain": "nrikosh.com",
+        "website_url": "https://nrikosh.com",
+        "status": "live",
+        "tagline": "Managing Life in India, From Anywhere.",
+        "short_description": "A trust network for NRIs to manage parents, property, and paperwork without anxiety.",
+        "capabilities": [
+            "networks",
+            "operations"
+        ],
+        "primary_capability": "networks",
+        "audience": {
+            "for": [
+                "NRIs"
+            ],
+            "not_for": []
+        },
+        "hero": {
+            "headline": "Distance Shouldn’t Mean Loss of Control.",
+            "subline": "NRIKosh exists for people who live abroad — but still live with responsibility back home.",
+            "primary_cta": {
+                "label": "Find Help",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "NRIs are short on reliable people.",
+            "points": [
+                "Aging parents needing care.",
+                "Unmanaged properties.",
+                "Endless paperwork.",
+                "Services that demand trust but offer none."
+            ],
+            "summary": "NRIs carried a quiet, constant stress. They didn't need a marketplace; they needed a trust network."
+        },
+        "value": {
+            "headline": "Trust Before Scale.",
+            "description": "Only onboard people I would trust with my own family. Leveraging BNI to build a verified network.",
+            "enables": [
+                "Property Management",
+                "Parent Care",
+                "Healthcare Coordination",
+                "Admin Tasks"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Verify",
+                    "description": "Onboard only reputation-backed providers."
+                },
+                {
+                    "number": "02",
+                    "title": "Connect",
+                    "description": "Match NRIs with trusted local help."
+                },
+                {
+                    "number": "03",
+                    "title": "Resolve",
+                    "description": "Community-led accountability ensures quality."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Trust before Scale",
+                "Community over Marketplace",
+                "Reliability over Speed"
+            ],
+            "summary": "Reducing anxiety for those far from home."
+        },
+        "proof": {
+            "signals": [
+                "Community-led"
+            ],
+            "status": "Early-stage · Community-led rollout"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "Solving the 'distance dilemma' through trust networks.",
+            "learnings": [
+                "Trust Engineering",
+                "Service Quality"
+            ]
+        },
+        "footer": {
+            "tagline": "Your trusted network.",
+            "description": "NRIKosh connects NRIs to reliable help in India."
+        },
+        "seo": {
+            "meta_title": "NRIKosh | NRI Services India",
+            "meta_description": "NRIKosh.com provides a trusted network for NRIs to manage property, parent care, and services in India.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "NRIKosh",
+            "entity_type": "Service",
+            "one_sentence_definition": "NRIKosh is a concierge service network helping NRIs manage responsibilities in India with trusted providers."
+        }
+    },
+    {
+        "slug": "estatekart",
+        "name": "EstateKart.ai",
+        "domain": "estatekart.ai",
+        "website_url": "https://estatekart.ai",
+        "status": "live",
+        "tagline": "Making Real Estate Safe Again for NRIs.",
+        "short_description": "A real estate platform engineered for safety with legal verification, escrow, and audits.",
+        "capabilities": [
+            "operations"
+        ],
+        "primary_capability": "operations",
+        "audience": {
+            "for": [
+                "NRI Investors"
+            ],
+            "not_for": [
+                "Regular Buyers"
+            ]
+        },
+        "hero": {
+            "headline": "Real Estate Isn’t Risky. Unverified Real Estate Is.",
+            "subline": "EstateKart exists to remove fear from long-distance ownership.",
+            "primary_cta": {
+                "label": "Invest Safely",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Trust cannot be claimed. It must be engineered.",
+            "points": [
+                "Fraudulent sellers.",
+                "Duplicate ownership.",
+                "Unfinished projects.",
+                "Lack of protection."
+            ],
+            "summary": "What stood out wasn't ignorance. It was a lack of systemic protection."
+        },
+        "value": {
+            "headline": "The Trust Stack.",
+            "description": "EstateKart wasn't built as a listing site. It is a trust stack for remote ownership.",
+            "enables": [
+                "Legal Verification",
+                "Escrow Transactions",
+                "RERA Compliance",
+                "Third-party Audits"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Verify",
+                    "description": "Strict due diligence before listing."
+                },
+                {
+                    "number": "02",
+                    "title": "Secure",
+                    "description": "Escrow protects capital."
+                },
+                {
+                    "number": "03",
+                    "title": "Manage",
+                    "description": "Lifecycle support from purchase to interior."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Protection over Persuasion",
+                "Systems over Assurances",
+                "Confidence"
+            ],
+            "summary": "Long-term ownership confidence."
+        },
+        "proof": {
+            "signals": [
+                "Partnership-driven"
+            ],
+            "status": "Active concept · Partnership-driven"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "De-risking high-value transactions remotely.",
+            "learnings": [
+                "PropTech",
+                "Risk Management"
+            ]
+        },
+        "footer": {
+            "tagline": "Safe investment.",
+            "description": "EstateKart.ai secures real estate for NRIs."
+        },
+        "seo": {
+            "meta_title": "EstateKart.ai | Safe Real Estate",
+            "meta_description": "EstateKart.ai provides verified real estate investment opportunities for NRIs with escrow and legal protection.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "EstateKart.ai",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "EstateKart.ai is a secure real estate marketplace designed for NRIs, featuring legal verification and escrow services."
+        }
+    },
+    {
+        "slug": "marketresearchlabs",
+        "name": "MarketResearchLabs.ai",
+        "domain": "marketresearchlabs.ai",
+        "website_url": "https://marketresearchlabs.ai",
+        "status": "live",
+        "tagline": "Listening at Scale, Without Losing Nuance.",
+        "short_description": "Voice AI surveys that capture tone, emotion, and sentiment at 1/10th the cost.",
+        "capabilities": [
+            "voice",
+            "technology",
+            "communications"
+        ],
+        "primary_capability": "voice",
+        "audience": {
+            "for": [
+                "Researchers",
+                "Enterprises"
+            ],
+            "not_for": []
+        },
+        "hero": {
+            "headline": "Surveys Don’t Fail Because People Lie. They Fail Because We Ask Poorly.",
+            "subline": "MarketResearchLabs exists to bring humanity back into research.",
+            "primary_cta": {
+                "label": "Start Listening",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Research was slow, expensive, and shallow.",
+            "points": [
+                "Insights were filtered and sanitized.",
+                "Digital tools missed emotion.",
+                "Missing the voice of the customer."
+            ],
+            "summary": "What was missing was Voice. People reveal more when they speak than when they click."
+        },
+        "value": {
+            "headline": "Voice-First Insights.",
+            "description": "Leveraging Voice AI to capture tone, pauses, and emotion. Making qualitative insight measurable.",
+            "enables": [
+                "AI Voice Surveys",
+                "Emotion Analysis",
+                "Real-time Transcription",
+                "Automated Reporting"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Ask",
+                    "description": "AI conducts conversational interviews."
+                },
+                {
+                    "number": "02",
+                    "title": "Listen",
+                    "description": "Capture audio, tone, and sentiment."
+                },
+                {
+                    "number": "03",
+                    "title": "Understand",
+                    "description": "Get deep insights at 1/10th the cost."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Listening over Polling",
+                "Depth over Scale",
+                "Speed"
+            ],
+            "summary": "Speed without losing meaning."
+        },
+        "proof": {
+            "signals": [
+                "Early adoption"
+            ],
+            "status": "Active · Early adoption"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "Modernizing the feedback loop with Voice AI.",
+            "learnings": [
+                "Voice Analytics",
+                "Consumer Insight"
+            ]
+        },
+        "footer": {
+            "tagline": "Research that listens.",
+            "description": "MarketResearchLabs.ai captures the voice of the customer."
+        },
+        "seo": {
+            "meta_title": "MarketResearchLabs.ai | Voice Market Research",
+            "meta_description": "MarketResearchLabs.ai uses Voice AI to conduct scalable, emotion-aware market research surveys.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "MarketResearchLabs.ai",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "MarketResearchLabs.ai is a market research platform using Voice AI for automated, sentiment-rich surveys."
+        }
+    },
+    {
+        "slug": "vriksha",
+        "name": "Vriksha.ai",
+        "domain": "vriksha.ai",
+        "website_url": "https://vriksha.ai",
+        "status": "live",
+        "tagline": "A Venture Studio for the AI-First Decade.",
+        "short_description": "Co-building AI ventures with operators, capital, and incubated talent.",
+        "capabilities": [
+            "technology",
+            "networks"
+        ],
+        "primary_capability": "technology",
+        "audience": {
+            "for": [
+                "Builders",
+                "Founders"
+            ],
+            "not_for": [
+                "Pitch Deck Makers"
+            ]
+        },
+        "hero": {
+            "headline": "Ideas Are Everywhere. Builders Are Not.",
+            "subline": "Vriksha exists to turn raw ideas into real companies.",
+            "primary_cta": {
+                "label": "Partner with Us",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "India suffers from lack of execution density.",
+            "points": [
+                "Ideas are plentiful.",
+                "Experience is scarce.",
+                "Ecosystems are pitch-heavy.",
+                "We wanted to build."
+            ],
+            "summary": "We didn't want another fund. We wanted to build."
+        },
+        "value": {
+            "headline": "Co-building Studio.",
+            "description": "Operators build alongside founders. Capital follows conviction, not decks. Talent is incubated through real projects.",
+            "enables": [
+                "Operator-led Build",
+                "Talent Incubation",
+                "Conviction Capital"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Incubate",
+                    "description": "Onboard engineers to build real portfolios."
+                },
+                {
+                    "number": "02",
+                    "title": "Build",
+                    "description": "Operators work alongside founders."
+                },
+                {
+                    "number": "03",
+                    "title": "Launch",
+                    "description": "Production-grade execution from day one."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Building over Funding",
+                "Skin in the Game",
+                "Creation"
+            ],
+            "summary": "Long-term company creation."
+        },
+        "proof": {
+            "signals": [
+                "Multi-venture studio"
+            ],
+            "status": "Active · Multi-venture studio"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "The engine for AI-first venture creation.",
+            "learnings": [
+                "Venture Building",
+                "Talent Density"
+            ]
+        },
+        "footer": {
+            "tagline": "Builders first.",
+            "description": "Vriksha.ai incubates the next generation of AI companies."
+        },
+        "seo": {
+            "meta_title": "Vriksha.ai | AI Venture Studio",
+            "meta_description": "Vriksha.ai is an operator-led venture studio co-building AI-first companies in India.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "Vriksha.ai",
+            "entity_type": "Organization",
+            "one_sentence_definition": "Vriksha.ai is an AI venture studio that co-builds companies and incubates technical talent."
+        }
+    },
+    {
+        "slug": "aurl",
+        "name": "Aurl.ai",
+        "domain": "aurl.ai",
+        "website_url": "https://aurl.ai",
+        "status": "live",
+        "tagline": "Unlocking the Data That Lives Behind Phone Calls.",
+        "short_description": "A voice-first personal operator that calls, compares, and acts—unlocking the spoken web.",
+        "capabilities": [
+            "voice"
+        ],
+        "primary_capability": "voice",
+        "audience": {
+            "for": [
+                "Productivity Seekers"
+            ],
+            "not_for": []
+        },
+        "hero": {
+            "headline": "The Internet Is Incomplete. Phones Fill the Gaps.",
+            "subline": "Aurl exists because the most valuable information is still spoken, not published.",
+            "primary_cta": {
+                "label": "Use Voice",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "LLMs are brilliant but blind.",
+            "points": [
+                "Pricing is offline.",
+                "Availability takes a call.",
+                "Negotiation happens via voice.",
+                "Bookings are manual."
+            ],
+            "summary": "True intelligence requires action, not just information."
+        },
+        "value": {
+            "headline": "Voice-First Personal Operator.",
+            "description": "Aurl doesn't just browse; it asks. It has a voice, can make calls, and can compare real-world options.",
+            "enables": [
+                "Conversational Interface",
+                "Outbound Calling",
+                "Comparison Searches",
+                "Real-world Actions"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Speak",
+                    "description": "Give a complex command."
+                },
+                {
+                    "number": "02",
+                    "title": "Act",
+                    "description": "Aurl calls and enquires for you."
+                },
+                {
+                    "number": "03",
+                    "title": "Solve",
+                    "description": "Receive the answer or booking."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Action over Browsing",
+                "Voice as Interface",
+                "Scale"
+            ],
+            "summary": "Productivity at human scale."
+        },
+        "proof": {
+            "signals": [
+                "Active Build"
+            ],
+            "status": "Active build · Expanding capability"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "Connecting AI to the physical world via voice.",
+            "learnings": [
+                "Voice Agents",
+                "Action Models"
+            ]
+        },
+        "footer": {
+            "tagline": "Voice of action.",
+            "description": "Aurl.ai interacts with the real world for you."
+        },
+        "seo": {
+            "meta_title": "Aurl.ai | Voice Personal Operator",
+            "meta_description": "Aurl.ai is a voice AI agent that performs real-world tasks like calls and bookings.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "Aurl.ai",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "Aurl.ai is a voice-first AI operator that executes tasks involving phone calls and real-world interactions."
+        }
+    },
+    {
+        "slug": "telecallers",
+        "name": "Telecallers.ai",
+        "domain": "telecallers.ai",
+        "website_url": "https://telecallers.ai",
+        "status": "live",
+        "tagline": "Giving Small Businesses a Sales Engine.",
+        "short_description": "A mobile-first sales tool that lives in the phone, automating follow-ups for the overlooked majority.",
+        "capabilities": [
+            "voice",
+            "communications"
+        ],
+        "primary_capability": "voice",
+        "audience": {
+            "for": [
+                "SMB Owners"
+            ],
+            "not_for": [
+                "Enterprises"
+            ]
+        },
+        "hero": {
+            "headline": "Not Every Business Has a Sales Team. But Every Business Needs Follow-Up.",
+            "subline": "Telecallers exists for the overlooked majority.",
+            "primary_cta": {
+                "label": "Download App",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "The phone is the office.",
+            "points": [
+                "Owners are always moving.",
+                "Non-technical.",
+                "Overwhelmed.",
+                "Existing tools are too complex."
+            ],
+            "summary": "Existing tools assumed laptops and CRMs. Reality didn't."
+        },
+        "value": {
+            "headline": "Sales Tool Inside the Phone.",
+            "description": "Mobile-first. Instant business numbers. One-tap calling. No setup friction.",
+            "enables": [
+                "Payment Follow-ups",
+                "Lead Outreach",
+                "Offers & Reminders",
+                "Simple Workflows"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Setup",
+                    "description": "Instant business number."
+                },
+                {
+                    "number": "02",
+                    "title": "Import",
+                    "description": "Simple database uploads."
+                },
+                {
+                    "number": "03",
+                    "title": "Run",
+                    "description": "Automated calling workflows."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Accessibility over Sophistication",
+                "Speed over Configuration",
+                "Empowerment"
+            ],
+            "summary": "Empowering the smallest businesses."
+        },
+        "proof": {
+            "signals": [
+                "SMB Focused"
+            ],
+            "status": "Active · SMB-focused rollout"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "Democratizing sales automation for the mass market.",
+            "learnings": [
+                "SMB Tools",
+                "Mobile First"
+            ]
+        },
+        "footer": {
+            "tagline": "Sales in your pocket.",
+            "description": "Telecallers.ai automates sales for SMBs."
+        },
+        "seo": {
+            "meta_title": "Telecallers.ai | SMB Sales Automation",
+            "meta_description": "Telecallers.ai is a mobile app providing simple automated sales calling for small businesses.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "Telecallers.ai",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "Telecallers.ai is a mobile application for small businesses to automate sales calls and follow-ups."
+        }
+    },
+    {
+        "slug": "lexcapstone",
+        "name": "LexCapstone",
+        "domain": "lexcapstone.com",
+        "website_url": "https://lexcapstone.com",
+        "status": "live",
+        "tagline": "Teaching the Law as It Is Practiced, Not Memorized.",
+        "short_description": "A practice-first education platform teaching judgment, deal flow, and commercial thinking to lawyers.",
+        "capabilities": [
+            "technology"
+        ],
+        "primary_capability": "technology",
+        "audience": {
+            "for": [
+                "Lawyers",
+                "Students"
+            ],
+            "not_for": [
+                "Academics"
+            ]
+        },
+        "hero": {
+            "headline": "Law School Teaches Theory. The Real World Demands Judgment.",
+            "subline": "LexCapstone exists to close that gap.",
+            "primary_cta": {
+                "label": "Start Learning",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Good lawyers aren’t defined by memory.",
+            "points": [
+                "Strong academic knowledge, weak readiness.",
+                "No exposure to deal flow.",
+                "Law schools teach the 'what', not the 'how'.",
+                "Judgment requires context."
+            ],
+            "summary": "LexCapstone solves the lack of real-world readiness."
+        },
+        "value": {
+            "headline": "Practice-First Education.",
+            "description": "Voice-led explanations. Video walkthroughs of deals. Decision-making under complexity.",
+            "enables": [
+                "M&A Execution",
+                "PE/VC Structuring",
+                "Arbitration",
+                "Corporate Law"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Explain",
+                    "description": "Voice-led breakdown of concepts."
+                },
+                {
+                    "number": "02",
+                    "title": "Show",
+                    "description": "Walkthroughs of real deal scenarios."
+                },
+                {
+                    "number": "03",
+                    "title": "Test",
+                    "description": "Quizzes focused on judgment."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Practical Mastery",
+                "Depth over Syllabus",
+                "Reality Readiness"
+            ],
+            "summary": "Preparing lawyers for business reality."
+        },
+        "proof": {
+            "signals": [
+                "Niche Education"
+            ],
+            "status": "Active · Niche professional education"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "Specialized vertical education platform.",
+            "learnings": [
+                "LegalTech",
+                "EdTech"
+            ]
+        },
+        "footer": {
+            "tagline": "Law practiced.",
+            "description": "LexCapstone prepares lawyers for the real world."
+        },
+        "seo": {
+            "meta_title": "LexCapstone | Practical Legal Education",
+            "meta_description": "LexCapstone provides practice-first legal education for M&A, corporate law, and arbitration.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "LexCapstone",
+            "entity_type": "SoftwareApplication",
+            "one_sentence_definition": "LexCapstone is a legal education platform focusing on practical skills and deal execution."
+        }
+    },
+    {
+        "slug": "astrolife",
+        "name": "AstroLife365",
+        "domain": "astrolife365.com",
+        "website_url": "https://astrolife365.com",
+        "status": "live",
+        "tagline": "Respecting Belief While Using Technology.",
+        "short_description": "A voice-first astrology platform scaling access without exploiting belief.",
+        "capabilities": [
+            "entertainment",
+            "voice",
+            "communications"
+        ],
+        "primary_capability": "voice",
+        "audience": {
+            "for": [
+                "Believers"
+            ],
+            "not_for": [
+                "Skeptics"
+            ]
+        },
+        "hero": {
+            "headline": "Belief Is Personal. Access Should Be Simple.",
+            "subline": "AstroLife365 exists at the intersection of faith and convenience.",
+            "primary_cta": {
+                "label": "Call Astrologer",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Astrology doesn’t scale through content.",
+            "points": [
+                "Mass-market platforms are impersonal.",
+                "Fragmented market.",
+                "People want conversation, not text.",
+                "Investors saw SEA opportunity."
+            ],
+            "summary": "It scales through conversation. People want nuance and time."
+        },
+        "value": {
+            "headline": "Voice-First Astrology.",
+            "description": "Speak directly with astrologers. Pay-per-minute. Keeps control with the user and economics fair.",
+            "enables": [
+                "Direct Voice Calls",
+                "Pay-per-minute",
+                "No subscriptions"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Connect",
+                    "description": "Voice-first interface."
+                },
+                {
+                    "number": "02",
+                    "title": "Speak",
+                    "description": "Direct conversation with astrologers."
+                },
+                {
+                    "number": "03",
+                    "title": "Pay",
+                    "description": "Fair per-minute pricing."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Access without Exploitation",
+                "Voice over Chat",
+                "Care"
+            ],
+            "summary": "Belief handled with care."
+        },
+        "proof": {
+            "signals": [
+                "SEA Focused"
+            ],
+            "status": "Active · Southeast Asia focused"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "Cultural service delivery via modern voice tech.",
+            "learnings": [
+                "Consumer Services",
+                "Voice Economy"
+            ]
+        },
+        "footer": {
+            "tagline": "Faith, simple.",
+            "description": "AstroLife365 connects users to astrology via voice."
+        },
+        "seo": {
+            "meta_title": "AstroLife365 | Voice Astrology",
+            "meta_description": "AstroLife365 is a voice-first astrology platform offering direct pay-per-minute consultations.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "AstroLife365",
+            "entity_type": "Service",
+            "one_sentence_definition": "AstroLife365 is a voice-based astrology service platform focused on the Southeast Asian market."
+        }
+    },
+    {
+        "slug": "pestworld",
+        "name": "PestWorld.co.in",
+        "domain": "pestworld.co.in",
+        "website_url": "https://pestworld.co.in",
+        "status": "live",
+        "tagline": "Speed as a Form of Respect.",
+        "short_description": "A pragmatic website and CRM delivered in 12 hours. Proof that speed matters.",
+        "capabilities": [
+            "operations"
+        ],
+        "primary_capability": "operations",
+        "audience": {
+            "for": [
+                "Homeowners"
+            ],
+            "not_for": []
+        },
+        "hero": {
+            "headline": "Sometimes the Right Solution Is Just Doing the Job Well.",
+            "subline": "PestWorld exists as a reminder of that. Speed matters.",
+            "primary_cta": {
+                "label": "Book Service",
+                "url": "#"
+            }
+        },
+        "problem": {
+            "headline": "Overengineering is the enemy.",
+            "points": [
+                "Small businesses need speed.",
+                "They need reliability.",
+                "They don't need grand visions.",
+                "Just something that works."
+            ],
+            "summary": "A BNI member needed a site. Nothing complex. Just functional."
+        },
+        "value": {
+            "headline": "Rapid Execution.",
+            "description": "Website + Backend CRM delivered in under 12 hours. No ceremonies. No delays.",
+            "enables": [
+                "Lead Capture",
+                "Customer Tracking",
+                "Rapid Deployment"
+            ]
+        },
+        "how_it_works": {
+            "steps": [
+                {
+                    "number": "01",
+                    "title": "Build",
+                    "description": "Website & CRM constructed rapidly."
+                },
+                {
+                    "number": "02",
+                    "title": "Deploy",
+                    "description": "Live in under 12 hours."
+                },
+                {
+                    "number": "03",
+                    "title": "Serve",
+                    "description": "Immediate business utility."
+                }
+            ]
+        },
+        "showcase": {
+            "headline": "What It Stands For",
+            "pillars": [
+                "Execution Velocity",
+                "Respect for Time",
+                "Practical Delivery"
+            ],
+            "summary": "Proof that speed is a feature."
+        },
+        "proof": {
+            "signals": [
+                "12-hour Build"
+            ],
+            "status": "Completed · Client service project"
+        },
+        "bridge": {
+            "headline": "Strategic Role",
+            "description": "A benchmark for execution speed.",
+            "learnings": [
+                "Rapid Dev",
+                "Service Focus"
+            ]
+        },
+        "footer": {
+            "tagline": "Done well.",
+            "description": "PestWorld.co.in demonstrates rapid execution."
+        },
+        "seo": {
+            "meta_title": "PestWorld.co.in | Pest Control",
+            "meta_description": "PestWorld.co.in is a pest control service website built for rapid utility and customer management.",
+            "robots": {
+                "index": true,
+                "follow": true
+            }
+        },
+        "aeo": {
+            "entity_name": "PestWorld.co.in",
+            "entity_type": "Organization",
+            "one_sentence_definition": "PestWorld.co.in is a pest control business website demonstrating rapid digital deployment."
         }
     }
 ]

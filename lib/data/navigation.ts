@@ -16,18 +16,19 @@ export const headerNav: Navigation = {
                 {
                     title: "Systems & Intelligence",
                     items: [
+                        { label: "Growth", href: "/capabilities/growth", description: "Proof of work & SEO." },
                         { label: "Technology", href: "/capabilities/technology", description: "Core software & AI workflows." },
                         { label: "Integration", href: "/capabilities/integration", description: "APIs & system connectivity." },
-                        { label: "Operations", href: "/capabilities/operations", description: "Real-world execution systems." },
                         { label: "Voice", href: "/capabilities/voice", description: "AI-driven call orchestration." }
                     ]
                 },
                 {
-                    title: "Experience & Networks",
+                    title: "Experience & Operations",
                     items: [
+                        { label: "Operations", href: "/capabilities/operations", description: "Real-world execution systems." },
+                        { label: "Networks", href: "/capabilities/networks", description: "Compounding value loops." },
                         { label: "Entertainment", href: "/capabilities/entertainment", description: "Interactive content & media." },
                         { label: "Games", href: "/capabilities/games", description: "Gamified retention systems." },
-                        { label: "Networks", href: "/capabilities/networks", description: "Compounding value loops." },
                         { label: "Communications", href: "/capabilities/communications", description: "Real-time messaging." }
                     ]
                 }
@@ -39,19 +40,36 @@ export const headerNav: Navigation = {
             type: "dropdown",
             columns: [
                 {
-                    title: "Enterprise Solutions",
+                    title: "Growth & Enterprise",
                     items: [
+                        { label: "SachinUppal.com", href: "/studios/sachinuppal", description: "Personal brand & portfolio." },
                         { label: "Revenueable", href: "/studios/revenueable", description: "AI revenue operating system." },
-                        { label: "Aurl", href: "/studios/aurl", description: "Voice infrastructure." },
-                        { label: "BuilderPick", href: "/studios/builderpick", description: "Construction logistics." }
+                        { label: "Vriksha.ai", href: "/studios/vriksha", description: "AI venture studio." },
+                        { label: "ListOnChatGPT", href: "/studios/listonchatgpt", description: "LLM visibility tool." },
+                        { label: "SpendSignal", href: "/studios/spendsignal", description: "Attribution platform." },
+                        { label: "SlaySwag", href: "/studios/slayswag", description: "Corporate gifting." }
                     ]
                 },
                 {
-                    title: "Consumer & Community",
+                    title: "Ops & Networks",
                     items: [
+                        { label: "BuilderPick", href: "/studios/builderpick", description: "Construction logistics." },
+                        { label: "EstateKart", href: "/studios/estatekart", description: "NRI real estate." },
+                        { label: "PestWorld", href: "/studios/pestworld", description: "Service CRM." },
                         { label: "NexoCircle", href: "/studios/nexocircle", description: "Offline-first communities." },
-                        { label: "PujaDaily", href: "/studios/pujadaily", description: "Daily devotion platform." },
-                        { label: "PokerShark", href: "/studios/pokershark", description: "AI poker coaching." }
+                        { label: "NRIKosh", href: "/studios/nrikosh", description: "NRI concierge." },
+                        { label: "LexCapstone", href: "/studios/lexcapstone", description: "Legal education." }
+                    ]
+                },
+                {
+                    title: "Voice & Consumer",
+                    items: [
+                        { label: "Aurl", href: "/studios/aurl", description: "Voice infrastructure." },
+                        { label: "Telecallers", href: "/studios/telecallers", description: "SMB sales agent." },
+                        { label: "MarketResearchLabs", href: "/studios/marketresearchlabs", description: "Voice surveys." },
+                        { label: "AstroLife365", href: "/studios/astrolife", description: "Voice astrology." },
+                        { label: "PokerShark", href: "/studios/pokershark", description: "AI poker coaching." },
+                        { label: "PujaDaily.com", href: "/studios/pujadaily", description: "Spiritual network." }
                     ]
                 }
             ]
@@ -84,10 +102,11 @@ export const footerNav: Navigation = {
             columns: [
                 {
                     items: [
+                        { label: "Growth", href: "/capabilities/growth" },
                         { label: "Technology", href: "/capabilities/technology" },
                         { label: "Integration", href: "/capabilities/integration" },
-                        { label: "Operations", href: "/capabilities/operations" },
                         { label: "Voice", href: "/capabilities/voice" },
+                        { label: "Operations", href: "/capabilities/operations" },
                         { label: "Entertainment", href: "/capabilities/entertainment" },
                         { label: "Games", href: "/capabilities/games" },
                         { label: "Networks", href: "/capabilities/networks" },
@@ -103,12 +122,28 @@ export const footerNav: Navigation = {
             columns: [
                 {
                     items: [
+                        { label: "SachinUppal.com", href: "/studios/sachinuppal" },
                         { label: "Revenueable", href: "/studios/revenueable" },
+                        { label: "Vriksha.ai", href: "/studios/vriksha" },
+                        { label: "ListOnChatGPT", href: "/studios/listonchatgpt" },
+                        { label: "SpendSignal", href: "/studios/spendsignal" },
+                        { label: "SlaySwag", href: "/studios/slayswag" },
+                        { label: "BuilderPick", href: "/studios/builderpick" },
+                        { label: "EstateKart", href: "/studios/estatekart" },
+                        { label: "PestWorld", href: "/studios/pestworld" }
+                    ]
+                },
+                {
+                    items: [
                         { label: "NexoCircle", href: "/studios/nexocircle" },
-                        { label: "PujaDaily", href: "/studios/pujadaily" },
-                        { label: "PokerShark", href: "/studios/pokershark" },
+                        { label: "NRIKosh", href: "/studios/nrikosh" },
+                        { label: "LexCapstone", href: "/studios/lexcapstone" },
                         { label: "Aurl", href: "/studios/aurl" },
-                        { label: "BuilderPick", href: "/studios/builderpick" }
+                        { label: "Telecallers", href: "/studios/telecallers" },
+                        { label: "MarketResearchLabs", href: "/studios/marketresearchlabs" },
+                        { label: "AstroLife365", href: "/studios/astrolife" },
+                        { label: "PokerShark", href: "/studios/pokershark" },
+                        { label: "PujaDaily.com", href: "/studios/pujadaily" }
                     ]
                 }
             ]

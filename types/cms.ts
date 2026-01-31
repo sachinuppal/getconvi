@@ -47,7 +47,7 @@ export interface AEO {
     llm_snippets?: { snippet_purpose: string; snippet_text: string }[];
 }
 
-export type CategorySlug = "games" | "entertainment" | "technology" | "communications" | "operations" | "voice" | "integration" | "networks";
+export type CategorySlug = "games" | "entertainment" | "technology" | "communications" | "operations" | "voice" | "integration" | "networks" | "growth";
 
 export interface Capability {
     title: string;
@@ -57,41 +57,31 @@ export interface Capability {
     enables: string[];
     why_it_matters: string;
     applied_in: string[]; // Slugs of platforms
-    hero_image?: MediaAsset;
-    icon?: MediaAsset;
-    badge_style?: "default" | "blue" | "pink" | "inverted";
-
-    // Detailed Content
-    audience?: {
-        for: string[];
-        notFor: string[];
+    hero: {
+        headline: string;
+        subline: string;
     };
-    flow?: {
-        step: string;
-        title: string;
-        outcome: string;
-    }[];
-    outputs?: {
-        name: string;
-        description: string;
-    }[];
-    problem?: {
-        intro: string;
+    deeper_problem: {
+        headline: string;
         points: string[];
+        summary: string;
     };
-    proof?: {
-        project: string;
-        whatChanged: string;
-        result: string;
-    }[];
-    faqs?: {
-        question: string;
-        answer: string;
-    }[];
-    summary?: string;
+    point_of_view: {
+        headline: string;
+        content: string | string[];
+        summary?: string;
+    };
+    how_we_build: {
+        steps: { title: string; description: string; items?: string[] }[];
+        summary?: string;
+    };
+    what_this_enables: string[];
+    why_this_compounds: {
+        headline?: string;
+        description: string;
+    };
 
-    seo?: SEO;
-    aeo?: AEO;
+    // Keep generic for flexibility
     [key: string]: any;
 }
 

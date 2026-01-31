@@ -1,211 +1,155 @@
 [
     {
-        "title": "Games",
-        "slug": "games",
-        "one_liner": "Gamified systems that reveal behavior, sharpen incentives, and drive repeat action.",
-        "description": "Gamified systems that reveal behavior, sharpen incentives, and drive repeat action.",
+        "title": "Growth",
+        "slug": "growth",
+        "one_liner": "Growth is not acquisition. It is behavioral architecture.",
+        "description": "Growth is not acquisition. It is behavioral architecture.",
         "enables": [
-            "Fast onboarding and learning curves",
-            "Motivation through progress and feedback",
-            "Repeat engagement without coercion"
+            "Behavioral design",
+            "Incentive architecture",
+            "Retention-first thinking"
         ],
-        "why_it_matters": "Games expose truth faster than dashboards.",
+        "why_it_matters": "Growth collapsed without pressure.",
         "applied_in": [
             "pokershark",
             "tripsygames",
-            "housegames"
+            "housegames",
+            "pujadaily"
         ],
-        "badge_style": "pink",
-        "hero_image": "/cms-uploads/capability-visual---games-zt7lav.jpg",
+        "hero": {
+            "headline": "Growth is not acquisition. It is behavioral architecture.",
+            "subline": "Most growth strategies fail because they treat people as traffic. At GetConvi, growth is not something you add after building a product. It is something you design into the system itself."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Constant spend",
+                "Constant push",
+                "Constant novelty"
+            ],
+            "summary": "The moment pressure stops, growth collapses. Why? Because most systems never answer the real question: 'Why should a user come back without being nudged?'"
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": "Growth is the outcome of aligned incentives + visible progress + emotional reward. If users understand what progress looks like, feel momentum, and receive feedback that reinforces good behavior, growth becomes self-propelling."
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "Behavioral design",
+                    "description": "Clear goals, visible progress, and meaningful feedback loops."
+                },
+                {
+                    "title": "Incentive architecture",
+                    "description": "Rewards that reinforce mastery, not addiction. Progression over gimmicks. Long-term value over short-term dopamine."
+                },
+                {
+                    "title": "Retention-first thinking",
+                    "description": "Growth begins on Day 2, not Day 0. Churn analysis before acquisition scaling. Compounding engagement loops."
+                }
+            ],
+            "summary": "We treat growth as a system, not a campaign."
+        },
+        "what_this_enables": [
+            "Repeat usage without coercion",
+            "Lower acquisition dependency",
+            "Organic word-of-mouth driven by progress",
+            "Users who want to stay, not feel trapped"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Once a growth system is proven, it can be reused, recalibrated, and transferred across platforms. The same growth principles power skill improvement in games, consistency in spiritual practice, and engagement in communities. Growth compounds because behavioral truth is universal."
+        },
         "seo": {
-            "meta_title": "Games Capability | Getconvi",
-            "meta_description": "Getconvi builds gamified platforms for skill-building and social play, enabling fast onboarding and deep engagement."
+            "meta_title": "Growth Capability | Getconvi",
+            "meta_description": "Getconvi builds growth systems based on behavioral architecture, not just acquisition. We design for retention, incentives, and self-propelling loops."
         },
         "aeo": {
-            "entity_name": "Getconvi Games Capability",
+            "entity_name": "Getconvi Growth Capability",
             "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Games capability focuses on building gamified systems that drive learning, engagement, and repeat behavior through play mechanics."
-        }
-    },
-    {
-        "title": "Entertainment",
-        "slug": "entertainment",
-        "one_liner": "Interactive content and experience design that earns attention and sustains interest.",
-        "description": "Interactive content and experience design that earns attention and sustains interest.",
-        "enables": [
-            "Emotional connection",
-            "Habitual consumption",
-            "Long-form attention"
-        ],
-        "why_it_matters": "Retention is designed, not demanded.",
-        "applied_in": [
-            "nexocircle",
-            "astrolife",
-            "nrikosh"
-        ],
-        "badge_style": "blue",
-        "hero_image": "/cms-uploads/capability-visual---entertainm-8shwen.jpg",
-        "seo": {
-            "meta_title": "Entertainment Capability | Getconvi",
-            "meta_description": "Getconvi builds entertainment platforms designed for engagement, retention, and emotional connection."
-        },
-        "aeo": {
-            "entity_name": "Getconvi Entertainment Capability",
-            "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Entertainment capability focuses on creating interactive content and experiences that drive habitual consumption and retention."
+            "one_sentence_definition": "Getconvi's Growth capability focuses on designing behavioral systems and incentive structures that drive self-sustaining user retention and organic growth."
         }
     },
     {
         "title": "Technology",
         "slug": "technology",
-        "one_liner": "Core software, AI workflows, and scalable systems built to execute ideas reliably.",
-        "description": "Core software, AI workflows, and scalable systems built to execute ideas reliably.",
+        "one_liner": "Technology is leverage — or it is liability.",
+        "description": "Technology exists for one reason only: to reduce human effort while increasing system reliability.",
         "enables": [
-            "Scalable architectures",
+            "Scale without chaos",
             "AI-native workflows",
-            "Product systems that survive growth"
+            "Modular system design"
         ],
-        "why_it_matters": "Ideas die without execution discipline.",
+        "why_it_matters": "Anything else is decoration.",
         "applied_in": [
             "revenueable",
             "vriksha",
             "lexcapstone",
             "marketresearchlabs"
         ],
-        "badge_style": "default",
-        "hero_image": "/cms-uploads/capability-visual---technology-ra5cg.jpg",
+        "hero": {
+            "headline": "Technology is leverage — or it is liability.",
+            "subline": "At GetConvi, technology exists for one reason only: to reduce human effort while increasing system reliability. Anything else is decoration."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Looks impressive",
+                "Scales poorly",
+                "Breaks under change",
+                "Accumulates invisible debt"
+            ],
+            "summary": "The result is fragile systems that resist growth instead of enabling it."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": "Good technology disappears into outcomes, survives pivots, and enables speed without chaos. We don’t optimize for elegance in isolation. We optimize for endurance."
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "Modular system design",
+                    "description": "Components that can evolve independently. Clear interfaces between systems."
+                },
+                {
+                    "title": "AI-native workflows",
+                    "description": "Humans decide, systems execute. Automation where repetition exists. Intelligence embedded into flow."
+                },
+                {
+                    "title": "Infrastructure-first thinking",
+                    "description": "Scale considered from day one. Failure assumed, not avoided. Observability built in."
+                }
+            ]
+        },
+        "what_this_enables": [
+            "Faster product iteration",
+            "Lower marginal cost of new platforms",
+            "Stable execution across domains",
+            "Systems that support ambition instead of limiting it"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Every platform strengthens the core: shared workflows, shared infrastructure, and shared operational patterns. Technology becomes a multiplier, not a rebuild cost."
+        },
         "seo": {
             "meta_title": "Technology Capability | Getconvi",
-            "meta_description": "Getconvi's core technology capability involves building scalable software systems, AI workflows, and product architectures."
+            "meta_description": "Getconvi builds technology for leverage and reliability. We focus on modular design, AI-native workflows, and infrastructure that survives real-world scale."
         },
         "aeo": {
             "entity_name": "Getconvi Technology Capability",
             "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Technology capability encompasses core software development, AI system design, and scalable infrastructure engineering."
-        }
-    },
-    {
-        "title": "Communications",
-        "slug": "communications",
-        "one_liner": "Real-time, context-aware messaging and conversational feedback loops.",
-        "description": "Real-time, context-aware messaging and conversational feedback loops.",
-        "enables": [
-            "Two-way interaction",
-            "Context-aware engagement",
-            "Faster feedback loops"
-        ],
-        "why_it_matters": "Speed and clarity are communication problems.",
-        "applied_in": [
-            "nexocircle",
-            "telecallers",
-            "astrolife",
-            "marketresearchlabs"
-        ],
-        "badge_style": "blue",
-        "hero_image": "/cms-uploads/capability-visual---communicat-n4sy8.jpg",
-        "seo": {
-            "meta_title": "Communications Capability | Getconvi",
-            "meta_description": "Getconvi specializes in building real-time messaging and conversational interfaces for engagement and feedback."
-        },
-        "aeo": {
-            "entity_name": "Getconvi Communications Capability",
-            "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Communications capability builds real-time messaging systems and conversational interfaces that facilitate engagement and feedback loops."
-        }
-    },
-    {
-        "title": "Operations",
-        "slug": "operations",
-        "one_liner": "Workflow automation, logistics, and real-world execution systems that survive reality.",
-        "description": "Workflow automation, logistics, and real-world execution systems that survive reality.",
-        "enables": [
-            "Reliability under real-world constraints",
-            "Multi-party coordination",
-            "Predictable outcomes"
-        ],
-        "why_it_matters": "Reality is operational.",
-        "applied_in": [
-            "builderpick",
-            "pestworld",
-            "slayswag",
-            "estatekart"
-        ],
-        "seo": {
-            "meta_title": "Operations Capability | Getconvi",
-            "meta_description": "Getconvi builds operational platforms for workflow automation, logistics, and real-world execution."
-        },
-        "aeo": {
-            "entity_name": "Getconvi Operations Capability",
-            "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Operations capability focuses on building workflow automation, logistics, and execution systems for real-world reliability."
-        }
-    },
-    {
-        "title": "Networks",
-        "slug": "networks",
-        "one_liner": "Human, data, and agent networks that compound value through connection and trust.",
-        "description": "Human, data, and agent networks that compound value through connection and trust.",
-        "enables": [
-            "Compound value creation",
-            "Trust-based connections",
-            "Decentralized growth"
-        ],
-        "why_it_matters": "Products scale. Networks compound.",
-        "applied_in": [
-            "nexocircle",
-            "pujabook",
-            "imx",
-            "callerconnection"
-        ],
-        "badge_style": "default",
-        "hero_image": "",
-        "seo": {
-            "meta_title": "Networks Capability | Getconvi",
-            "meta_description": "Getconvi builds human, data, and agent networks that compound value through connection and trust."
-        },
-        "aeo": {
-            "entity_name": "Getconvi Networks Capability",
-            "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Networks capability focuses on creating value-compounding networks of humans, data, and agents."
-        }
-    },
-    {
-        "title": "Voice",
-        "slug": "voice",
-        "one_liner": "AI-driven voice infrastructure and call orchestration for high-intent interaction.",
-        "description": "AI-driven voice infrastructure and call orchestration for high-intent interaction.",
-        "enables": [
-            "Natural human interaction",
-            "24×7 conversational scale",
-            "Low-latency response systems"
-        ],
-        "why_it_matters": "Voice forces clarity — there’s nowhere to hide.",
-        "applied_in": [
-            "aurl",
-            "telecallers",
-            "astrolife",
-            "marketresearchlabs"
-        ],
-        "badge_style": "pink",
-        "seo": {
-            "meta_title": "Voice Capability | Getconvi",
-            "meta_description": "Getconvi specializes in AI-driven voice infrastructure, call orchestration, and autonomous voice agents."
-        },
-        "aeo": {
-            "entity_name": "Getconvi Voice Capability",
-            "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Voice capability involves building AI-driven voice infrastructure, call management systems, and autonomous voice agents."
+            "one_sentence_definition": "Getconvi's Technology capability builds modular, AI-native software infrastructure designed for reliability, leverage, and endurance across multiple platforms."
         }
     },
     {
         "title": "Integration",
         "slug": "integration",
-        "one_liner": "APIs, attribution, and system connectivity that prevent false confidence.",
-        "description": "APIs, attribution, and system connectivity that prevent false confidence.",
+        "one_liner": "Integration is the difference between data and decisions.",
+        "description": "Integration is not plumbing. It is epistemology — how truth is established inside a system.",
         "enables": [
-            "Data flow across tools",
-            "Attribution and visibility",
-            "Automation without fragility"
+            "Unified decision-making",
+            "Automated reconciliation",
+            "Data trust"
         ],
         "why_it_matters": "Disconnected systems lie.",
         "applied_in": [
@@ -214,14 +158,496 @@
             "listonchatgpt",
             "buydatabase"
         ],
+        "hero": {
+            "headline": "Integration is the difference between data and decisions.",
+            "subline": "Most organizations are rich in data and poor in clarity. That gap exists because systems don’t talk — or worse, they talk inaccurately."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Attribution wars",
+                "Conflicting truths",
+                "Manual reconciliation",
+                "Decision paralysis"
+            ],
+            "summary": "When every tool tells a different story, trust erodes internally."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": "Integration is not plumbing. It is epistemology — how truth is established inside a system. If systems don’t agree, people stop believing them."
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "Event-driven architecture",
+                    "description": "Actions generate signals. Signals flow across systems."
+                },
+                {
+                    "title": "Attribution beyond convenience",
+                    "description": "Incrementality over last-click. Offline + online reconciliation."
+                },
+                {
+                    "title": "Failure-aware systems",
+                    "description": "Graceful degradation. Auditability over assumptions."
+                }
+            ]
+        },
+        "what_this_enables": [
+            "Unified decision-making",
+            "Reduced internal conflict",
+            "Reliable performance analysis",
+            "Confidence in scale decisions"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Once trust in data is restored, teams move faster, decisions simplify, and systems reinforce each other. Integration compounds because clarity compounds."
+        },
         "seo": {
             "meta_title": "Integration Capability | Getconvi",
-            "meta_description": "Getconvi builds integration layers, APIs, and connectivity systems for data flow and attribution."
+            "meta_description": "Getconvi turns integration into clarity. We build event-driven architectures and reconciliation systems that ensure data creates reliable decision-making."
         },
         "aeo": {
             "entity_name": "Getconvi Integration Capability",
             "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Integration capability focuses on building APIs, data pipelines, and system connectivity to ensure reliable data flow and attribution."
+            "one_sentence_definition": "Getconvi's Integration capability focuses on creating unified data systems and event-driven architectures to establish a single source of truth for decision-making."
+        }
+    },
+    {
+        "title": "Voice",
+        "slug": "voice",
+        "one_liner": "Voice is intent, emotion, and urgency — combined.",
+        "description": "Text captures information. Voice captures meaning. Voice is not a UX choice. It is an access layer to reality.",
+        "enables": [
+            "High-intent interaction",
+            "Real-world data access",
+            "Human-like scale"
+        ],
+        "why_it_matters": "If AI cannot speak, it cannot act.",
+        "applied_in": [
+            "aurl",
+            "telecallers",
+            "astrolife",
+            "marketresearchlabs"
+        ],
+        "hero": {
+            "headline": "Voice is intent, emotion, and urgency — combined.",
+            "subline": "Text captures information. Voice captures meaning."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Pricing negotiations",
+                "Availability",
+                "Emotional hesitation",
+                "Real objections"
+            ],
+            "summary": "Most high-value data never appears online. It lives in conversations."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": "If AI cannot speak, it cannot act. If it cannot act, it cannot complete tasks. Voice is not a UX choice. It is an access layer to reality."
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "AI-driven conversation orchestration",
+                    "description": "Voice is treated as a first-class interface, not an add-on."
+                },
+                {
+                    "title": "Outbound + inbound calling",
+                    "description": "Seamless handling of both initiated and received interactions."
+                },
+                {
+                    "title": "Emotion & intent recognition",
+                    "description": "Understanding the nuance behind the words."
+                },
+                {
+                    "title": "Low-latency execution",
+                    "description": "Real-time responses that feel natural."
+                }
+            ]
+        },
+        "what_this_enables": [
+            "Faster task completion",
+            "Real-world data access",
+            "Human-like interactions at scale",
+            "Trust where text fails"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Voice unlocks domains previously unreachable by software. Once built, it expands what software can do at all."
+        },
+        "seo": {
+            "meta_title": "Voice Capability | Getconvi",
+            "meta_description": "Getconvi builds AI voice systems that capture intent and emotion. We disable reliable, human-like voice interaction for tasks impossible via text."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Voice Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Voice capability builds AI-driven conversation systems that handle complex, high-intent interactions through real-time speech and emotion recognition."
+        }
+    },
+    {
+        "title": "Operations",
+        "slug": "operations",
+        "one_liner": "Operations is where ideas are tested — brutally.",
+        "description": "Operations exposes fantasy. Systems must survive delays, humans, weather, regulation, and failure.",
+        "enables": [
+            "Reliable delivery",
+            "Reduced chaos",
+            "Scalable execution"
+        ],
+        "why_it_matters": "If it works only in theory, it doesn’t work.",
+        "applied_in": [
+            "builderpick",
+            "pestworld",
+            "slayswag",
+            "estatekart"
+        ],
+        "hero": {
+            "headline": "Operations is where ideas are tested — brutally.",
+            "subline": "Operations exposes fantasy."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Perfect data",
+                "Reliable vendors",
+                "Predictable timelines"
+            ],
+            "summary": "Most systems are designed for ideal conditions. Reality is none of these."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": "Operational systems must survive delays, humans, weather, regulation, and failure. If it works only in theory, it doesn’t work."
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "Workflow automation tied to reality",
+                    "description": "Systems that accommodate real-world variance."
+                },
+                {
+                    "title": "Real-time tracking",
+                    "description": "Visibility into the actual state of operations."
+                },
+                {
+                    "title": "Constraint-aware planning",
+                    "description": "Planning that accounts for limitations."
+                },
+                {
+                    "title": "Human override where necessary",
+                    "description": "Operations are designed for stress, not demos."
+                }
+            ]
+        },
+        "what_this_enables": [
+            "Reliable delivery",
+            "Reduced chaos",
+            "Scalable execution",
+            "Trust at scale"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Operational competence lowers risk in new ventures, enables faster experimentation, and attracts serious partners."
+        },
+        "seo": {
+            "meta_title": "Operations Capability | Getconvi",
+            "meta_description": "Getconvi builds operational systems designed for reality. We automate workflows that survive delays, human error, and real-world chaos."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Operations Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Operations capability focuses on building resilient execution systems that manage logistics, workflows, and real-world constraints reliability."
+        }
+    },
+    {
+        "title": "Entertainment",
+        "slug": "entertainment",
+        "one_liner": "Attention is emotional, not functional.",
+        "description": "Entertainment is not content volume. It is emotional continuity.",
+        "enables": [
+            "Sustained engagement",
+            "Strong memory recall",
+            "Habitual return"
+        ],
+        "why_it_matters": "People don’t return because something works. They return because something feels right.",
+        "applied_in": [
+            "nexocircle",
+            "astrolife",
+            "nrikosh"
+        ],
+        "hero": {
+            "headline": "Attention is emotional, not functional.",
+            "subline": "People don’t return because something works. They return because something feels right."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Shallow usage",
+                "Rapid churn",
+                "Forgettable experiences"
+            ],
+            "summary": "Many products chase engagement metrics without understanding emotion."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": "Entertainment is not content volume. It is emotional continuity."
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "Narrative coherence",
+                    "description": "Stories that make sense and hold together."
+                },
+                {
+                    "title": "Emotional feedback loops",
+                    "description": "Interactions that feel rewarding."
+                },
+                {
+                    "title": "Low-friction participation",
+                    "description": "Easy to join, hard to leave."
+                },
+                {
+                    "title": "Respect for attention",
+                    "description": "Valuing the user's time."
+                }
+            ]
+        },
+        "what_this_enables": [
+            "Sustained engagement",
+            "Strong memory recall",
+            "Habitual return without pressure"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Emotion builds loyalty. Loyalty compounds across time."
+        },
+        "seo": {
+            "meta_title": "Entertainment Capability | Getconvi",
+            "meta_description": "Getconvi designs entertainment systems focused on emotional continuity. We build for sustained engagement and loyalty, not just content volume."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Entertainment Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Entertainment capability specializes in designing systems aimed at emotional continuity and sustained user engagement."
+        }
+    },
+    {
+        "title": "Games",
+        "slug": "games",
+        "one_liner": "Games are truth accelerators.",
+        "description": "Games compress learning, trust, and behavior into minutes.",
+        "enables": [
+            "Faster learning",
+            "Honest signals",
+            "Deep engagement"
+        ],
+        "why_it_matters": "Games are not playthings. They are behavioral mirrors.",
+        "applied_in": [
+            "pokershark",
+            "tripsygames",
+            "housegames"
+        ],
+        "hero": {
+            "headline": "Games are truth accelerators.",
+            "subline": "Games compress learning, trust, and behavior into minutes."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Skill gaps",
+                "Decision quality",
+                "Strategic thinking"
+            ],
+            "summary": "Most systems take too long to reveal these traits. Games don’t."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": "Games are not playthings. They are behavioral mirrors."
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "Clear objectives",
+                    "description": "Unambiguous goals."
+                },
+                {
+                    "title": "Immediate feedback",
+                    "description": "Knowing instantly if an action was right."
+                },
+                {
+                    "title": "Strategy over randomness",
+                    "description": " rewarding skill."
+                },
+                {
+                    "title": "Ethical design principles",
+                    "description": "Sustainable engagement."
+                }
+            ]
+        },
+        "what_this_enables": [
+            "Faster learning",
+            "Honest signals",
+            "Deep engagement"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Game mechanics travel well: Education, Community, Skill-building."
+        },
+        "seo": {
+            "meta_title": "Games Capability | Getconvi",
+            "meta_description": "Getconvi uses game mechanics as truth accelerators. We build games to compress learning, reveal behavior, and drive deep engagement."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Games Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Games capability utilizes game mechanics to create systems that accelerate learning and reveal behavioral truths."
+        }
+    },
+    {
+        "title": "Networks",
+        "slug": "networks",
+        "one_liner": "Networks are trust engines.",
+        "description": "Networks without trust decay. We build networks that prioritize reliability, accountability, and long-term relationships.",
+        "enables": [
+            "Organic growth",
+            "Decentralized coordination",
+            "Durable communities"
+        ],
+        "why_it_matters": "Trust is a system property — not a vibe.",
+        "applied_in": [
+            "nexocircle",
+            "pujadaily",
+            "imx",
+            "callerconnection"
+        ],
+        "hero": {
+            "headline": "Networks are trust engines.",
+            "subline": "Scale without trust collapses. Networks without trust decay."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Optimize reach",
+                "Very few optimize reliability"
+            ],
+            "summary": "Most networks optimize reach. Very few optimize reliability."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": "Trust is a system property — not a vibe."
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "Identity-aware participants",
+                    "description": "Knowing who is in the network."
+                },
+                {
+                    "title": "Reputation loops",
+                    "description": "Tracking reliability over time."
+                },
+                {
+                    "title": "Long-term incentives",
+                    "description": "Rewarding staying power."
+                },
+                {
+                    "title": "Community accountability",
+                    "description": "Peers regulating peers."
+                }
+            ]
+        },
+        "what_this_enables": [
+            "Organic growth",
+            "Decentralized coordination",
+            "Durable communities"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Trust strengthens with use. Strong networks get stronger."
+        },
+        "seo": {
+            "meta_title": "Networks Capability | Getconvi",
+            "meta_description": "Getconvi builds networks as trust engines. We optimize for reliability and organic growth through reputation systems and community accountability."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Networks Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Networks capability focuses on building trust-based human and data networks that compound value through reputation and reliability."
+        }
+    },
+    {
+        "title": "Communications",
+        "slug": "communications",
+        "one_liner": "Communication fails when context is missing.",
+        "description": "Communication is a closed-loop system, not a broadcast. Most communication systems are one-directional and poorly timed.",
+        "enables": [
+            "Faster alignment",
+            "Reduced misinterpretation",
+            "Meaningful interaction"
+        ],
+        "why_it_matters": "Noise increases. Meaning disappears.",
+        "applied_in": [
+            "nexocircle",
+            "telecallers",
+            "astrolife",
+            "marketresearchlabs"
+        ],
+        "hero": {
+            "headline": "Communication fails when context is missing.",
+            "subline": "Noise increases. Meaning disappears."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "One-directional",
+                "Poorly timed",
+                "Context-blind"
+            ],
+            "summary": "Most communication systems failed because they lack context."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": "Communication is a closed-loop system, not a broadcast."
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "Event-triggered messaging",
+                    "description": "Messages sent when they matter."
+                },
+                {
+                    "title": "Two-way flows",
+                    "description": "Listening as well as speaking."
+                },
+                {
+                    "title": "Voice + text orchestration",
+                    "description": "Using the right channel."
+                },
+                {
+                    "title": "Feedback-aware logic",
+                    "description": "Adapting based on response."
+                }
+            ]
+        },
+        "what_this_enables": [
+            "Faster alignment",
+            "Reduced misinterpretation",
+            "Meaningful interaction"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Good communication reduces friction everywhere."
+        },
+        "seo": {
+            "meta_title": "Communications Capability | Getconvi",
+            "meta_description": "Getconvi treats communication as a closed-loop system. We build for context and feedback, reducing noise and increasing alignment."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Communications Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Communications capability designs closed-loop messaging systems that prioritize context and feedback."
         }
     }
 ]

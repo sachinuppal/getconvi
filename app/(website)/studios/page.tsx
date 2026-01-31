@@ -17,6 +17,8 @@ const CATEGORIES: (CategorySlug | "All")[] = [
     "operations",
     "voice",
     "integration",
+    "networks",
+    "growth",
 ];
 
 export default function StudiosPage() {

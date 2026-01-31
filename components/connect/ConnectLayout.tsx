@@ -5,11 +5,40 @@ import { ArrowRight, Check } from "lucide-react";
 
 export default function ConnectLayout() {
     const [submitted, setSubmitted] = useState(false);
+    const [loading, setLoading] = useState(false);
+    const [error, setError] = useState<string | null>(null);
 
-    const handleSubmit = (e: React.FormEvent) => {
+    const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
-        setSubmitted(true);
-        // Integrate form backend here
+        setLoading(true);
+        setError(null);
+
+        const formData = new FormData(e.target as HTMLFormElement);
+        const data = {
+            name: formData.get("name"),
+            email: formData.get("email"),
+            message: formData.get("message"),
+            // Company is not in current form design, treating as optional in backend
+        };
+
+        try {
+            const response = await fetch("/api/contact", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(data),
+            });
+
+            if (!response.ok) {
+                throw new Error("Something went wrong. Please try again.");
+            }
+
+            setSubmitted(true);
+        } catch (err) {
+            setError("Failed to send message. Please try again.");
+            console.error(err);
+        } finally {
+            setLoading(false);
+        }
     };
 
     return (
@@ -53,21 +82,30 @@ export default function ConnectLayout() {
             <div className="lg:w-1/2 p-8 lg:p-16 flex flex-col justify-center bg-white">
                 {!submitted ? (
                     <form onSubmit={handleSubmit} className="max-w-md w-full mx-auto space-y-6">
+                        {error && (
+                            <div className="p-4 bg-red-50 text-red-600 text-sm rounded border border-red-100">
+                                {error}
+                            </div>
+                        )}
                         <div>
                             <label className="block text-xs font-mono uppercase tracking-widest text-gray-500 mb-2">Name</label>
-                            <input type="text" className="w-full p-4 bg-gray-50 border border-gray-200 rounded focus:border-black focus:ring-0 outline-none transition-colors" placeholder="Jane Doe" required />
+                            <input name="name" type="text" className="w-full p-4 bg-gray-50 border border-gray-200 rounded focus:border-black focus:ring-0 outline-none transition-colors" placeholder="Jane Doe" required />
                         </div>
                         <div>
                             <label className="block text-xs font-mono uppercase tracking-widest text-gray-500 mb-2">Work Email</label>
-                            <input type="email" className="w-full p-4 bg-gray-50 border border-gray-200 rounded focus:border-black focus:ring-0 outline-none transition-colors" placeholder="jane@company.com" required />
+                            <input name="email" type="email" className="w-full p-4 bg-gray-50 border border-gray-200 rounded focus:border-black focus:ring-0 outline-none transition-colors" placeholder="jane@company.com" required />
                         </div>
                         <div>
                             <label className="block text-xs font-mono uppercase tracking-widest text-gray-500 mb-2">What are you building?</label>
-                            <textarea rows={4} className="w-full p-4 bg-gray-50 border border-gray-200 rounded focus:border-black focus:ring-0 outline-none transition-colors" placeholder="Describe the outcome you need..." required />
+                            <textarea name="message" rows={4} className="w-full p-4 bg-gray-50 border border-gray-200 rounded focus:border-black focus:ring-0 outline-none transition-colors" placeholder="Describe the outcome you need..." required />
                         </div>
 
-                        <button type="submit" className="w-full py-4 bg-electric-blue text-white font-bold rounded hover:bg-blue-700 transition-colors flex items-center justify-center gap-2 group">
-                            Send Brief <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                        <button
+                            type="submit"
+                            disabled={loading}
+                            className="w-full py-4 bg-electric-blue text-white font-bold rounded hover:bg-blue-700 transition-colors flex items-center justify-center gap-2 group disabled:opacity-50 disabled:cursor-not-allowed"
+                        >
+                            {loading ? "Sending..." : "Send Brief"} {!loading && <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />}
                         </button>
 
                         <p className="text-xs text-center text-gray-400">

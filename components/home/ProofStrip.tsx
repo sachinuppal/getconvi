@@ -18,7 +18,7 @@ export default function ProofStrip({ stats = [] }: ProofStripProps) {
                     {/* Brand Logos (Static for now) */}
                     <div className="flex items-center gap-8 opacity-40 grayscale mix-blend-multiply font-heading font-bold text-xl tracking-tight text-black">
                         <span>EstateKart</span>
-                        <span>RevOps.ai</span>
+                        <span>Revenueable.ai</span>
                         <span>NexoCircle</span>
                     </div>
 
