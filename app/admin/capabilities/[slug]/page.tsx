@@ -18,7 +18,27 @@ const defaultCapability: Capability = {
     hero_image: { type: "image", url: "", alt_text: "" },
     applied_in: [],
     enables: [],
-    why_it_matters: ""
+    why_it_matters: "",
+    hero: {
+        headline: "",
+        subline: ""
+    },
+    deeper_problem: {
+        headline: "",
+        points: [],
+        summary: ""
+    },
+    point_of_view: {
+        headline: "",
+        content: ""
+    },
+    how_we_build: {
+        steps: []
+    },
+    what_this_enables: [],
+    why_this_compounds: {
+        description: ""
+    }
 };
 
 export default function CapabilityEditorPage({ params }: { params: Promise<{ slug: string }> }) {

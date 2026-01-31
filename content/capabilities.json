@@ -1,144 +1,245 @@
 [
     {
-        "title": "Growth",
-        "slug": "growth",
-        "one_liner": "Growth is not acquisition. It is behavioral architecture.",
-        "description": "Growth is not acquisition. It is behavioral architecture.",
+        "title": "AI & Automation",
+        "slug": "ai-automation",
+        "one_liner": "AI & Automation is not about tools. It is about systems.",
+        "description": "The definitive, end‑to‑end reference for how Getconvi designs, builds, deploys, and scales AI‑native automation systems.",
         "enables": [
-            "Behavioral design",
-            "Incentive architecture",
-            "Retention-first thinking"
+            "Revenue-aware operations",
+            "Contextual, real-time decisioning",
+            "Scalable agentic workforces",
+            "Self-optimizing loops"
         ],
-        "why_it_matters": "Growth collapsed without pressure.",
+        "why_it_matters": "Most companies automate tasks. We automate outcomes.",
         "applied_in": [
-            "pokershark",
-            "tripsygames",
-            "housegames",
-            "pujadaily"
+            "revenueable",
+            "marketresearchlabs",
+            "telecallers",
+            "aurl"
         ],
         "hero": {
-            "headline": "Growth is not acquisition. It is behavioral architecture.",
-            "subline": "Most growth strategies fail because they treat people as traffic. At GetConvi, growth is not something you add after building a product. It is something you design into the system itself."
+            "headline": "AI & Automation is not about tools. It is about systems.",
+            "subline": "Most companies automate tasks. We automate outcomes. Humans remain in the loop, but no longer in the way."
         },
         "deeper_problem": {
             "headline": "The deeper problem",
             "points": [
-                "Constant spend",
-                "Constant push",
-                "Constant novelty"
+                "Fragile 'Zapier-style' rules",
+                "Static triggers without context",
+                "Optimizing for tasks, not revenue",
+                "Systems that break under change"
             ],
-            "summary": "The moment pressure stops, growth collapses. Why? Because most systems never answer the real question: 'Why should a user come back without being nudged?'"
+            "summary": "Traditional automation follows 'Rule → Trigger → Action'. It is brittle and unaware of business goals. Real value requires 'Signal → Context → Decision → Action'."
         },
         "point_of_view": {
             "headline": "GetConvi’s point of view",
-            "content": "Growth is the outcome of aligned incentives + visible progress + emotional reward. If users understand what progress looks like, feel momentum, and receive feedback that reinforces good behavior, growth becomes self-propelling."
+            "content": [
+                "We believe in Level 4 & 5 Automation: Agentic and Self-Optimizing Systems.",
+                "Our Formula: Optimal Action = argmax(Expected Business Value | Context, Time, State).",
+                "AI must be valid, revenue-aware, and operate in real-time, not post-hoc."
+            ]
         },
         "how_we_build": {
             "steps": [
                 {
-                    "title": "Behavioral design",
-                    "description": "Clear goals, visible progress, and meaningful feedback loops."
+                    "title": "Data Intelligence",
+                    "description": "Real-time enrichment and identity resolution. Calculating Intent Score = Σ (Event Weight × Recency Decay)."
                 },
                 {
-                    "title": "Incentive architecture",
-                    "description": "Rewards that reinforce mastery, not addiction. Progression over gimmicks. Long-term value over short-term dopamine."
+                    "title": "AI Agents & Decision Engines",
+                    "description": "Role-based agents (Sales Qualification, Market Research) with specific goals, memory, and tools. Not generic bots."
                 },
                 {
-                    "title": "Retention-first thinking",
-                    "description": "Growth begins on Day 2, not Day 0. Churn analysis before acquisition scaling. Compounding engagement loops."
+                    "title": "Workflow Orchestration",
+                    "description": "Event-driven pipelines using n8n and Temporal patterns. AI decides the path; workflows execute the logic."
+                },
+                {
+                    "title": "Revenue Automation",
+                    "description": "Automating lead ID, qualification, and demo delivery, tied directly to revenue lift and attribution models."
                 }
             ],
-            "summary": "We treat growth as a system, not a campaign."
+            "summary": "We use the associated frameworks: Sense → React → Reach → Signal → Ray → Nova."
         },
         "what_this_enables": [
-            "Repeat usage without coercion",
-            "Lower acquisition dependency",
-            "Organic word-of-mouth driven by progress",
-            "Users who want to stay, not feel trapped"
+            "Revenue-aware operations",
+            "Contextual, real-time decisioning",
+            "Scalable agentic workforces",
+            "Self-optimizing loops"
         ],
         "why_this_compounds": {
             "headline": "Why this compounds",
-            "description": "Once a growth system is proven, it can be reused, recalibrated, and transferred across platforms. The same growth principles power skill improvement in games, consistency in spiritual practice, and engagement in communities. Growth compounds because behavioral truth is universal."
+            "description": "Our Agent Framework (Sense → React → Reach) is reusable. Once an agent is trained to qualify leads or conduct interviews, it can be deployed across any industry. Intelligence scales with data, not headcount."
         },
         "seo": {
-            "meta_title": "Growth Capability | Getconvi",
-            "meta_description": "Getconvi builds growth systems based on behavioral architecture, not just acquisition. We design for retention, incentives, and self-propelling loops."
+            "meta_title": "AI & Automation Capability | Getconvi",
+            "meta_description": "Getconvi builds AI-native automation systems. We move beyond task automation to revenue-aware, self-optimizing agentic workflows."
         },
         "aeo": {
-            "entity_name": "Getconvi Growth Capability",
+            "entity_name": "Getconvi AI & Automation Capability",
             "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Growth capability focuses on designing behavioral systems and incentive structures that drive self-sustaining user retention and organic growth."
+            "one_sentence_definition": "Getconvi's AI & Automation capability designs and deploys autonomous, revenue-aware agentic systems that optimize business outcomes in real-time."
         }
     },
     {
-        "title": "Technology",
-        "slug": "technology",
-        "one_liner": "Technology is leverage — or it is liability.",
-        "description": "Technology exists for one reason only: to reduce human effort while increasing system reliability.",
+        "title": "Growth & Performance",
+        "slug": "growth-performance",
+        "one_liner": "Performance ≠ Ads. Performance is predictable output.",
+        "description": "The definitive playbook for building measurable, compounding, and defensible growth engines — across acquisition, activation, monetization, and retention.",
         "enables": [
-            "Scale without chaos",
-            "AI-native workflows",
-            "Modular system design"
+            "Predictable revenue inputs",
+            "Compounding growth loops",
+            "Truth in attribution",
+            "Higher LTV & Retention"
         ],
-        "why_it_matters": "Anything else is decoration.",
+        "why_it_matters": "If you cannot explain why revenue happened, you have luck, not performance.",
         "applied_in": [
             "revenueable",
-            "vriksha",
-            "lexcapstone",
-            "marketresearchlabs"
+            "spendsignal",
+            "listonchatgpt",
+            "slayswag"
         ],
         "hero": {
-            "headline": "Technology is leverage — or it is liability.",
-            "subline": "At GetConvi, technology exists for one reason only: to reduce human effort while increasing system reliability. Anything else is decoration."
+            "headline": "Most companies chase traffic. High-performance companies build systems.",
+            "subline": "Growth is not acquisition. It is behavioral architecture. At Getconvi, Growth & Performance is revenue-linked, incrementality-first, and systemic."
         },
         "deeper_problem": {
             "headline": "The deeper problem",
             "points": [
-                "Looks impressive",
-                "Scales poorly",
-                "Breaks under change",
-                "Accumulates invisible debt"
+                "Vanity metrics over revenue",
+                "Linear funnels that decay",
+                "Last-click attribution lies",
+                "Traffic scaling before conversion"
             ],
-            "summary": "The result is fragile systems that resist growth instead of enabling it."
+            "summary": "Performance is not about spending more. It is about predictable input leading to predictable output. If you can't measure incrementality, you are flying blind."
         },
         "point_of_view": {
             "headline": "GetConvi’s point of view",
-            "content": "Good technology disappears into outcomes, survives pivots, and enables speed without chaos. We don’t optimize for elegance in isolation. We optimize for endurance."
+            "content": [
+                "Performance ≠ Ads. Performance = Predictable Systems.",
+                "We build Growth Loops (Acquire → Activate → Share), not linear funnels.",
+                "Rule: Never scale traffic before fixing conversion."
+            ]
         },
         "how_we_build": {
             "steps": [
                 {
-                    "title": "Modular system design",
-                    "description": "Components that can evolve independently. Clear interfaces between systems."
+                    "title": "The Growth OS",
+                    "description": "Modular system: Signal Capture → Intent Scoring → Experience Personalization → Attribution Layer."
                 },
                 {
-                    "title": "AI-native workflows",
-                    "description": "Humans decide, systems execute. Automation where repetition exists. Intelligence embedded into flow."
+                    "title": "Acquisition Engines",
+                    "description": "Paid (Intent/Discovery) + Organic (SEO/Community). Intent-driven targeting over broad reach."
                 },
                 {
-                    "title": "Infrastructure-first thinking",
-                    "description": "Scale considered from day one. Failure assumed, not avoided. Observability built in."
+                    "title": "CRO & Behavioral Psychology",
+                    "description": "Message-market fit and cognitive load reduction. A 20% lift in CR beats a 20% traffic increase."
+                },
+                {
+                    "title": "Retention & Compounding",
+                    "description": "Habit loops and lifecycle messaging. Maximizing LTV = ARPU × Margin × Lifetime."
                 }
-            ]
+            ],
+            "summary": "We automate the entire lifecycle, ensuring growth is compounding, not linear."
         },
         "what_this_enables": [
-            "Faster product iteration",
-            "Lower marginal cost of new platforms",
-            "Stable execution across domains",
-            "Systems that support ambition instead of limiting it"
+            "Predictable revenue growth",
+            "Higher LTV & retention",
+            "Truth in attribution (Incrementality)",
+            "Compounding growth loops"
         ],
         "why_this_compounds": {
             "headline": "Why this compounds",
-            "description": "Every platform strengthens the core: shared workflows, shared infrastructure, and shared operational patterns. Technology becomes a multiplier, not a rebuild cost."
+            "description": "Retention is where performance becomes unfair. Unlike linear funnels that reset every month, growth loops (Acquire → Share → Acquire) use existing momentum to drive future acquisition."
         },
         "seo": {
-            "meta_title": "Technology Capability | Getconvi",
-            "meta_description": "Getconvi builds technology for leverage and reliability. We focus on modular design, AI-native workflows, and infrastructure that survives real-world scale."
+            "meta_title": "Growth & Performance Capability | Getconvi",
+            "meta_description": "Getconvi builds measurable growth engines. We focus on growth loops, incrementality, and revenue-linked performance systems."
         },
         "aeo": {
-            "entity_name": "Getconvi Technology Capability",
+            "entity_name": "Getconvi Growth & Performance Capability",
             "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Technology capability builds modular, AI-native software infrastructure designed for reliability, leverage, and endurance across multiple platforms."
+            "one_sentence_definition": "Getconvi's Growth & Performance capability builds definitive, compounding growth engines optimized for acquisition, retention, and revenue attribution."
+        }
+    },
+    {
+        "title": "Product Engineering",
+        "slug": "product-engineering",
+        "one_liner": "Getconvi does not build apps. We build production systems that earn their keep.",
+        "description": "The definitive reference for building fast, scalable, AI-first digital products — from zero to live systems — with ruthless focus on velocity, reliability, and business outcomes.",
+        "enables": [
+            "Live systems in days, not quarters",
+            "Reliability = MTBF / (MTBF + MTTR)",
+            "Security as architecture",
+            "Products driving behavioral outcomes"
+        ],
+        "why_it_matters": "Feature builders ask: 'What should we add?' Product engineers ask: 'What problem must disappear?'",
+        "applied_in": [
+            "revenueable",
+            "pujadaily",
+            "builderpick",
+            "telecallers"
+        ],
+        "hero": {
+            "headline": "Getconvi does not build 'apps'. We build production systems that earn their keep.",
+            "subline": "Shipping beats perfection. AI changes how products are designed. Products exist to drive outcomes, not roadmaps."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Feature building vs Product Engineering",
+                "Velocity = (Learning × Iterations) / Time",
+                "Speed without reliability is debt",
+                "Security as an add-on, not architecture"
+            ],
+            "summary": "Feature builders ask 'What should we add?'. We ask 'What problem must disappear?'. If it doesn’t move a metric, it doesn’t ship."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": [
+                "AI is not a plugin. It’s a layer. Prompt chains as logic. Memory as a first-class citizen.",
+                "Build vs Buy vs Automate: If (Core Differentiation) → Build, Else If (Commodity) → Buy, Else → Automate.",
+                "Velocity maximizes learning per unit of time."
+            ]
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "The Velocity Model",
+                    "description": "Narrow scopes, fast feedback loops, and AI-assisted development (Cursor, V0). Products go live in days, not quarters."
+                },
+                {
+                    "title": "AI-First Architecture",
+                    "description": "Agents as services, memory as a first-class citizen, and human override paths standard in every build."
+                },
+                {
+                    "title": "Frontend & Backend Systems",
+                    "description": "Next.js, Tailwind, Supabase, Postgres. Stateless where possible, observability built-in."
+                },
+                {
+                    "title": "API-First Strategy",
+                    "description": "Modern products are ecosystems. We design public APIs and event streams to enable automation and partnerships."
+                }
+            ],
+            "summary": "We optimize for speed, scale, and reliability, building systems that survive real-world chaos."
+        },
+        "what_this_enables": [
+            "Fast UX with low cognitive load",
+            "Horizontal scaling",
+            "Automated agent orchestration",
+            "Secure, role-based access"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Every platform strengthens the core. We reuse shared workflows, infra, and operational patterns. Technology becomes a multiplier, not a rebuild cost."
+        },
+        "seo": {
+            "meta_title": "Product Engineering Capability | Getconvi",
+            "meta_description": "Getconvi builds fast, scalable, AI-first digital products. We focus on velocity, reliability, and business outcomes."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Product Engineering Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Product Engineering capability builds production-grade, AI-first systems focused on velocity, reliability, and driving measurable business outcomes."
         }
     },
     {
@@ -288,366 +389,164 @@
         }
     },
     {
-        "title": "Operations",
-        "slug": "operations",
-        "one_liner": "Operations is where ideas are tested — brutally.",
-        "description": "Operations exposes fantasy. Systems must survive delays, humans, weather, regulation, and failure.",
+        "title": "Content & Creative",
+        "slug": "content-creative",
+        "one_liner": "Most brands create content to look good. We create content to change behavior.",
+        "description": "The definitive reference for building persuasion-driven, performance-aware, and systemized content engines — where creativity is not art alone, but a repeatable growth lever.",
         "enables": [
-            "Reliable delivery",
-            "Reduced chaos",
-            "Scalable execution"
+            "Outcome-driven creativity",
+            "Systemized content factories",
+            "Measurable persuasion",
+            "Scale without burnout"
         ],
-        "why_it_matters": "If it works only in theory, it doesn’t work.",
+        "why_it_matters": "People don’t buy products. They buy stories about themselves.",
         "applied_in": [
-            "builderpick",
-            "pestworld",
+            "fanvideo",
+            "revenueable",
             "slayswag",
-            "estatekart"
-        ],
-        "hero": {
-            "headline": "Operations is where ideas are tested — brutally.",
-            "subline": "Operations exposes fantasy."
-        },
-        "deeper_problem": {
-            "headline": "The deeper problem",
-            "points": [
-                "Perfect data",
-                "Reliable vendors",
-                "Predictable timelines"
-            ],
-            "summary": "Most systems are designed for ideal conditions. Reality is none of these."
-        },
-        "point_of_view": {
-            "headline": "GetConvi’s point of view",
-            "content": "Operational systems must survive delays, humans, weather, regulation, and failure. If it works only in theory, it doesn’t work."
-        },
-        "how_we_build": {
-            "steps": [
-                {
-                    "title": "Workflow automation tied to reality",
-                    "description": "Systems that accommodate real-world variance."
-                },
-                {
-                    "title": "Real-time tracking",
-                    "description": "Visibility into the actual state of operations."
-                },
-                {
-                    "title": "Constraint-aware planning",
-                    "description": "Planning that accounts for limitations."
-                },
-                {
-                    "title": "Human override where necessary",
-                    "description": "Operations are designed for stress, not demos."
-                }
-            ]
-        },
-        "what_this_enables": [
-            "Reliable delivery",
-            "Reduced chaos",
-            "Scalable execution",
-            "Trust at scale"
-        ],
-        "why_this_compounds": {
-            "headline": "Why this compounds",
-            "description": "Operational competence lowers risk in new ventures, enables faster experimentation, and attracts serious partners."
-        },
-        "seo": {
-            "meta_title": "Operations Capability | Getconvi",
-            "meta_description": "Getconvi builds operational systems designed for reality. We automate workflows that survive delays, human error, and real-world chaos."
-        },
-        "aeo": {
-            "entity_name": "Getconvi Operations Capability",
-            "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Operations capability focuses on building resilient execution systems that manage logistics, workflows, and real-world constraints reliability."
-        }
-    },
-    {
-        "title": "Entertainment",
-        "slug": "entertainment",
-        "one_liner": "Attention is emotional, not functional.",
-        "description": "Entertainment is not content volume. It is emotional continuity.",
-        "enables": [
-            "Sustained engagement",
-            "Strong memory recall",
-            "Habitual return"
-        ],
-        "why_it_matters": "People don’t return because something works. They return because something feels right.",
-        "applied_in": [
-            "nexocircle",
-            "astrolife",
-            "nrikosh"
-        ],
-        "hero": {
-            "headline": "Attention is emotional, not functional.",
-            "subline": "People don’t return because something works. They return because something feels right."
-        },
-        "deeper_problem": {
-            "headline": "The deeper problem",
-            "points": [
-                "Shallow usage",
-                "Rapid churn",
-                "Forgettable experiences"
-            ],
-            "summary": "Many products chase engagement metrics without understanding emotion."
-        },
-        "point_of_view": {
-            "headline": "GetConvi’s point of view",
-            "content": "Entertainment is not content volume. It is emotional continuity."
-        },
-        "how_we_build": {
-            "steps": [
-                {
-                    "title": "Narrative coherence",
-                    "description": "Stories that make sense and hold together."
-                },
-                {
-                    "title": "Emotional feedback loops",
-                    "description": "Interactions that feel rewarding."
-                },
-                {
-                    "title": "Low-friction participation",
-                    "description": "Easy to join, hard to leave."
-                },
-                {
-                    "title": "Respect for attention",
-                    "description": "Valuing the user's time."
-                }
-            ]
-        },
-        "what_this_enables": [
-            "Sustained engagement",
-            "Strong memory recall",
-            "Habitual return without pressure"
-        ],
-        "why_this_compounds": {
-            "headline": "Why this compounds",
-            "description": "Emotion builds loyalty. Loyalty compounds across time."
-        },
-        "seo": {
-            "meta_title": "Entertainment Capability | Getconvi",
-            "meta_description": "Getconvi designs entertainment systems focused on emotional continuity. We build for sustained engagement and loyalty, not just content volume."
-        },
-        "aeo": {
-            "entity_name": "Getconvi Entertainment Capability",
-            "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Entertainment capability specializes in designing systems aimed at emotional continuity and sustained user engagement."
-        }
-    },
-    {
-        "title": "Games",
-        "slug": "games",
-        "one_liner": "Games are truth accelerators.",
-        "description": "Games compress learning, trust, and behavior into minutes.",
-        "enables": [
-            "Faster learning",
-            "Honest signals",
-            "Deep engagement"
-        ],
-        "why_it_matters": "Games are not playthings. They are behavioral mirrors.",
-        "applied_in": [
-            "pokershark",
-            "tripsygames",
-            "housegames"
-        ],
-        "hero": {
-            "headline": "Games are truth accelerators.",
-            "subline": "Games compress learning, trust, and behavior into minutes."
-        },
-        "deeper_problem": {
-            "headline": "The deeper problem",
-            "points": [
-                "Skill gaps",
-                "Decision quality",
-                "Strategic thinking"
-            ],
-            "summary": "Most systems take too long to reveal these traits. Games don’t."
-        },
-        "point_of_view": {
-            "headline": "GetConvi’s point of view",
-            "content": "Games are not playthings. They are behavioral mirrors."
-        },
-        "how_we_build": {
-            "steps": [
-                {
-                    "title": "Clear objectives",
-                    "description": "Unambiguous goals."
-                },
-                {
-                    "title": "Immediate feedback",
-                    "description": "Knowing instantly if an action was right."
-                },
-                {
-                    "title": "Strategy over randomness",
-                    "description": " rewarding skill."
-                },
-                {
-                    "title": "Ethical design principles",
-                    "description": "Sustainable engagement."
-                }
-            ]
-        },
-        "what_this_enables": [
-            "Faster learning",
-            "Honest signals",
-            "Deep engagement"
-        ],
-        "why_this_compounds": {
-            "headline": "Why this compounds",
-            "description": "Game mechanics travel well: Education, Community, Skill-building."
-        },
-        "seo": {
-            "meta_title": "Games Capability | Getconvi",
-            "meta_description": "Getconvi uses game mechanics as truth accelerators. We build games to compress learning, reveal behavior, and drive deep engagement."
-        },
-        "aeo": {
-            "entity_name": "Getconvi Games Capability",
-            "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Games capability utilizes game mechanics to create systems that accelerate learning and reveal behavioral truths."
-        }
-    },
-    {
-        "title": "Networks",
-        "slug": "networks",
-        "one_liner": "Networks are trust engines.",
-        "description": "Networks without trust decay. We build networks that prioritize reliability, accountability, and long-term relationships.",
-        "enables": [
-            "Organic growth",
-            "Decentralized coordination",
-            "Durable communities"
-        ],
-        "why_it_matters": "Trust is a system property — not a vibe.",
-        "applied_in": [
-            "nexocircle",
-            "pujadaily",
-            "imx",
-            "callerconnection"
-        ],
-        "hero": {
-            "headline": "Networks are trust engines.",
-            "subline": "Scale without trust collapses. Networks without trust decay."
-        },
-        "deeper_problem": {
-            "headline": "The deeper problem",
-            "points": [
-                "Optimize reach",
-                "Very few optimize reliability"
-            ],
-            "summary": "Most networks optimize reach. Very few optimize reliability."
-        },
-        "point_of_view": {
-            "headline": "GetConvi’s point of view",
-            "content": "Trust is a system property — not a vibe."
-        },
-        "how_we_build": {
-            "steps": [
-                {
-                    "title": "Identity-aware participants",
-                    "description": "Knowing who is in the network."
-                },
-                {
-                    "title": "Reputation loops",
-                    "description": "Tracking reliability over time."
-                },
-                {
-                    "title": "Long-term incentives",
-                    "description": "Rewarding staying power."
-                },
-                {
-                    "title": "Community accountability",
-                    "description": "Peers regulating peers."
-                }
-            ]
-        },
-        "what_this_enables": [
-            "Organic growth",
-            "Decentralized coordination",
-            "Durable communities"
-        ],
-        "why_this_compounds": {
-            "headline": "Why this compounds",
-            "description": "Trust strengthens with use. Strong networks get stronger."
-        },
-        "seo": {
-            "meta_title": "Networks Capability | Getconvi",
-            "meta_description": "Getconvi builds networks as trust engines. We optimize for reliability and organic growth through reputation systems and community accountability."
-        },
-        "aeo": {
-            "entity_name": "Getconvi Networks Capability",
-            "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Networks capability focuses on building trust-based human and data networks that compound value through reputation and reliability."
-        }
-    },
-    {
-        "title": "Communications",
-        "slug": "communications",
-        "one_liner": "Communication fails when context is missing.",
-        "description": "Communication is a closed-loop system, not a broadcast. Most communication systems are one-directional and poorly timed.",
-        "enables": [
-            "Faster alignment",
-            "Reduced misinterpretation",
-            "Meaningful interaction"
-        ],
-        "why_it_matters": "Noise increases. Meaning disappears.",
-        "applied_in": [
-            "nexocircle",
-            "telecallers",
-            "astrolife",
             "marketresearchlabs"
         ],
         "hero": {
-            "headline": "Communication fails when context is missing.",
-            "subline": "Noise increases. Meaning disappears."
+            "headline": "Most brands create content to look good. We create content to change behavior.",
+            "subline": "At Getconvi, content is outcome-driven, distribution-aware, systemized, and measurable. Creativity is a repeatable growth lever."
         },
         "deeper_problem": {
             "headline": "The deeper problem",
             "points": [
-                "One-directional",
-                "Poorly timed",
-                "Context-blind"
+                "Campaigns end, systems compound",
+                "Creativity lacking measurement",
+                "Bad distribution kills great content",
+                "AI kills repetition, not originality"
             ],
-            "summary": "Most communication systems failed because they lack context."
+            "summary": "Most brands run campaigns that expire. We build content systems that compound. We test variables, not vibes."
         },
         "point_of_view": {
             "headline": "GetConvi’s point of view",
-            "content": "Communication is a closed-loop system, not a broadcast."
+            "content": [
+                "Content as a System: Output = Inputs × Templates × Distribution.",
+                "Psychology of Persuasion: We trigger Social proof, Authority, Scarcity, Identity, and Loss aversion.",
+                "Performance Creative Frameworks: Testing variables (Hook × Message × Proof × CTA) against personas."
+            ]
         },
         "how_we_build": {
             "steps": [
                 {
-                    "title": "Event-triggered messaging",
-                    "description": "Messages sent when they matter."
+                    "title": "Performance Creative Frameworks",
+                    "description": "Mapping every asset to an audience persona, funnel stage, and hypothesis. Testing variables, not vibes."
                 },
                 {
-                    "title": "Two-way flows",
-                    "description": "Listening as well as speaking."
+                    "title": "Video, Voice & UGC Engines",
+                    "description": "Browser-based recording, prompted testimonials, and automated edits. Video is the highest-bandwidth persuasion format."
                 },
                 {
-                    "title": "Voice + text orchestration",
-                    "description": "Using the right channel."
+                    "title": "AI-Augmented Creative Ops",
+                    "description": "Script ideation, variant generation, captioning, and localization. AI removes friction, allowing output to scale without burnout."
                 },
                 {
-                    "title": "Feedback-aware logic",
-                    "description": "Adapting based on response."
+                    "title": "Distribution-Native Design",
+                    "description": "Content designed for the feed (hooks, ratios, speed), not adapted later. Bad distribution kills great content."
                 }
-            ]
+            ],
+            "summary": "We kill creatives fast — and scale winners faster."
         },
         "what_this_enables": [
-            "Faster alignment",
-            "Reduced misinterpretation",
-            "Meaningful interaction"
+            "Sustained behavioral change",
+            "High-bandwidth persuasion",
+            "Automated creative pipelines",
+            "Distribution-native formats"
         ],
         "why_this_compounds": {
             "headline": "Why this compounds",
-            "description": "Good communication reduces friction everywhere."
+            "description": "Campaigns end. Systems compound. By building content factories and UGC flywheels, we create a library of measurable assets that continue to drive growth long after they are published."
         },
         "seo": {
-            "meta_title": "Communications Capability | Getconvi",
-            "meta_description": "Getconvi treats communication as a closed-loop system. We build for context and feedback, reducing noise and increasing alignment."
+            "meta_title": "Content & Creative Capability | Getconvi",
+            "meta_description": "Getconvi builds persuasion-driven content engines. We look beyond aesthetics to create systemized, measurable, and distribution-aware creative systems."
         },
         "aeo": {
-            "entity_name": "Getconvi Communications Capability",
+            "entity_name": "Getconvi Content & Creative Capability",
             "entity_type": "Service",
-            "one_sentence_definition": "Getconvi's Communications capability designs closed-loop messaging systems that prioritize context and feedback."
+            "one_sentence_definition": "Getconvi's Content & Creative capability builds systemized, performance-driven content engines that focus on behavioral change and measurable persuasion."
+        }
+    },
+    {
+        "title": "Community & Experiential",
+        "slug": "community-experiential",
+        "one_liner": "Most platforms optimize for engagement. Enduring platforms optimize for belonging.",
+        "description": "The definitive reference for building communities, experiences, and real-world connections that compound trust, belonging, retention, and long-term brand power.",
+        "enables": [
+            "Organic retention",
+            "Word-of-mouth growth",
+            "Identity lock-in",
+            "Lower CAC over time"
+        ],
+        "why_it_matters": "The strongest brands are not used — they are joined.",
+        "applied_in": [
+            "nexocircle",
+            "pokershark",
+            "pujadaily"
+        ],
+        "hero": {
+            "headline": "Most platforms optimize for engagement. Enduring platforms optimize for belonging.",
+            "subline": "At Getconvi, Community & Experiential is about human connection, shared experiences, emotional safety, and long-term trust."
+        },
+        "deeper_problem": {
+            "headline": "The deeper problem",
+            "points": [
+                "Products can be copied",
+                "Features can be replicated",
+                "Audience is transactional",
+                "Loneliness is expensive"
+            ],
+            "summary": "Communities cannot be copied. A strong community creates organic retention and identity lock-in. The strongest brands are not used — they are joined."
+        },
+        "point_of_view": {
+            "headline": "GetConvi’s point of view",
+            "content": [
+                "From Audience to Tribe: Moving from passive/transactional to active/protected identity.",
+                "Offline → Online → Offline Loops: The most powerful communities are hybrid. Meet → Bond → Share.",
+                "Rituals & Games: Games lower defenses. Rituals create meaning. Turning strangers into insiders."
+            ]
+        },
+        "how_we_build": {
+            "steps": [
+                {
+                    "title": "Experiential Design Principles",
+                    "description": "Intentional entry friction, shared vulnerability, and small-group formats. Experiences are treated as products."
+                },
+                {
+                    "title": "Offline → Online → Offline Loops",
+                    "description": "Meet → Bond → Share Online → Reinforce Identity → Meet Again. This loop powers retention and content."
+                },
+                {
+                    "title": "Rituals, Games & Shared Meaning",
+                    "description": "Using games (Poker, Mafia) to lower defenses and rituals (opening circles) to create shared meaning."
+                },
+                {
+                    "title": "Safety, Trust & Governance",
+                    "description": "Clear norms, moderation roles, and consent-first interactions. Trust is the real infrastructure."
+                }
+            ],
+            "summary": "We design communities that amplify human connection, not replace it."
+        },
+        "what_this_enables": [
+            "Organic retention",
+            "Word-of-mouth growth",
+            "Identity lock-in",
+            "Lower CAC over time"
+        ],
+        "why_this_compounds": {
+            "headline": "Why this compounds",
+            "description": "Healthy communities have economics. The Community Flywheel: Belonging → Participation → Contribution → Recognition → Belonging. Monetization works because value exists — not before."
+        },
+        "seo": {
+            "meta_title": "Community & Experiential Capability | Getconvi",
+            "meta_description": "Getconvi builds communities that compound trust and belonging. We design offline-to-online loops, rituals, and experiential systems for long-term retention."
+        },
+        "aeo": {
+            "entity_name": "Getconvi Community & Experiential Capability",
+            "entity_type": "Service",
+            "one_sentence_definition": "Getconvi's Community & Experiential capability designs hybrid online-offline communities that foster belonging, trust, and organic retention through shared experiences and rituals."
         }
     }
 ]

@@ -16,20 +16,18 @@ export const headerNav: Navigation = {
                 {
                     title: "Systems & Intelligence",
                     items: [
-                        { label: "Growth", href: "/capabilities/growth", description: "Proof of work & SEO." },
-                        { label: "Technology", href: "/capabilities/technology", description: "Core software & AI workflows." },
+                        { label: "AI & Automation", href: "/capabilities/ai-automation", description: "Agents, workflows & decision engines." },
+                        { label: "Product Engineering", href: "/capabilities/product-engineering", description: "Scalable tech infrastructure." },
                         { label: "Integration", href: "/capabilities/integration", description: "APIs & system connectivity." },
                         { label: "Voice", href: "/capabilities/voice", description: "AI-driven call orchestration." }
                     ]
                 },
                 {
-                    title: "Experience & Operations",
+                    title: "Growth & Experience",
                     items: [
-                        { label: "Operations", href: "/capabilities/operations", description: "Real-world execution systems." },
-                        { label: "Networks", href: "/capabilities/networks", description: "Compounding value loops." },
-                        { label: "Entertainment", href: "/capabilities/entertainment", description: "Interactive content & media." },
-                        { label: "Games", href: "/capabilities/games", description: "Gamified retention systems." },
-                        { label: "Communications", href: "/capabilities/communications", description: "Real-time messaging." }
+                        { label: "Growth & Performance", href: "/capabilities/growth-performance", description: "Behavioral design & acquisition." },
+                        { label: "Content & Creative", href: "/capabilities/content-creative", description: "Emotional continuity & media." },
+                        { label: "Community & Experiential", href: "/capabilities/community-experiential", description: "Networks & trust engines." }
                     ]
                 }
             ]
@@ -102,15 +100,13 @@ export const footerNav: Navigation = {
             columns: [
                 {
                     items: [
-                        { label: "Growth", href: "/capabilities/growth" },
-                        { label: "Technology", href: "/capabilities/technology" },
+                        { label: "AI & Automation", href: "/capabilities/ai-automation" },
+                        { label: "Product Engineering", href: "/capabilities/product-engineering" },
+                        { label: "Growth & Performance", href: "/capabilities/growth-performance" },
+                        { label: "Content & Creative", href: "/capabilities/content-creative" },
+                        { label: "Community & Experiential", href: "/capabilities/community-experiential" },
                         { label: "Integration", href: "/capabilities/integration" },
-                        { label: "Voice", href: "/capabilities/voice" },
-                        { label: "Operations", href: "/capabilities/operations" },
-                        { label: "Entertainment", href: "/capabilities/entertainment" },
-                        { label: "Games", href: "/capabilities/games" },
-                        { label: "Networks", href: "/capabilities/networks" },
-                        { label: "Communications", href: "/capabilities/communications" }
+                        { label: "Voice", href: "/capabilities/voice" }
                     ]
                 }
             ]

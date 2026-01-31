@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "title": "The Getconvi POV Manifesto",
+        "description": "This is a point of view on how modern businesses should be built, scaled, and sustained."
+    },
+    "hero": {
+        "headline": "This is not a services manifesto.",
+        "subline": "This is a point of view on how modern businesses should be built, scaled, and sustained."
+    },
+    "problem": {
+        "headline": "We Believe the Old Playbooks Are Broken",
+        "points": [
+            "Marketing became noisy.",
+            "Products became bloated.",
+            "Technology became fragmented.",
+            "Communities became shallow."
+        ],
+        "description": "Most companies are busy running campaigns instead of systems, shipping features instead of outcomes, and collecting data instead of insight. Growth slowed. Trust eroded. Costs rose. This is not a talent problem. It is a systems problem."
+    },
+    "core_belief": {
+        "headline": "Our Core Belief",
+        "statement": "The future belongs to companies that operate as living systems — not departments.",
+        "points": [
+            "Sense in real time",
+            "Decide intelligently",
+            "Act autonomously",
+            "Learn continuously",
+            "Compound trust and value"
+        ],
+        "subtext": "Getconvi exists to build those systems."
+    },
+    "forces": [
+        {
+            "id": "ai-automation",
+            "title": "AI & Automation",
+            "subtitle": "From Tasks to Decisions",
+            "description": "Automation is no longer about saving time. It is about making better decisions faster than humans alone can.",
+            "beliefs": [
+                "AI should be outcome-aware",
+                "Agents should be role-based",
+                "Automation should touch revenue, not just ops"
+            ],
+            "conclusion": "AI is the nervous system. Not the brain."
+        },
+        {
+            "id": "growth-performance",
+            "title": "Growth & Performance",
+            "subtitle": "From Hope to Predictability",
+            "description": "Growth without attribution is storytelling. Performance without incrementality is self-deception.",
+            "beliefs": [
+                "Growth must be explainable",
+                "CAC must pay back",
+                "Attribution must tell the truth — even when it’s uncomfortable"
+            ],
+            "conclusion": "Growth is not about more spend. It is about better systems."
+        },
+        {
+            "id": "product-engineering",
+            "title": "Product Engineering",
+            "subtitle": "From Roadmaps to Reality",
+            "description": "The market does not reward plans. It rewards shipping.",
+            "beliefs": [
+                "Speed is a competitive advantage",
+                "Architecture must enable learning",
+                "AI changes how products are designed"
+            ],
+            "conclusion": "Shipping is strategy."
+        },
+        {
+            "id": "content-creative",
+            "title": "Content & Creative",
+            "subtitle": "From Noise to Persuasion",
+            "description": "Content is not decoration. It is applied psychology.",
+            "beliefs": [
+                "Creativity must change behavior",
+                "Distribution must be designed upfront",
+                "Storytelling must be repeatable"
+            ],
+            "conclusion": "Great creative does not shout louder. It resonates deeper."
+        },
+        {
+            "id": "community-experiential",
+            "title": "Community & Experiential",
+            "subtitle": "From Users to Belonging",
+            "description": "Retention is not built in dashboards. It is built in human connection.",
+            "beliefs": [
+                "Belonging beats engagement",
+                "Experiences beat features",
+                "Communities are the ultimate moat"
+            ],
+            "conclusion": "The strongest brands are not followed. They are joined."
+        }
+    ],
+    "system_model": {
+        "headline": "The Getconvi System",
+        "subline": "How It All Connects",
+        "steps": [
+            "Sense",
+            "Decide",
+            "Act",
+            "Learn",
+            "Belong",
+            "Grow"
+        ],
+        "description": "AI senses signals. Automation decides actions. Products deliver value. Content persuades. Community compounds trust. Growth becomes inevitable. This is not theory. It is already live across our platforms."
+    },
+    "promise": {
+        "headline": "Our Promise",
+        "points": [
+            "We do not sell tactics.",
+            "We do not chase trends.",
+            "We do not optimize vanity."
+        ],
+        "values": [
+            {
+                "label": "Systems",
+                "vs": "over campaigns"
+            },
+            {
+                "label": "Outcomes",
+                "vs": "over outputs"
+            },
+            {
+                "label": "Trust",
+                "vs": "over tricks"
+            },
+            {
+                "label": "Long-term advantage",
+                "vs": "over short-term hacks"
+            }
+        ]
+    },
+    "audience": {
+        "headline": "Who This Is For",
+        "points": [
+            "Founders who want leverage, not chaos",
+            "Teams tired of disconnected tools",
+            "Businesses ready to compound, not spike",
+            "Builders who care about truth, speed, and people"
+        ],
+        "disclaimer": "If you want quick hacks, we are not for you."
+    },
+    "future": {
+        "headline": "The Future We’re Building",
+        "points": [
+            "AI works quietly in the background",
+            "Growth is measurable and calm",
+            "Products evolve with users",
+            "Content feels human again",
+            "Communities replace funnels"
+        ],
+        "closing": "This is not the next trend. This is the next operating system for business."
+    },
+    "cta": {
+        "headline": "This Is Getconvi",
+        "subline": "We don’t just connect tools. We connect intelligence, systems, and people.",
+        "statement": "Getconvi is where AI, growth, products, creativity, and community converge — into one living system."
+    }
+}
