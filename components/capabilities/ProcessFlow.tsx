@@ -9,7 +9,7 @@ export default function ProcessFlow({ data }: { data: Capability }) {
                 </h2>
 
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-                    {data.flow?.map((step) => (
+                    {data.flow?.map((step: { step: string; title: string; outcome: string }) => (
                         <div key={step.step} className="relative pl-6 border-l border-white/20">
                             <div className="text-xs font-mono text-electric-blue mb-4">{step.step}</div>
                             <h3 className="text-xl font-bold mb-2">{step.title}</h3>

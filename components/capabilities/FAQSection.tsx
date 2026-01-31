@@ -9,7 +9,7 @@ export default function FAQSection({ data }: { data: Capability }) {
                 </h2>
 
                 <div className="space-y-6">
-                    {data.faqs?.map((faq, idx) => (
+                    {data.faqs?.map((faq: { question: string; answer: string }, idx: number) => (
                         <div key={idx} className="bg-white p-6 rounded border border-gray-200">
                             <h3 className="font-medium text-lg mb-3">{faq.question}</h3>
                             <p className="text-gray-600 text-sm leading-relaxed">

@@ -9,7 +9,7 @@ export default function ContextualProof({ data }: { data: Capability }) {
                 </h2>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    {data.proof?.map((item, idx) => (
+                    {data.proof?.map((item: { project: string; whatChanged: string; result: string }, idx: number) => (
                         <div key={idx} className="bg-white p-8 rounded border border-gray-100 shadow-sm">
                             <div className="text-xs font-mono text-gray-400 mb-6 uppercase">{item.project}</div>
                             <div className="mb-4">

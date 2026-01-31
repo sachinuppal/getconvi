@@ -9,7 +9,7 @@ export default function SystemOutputs({ data }: { data: Capability }) {
                 </h2>
 
                 <div className="space-y-8">
-                    {data.outputs?.map((output, idx) => (
+                    {data.outputs?.map((output: { name: string; description: string }, idx: number) => (
                         <div key={idx} className="group border-b border-gray-100 pb-8 last:border-0 hover:pl-4 transition-all duration-300">
                             <h3 className="text-2xl font-heading font-bold text-black group-hover:text-electric-blue transition-colors mb-2">
                                 {output.name}

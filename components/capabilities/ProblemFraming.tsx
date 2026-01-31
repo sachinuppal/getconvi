@@ -13,7 +13,7 @@ export default function ProblemFraming({ data }: { data: Capability }) {
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    {data.problem?.points?.map((point, idx) => (
+                    {data.problem?.points?.map((point: string, idx: number) => (
                         <div key={idx} className="flex gap-4">
                             <span className="text-gray-300 font-mono">0{idx + 1}</span>
                             <p className="text-lg text-gray-700 leading-snug">{point}</p>
