@@ -24,7 +24,7 @@ export default function CapabilityHero({ data }: { data: Capability }) {
                 </h1>
 
                 <p className="text-xl md:text-2xl text-gray-300 font-light leading-relaxed border-l-2 border-electric-pink pl-6">
-                    {data.hero?.subhead || data.description}
+                    {data.hero?.subline || data.description}
                 </p>
             </div>
         </section>
