@@ -11,7 +11,7 @@ export default function AudienceCheck({ data }: { data: Capability }) {
                         Ideal For
                     </h3>
                     <ul className="space-y-4">
-                        {data.audience?.for?.map((item, idx) => (
+                        {data.audience?.for?.map((item: string, idx: number) => (
                             <li key={idx} className="text-gray-700 text-sm border-l-2 border-green-100 pl-4">
                                 {item}
                             </li>
@@ -25,7 +25,7 @@ export default function AudienceCheck({ data }: { data: Capability }) {
                         Not For
                     </h3>
                     <ul className="space-y-4">
-                        {data.audience?.notFor?.map((item, idx) => (
+                        {data.audience?.notFor?.map((item: string, idx: number) => (
                             <li key={idx} className="text-gray-500 text-sm border-l-2 border-gray-100 pl-4">
                                 {item}
                             </li>
